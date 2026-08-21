@@ -36,11 +36,13 @@ Do not add an end merely to satisfy a schema. An instantaneous or unresolved eve
 
 ## AP epoch
 
-Year `0 AP` is defined by the event named “Amiasovo proroctví” / “Amias's Prophecy.” This epoch fact does not create an event record during bootstrap. Structured `year_ap` values are signed integers: negative before the epoch, `0` at the epoch, and positive after the epoch. This provides one chronology without a separate system for years before 0.
+Year `0 pAP` begins on day 1 of `prvenec`. This calendar boundary defines the start of year 0; it is not the instant at which Amiasovo proroctví occurred. Structured `year_ap` values are signed integers: negative before year 0, `0` within year 0, and positive after year 0. This provides one chronology without a separate system for earlier years.
 
-In Czech human-facing text, write the absolute year number followed by `přPA` for a year before the epoch and `poPA` for a year after it. For example, system values `-200` and `200` are rendered as `200 přPA` and `200 poPA`. The epoch itself remains `0 AP`.
+Amiasovo proroctví occurred during year 0, but its exact day is not known. The year was named after the event later. These facts do not require creating an event record now, and no more precise date may be inferred.
 
-The epoch corresponds approximately to year 0 AD only as an orientation aid for technological and social analogy. It is not an exact conversion rule.
+In Czech human-facing text, write the absolute year number followed by `přPA` for a year before the epoch and `poPA` for a year after it. For example, system values `-200` and `200` are rendered as `200 přPA` and `200 poPA`. The epoch year itself is written `0 pAP`.
+
+Year 0 corresponds approximately to year 0 AD only as an orientation aid for technological and social analogy. It is not an exact conversion rule.
 
 ## Ages
 

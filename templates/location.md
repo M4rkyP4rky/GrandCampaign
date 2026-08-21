@@ -8,14 +8,22 @@ names:
     language_or_context: <optional language or context>
     valid_time:
       description: <optional temporal validity>
-physical_parent: <relative link to physical parent location>
+    sources:
+      - <relative link supporting this name block>
+physical_parent:
+  location: <relative link to physical parent location>
+  sources:
+    - <relative link supporting this relationship>
 snapshots:
   - <relative link to a location snapshot>
-provenance:
-  - source: <relative link to source>
-    note: <what the source supports>
 ---
 
 # <reference name>
 
+## Description
+
 <Stable physical and identity description; keep time-dependent state in snapshots.>
+
+Sources:
+
+- [<source label>](<relative path>) — <what this source supports in this section>

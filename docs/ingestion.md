@@ -5,8 +5,9 @@ Ingestion is a future reviewed workflow, not an implemented tool:
 1. Preserve the incoming material as raw source data under the appropriate [`sources/`](../sources/) area.
 2. Inspect existing records and identify referenced existing entities before proposing new IDs.
 3. Identify candidate new entities, events, campaigns, accounts, and snapshots without assuming every name is a distinct entity or every session is an event.
-4. Derive or update the smallest appropriate records, retaining provenance, contradiction, uncertainty, and original language.
-5. Review the complete Git diff for unsupported facts, accidental source edits, broken relative links, and manufactured precision.
+4. Derive or update the smallest appropriate records, giving every factual section or meaningful block identifiable supporting sources and retaining contradiction, uncertainty, and original language.
+5. Add statement-level attribution where disputes, contradictions, mixed sourcing within a section, or attribution of a particular claim require it.
+6. Review the complete Git diff for unsupported or insufficiently sourced facts, accidental source edits, broken relative links, and manufactured precision.
 
 Never silently edit raw sources. Corrections or normalizations belong in derived records with provenance, while the preserved evidence remains unchanged.
 

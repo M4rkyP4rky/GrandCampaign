@@ -79,6 +79,10 @@ calendar:
     weekday: neděle
 year_numbering:
   epoch_year: 0
+  epoch_year_start:
+    month_number: 1
+    month_name: prvenec
+    day: 1
   system:
     field: year_ap
     representation: signed_integer
@@ -87,4 +91,10 @@ year_numbering:
   human_czech:
     before_epoch_suffix: přPA
     after_epoch_suffix: poPA
-    epoch_label: 0 AP
+    epoch_label: 0 pAP
+  naming_event:
+    name: Amiasovo proroctví
+    year_ap: 0
+    day: unknown
+    year_named_after_event_later: true
+    event_record_required_now: false

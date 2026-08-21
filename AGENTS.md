@@ -10,6 +10,7 @@ This repository is the persistent, Git-versioned source of knowledge for multipl
 - Preserve conflicting accounts; never silently reconcile them into one history.
 - Never rewrite raw material under `sources/` to make derived records cleaner.
 - Preserve uncertainty and the precision of the source.
+- Give every derived factual section or meaningful content block identifiable supporting sources; use statement-level attribution when ambiguity, dispute, or conflicting sourcing requires it.
 - Inspect existing records before assigning a new entity, event, campaign, or snapshot ID.
 - Every persistent record has a permanent, readable ASCII ID with a type prefix. Renaming a record does not change its ID.
 - Keep identity, time-dependent state, and events distinct.
@@ -32,7 +33,7 @@ Start with [docs/index.md](docs/index.md), then read only the documentation rele
 ## Working rules
 
 1. Read the relevant governance document and inspect related existing records.
-2. Trace derived content to repository sources where possible.
+2. Trace derived factual content to repository sources at section or meaningful-block granularity at minimum.
 3. Add or update the smallest appropriate record without manufacturing missing values.
 4. Keep raw evidence separate from derived records and perspectives.
 5. Update governing documentation when an explicitly approved model rule changes; do not rely on chat memory.

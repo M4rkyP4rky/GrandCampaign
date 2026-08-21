@@ -4,14 +4,12 @@ These decisions are deliberately unresolved. Do not infer answers from convenien
 
 ## Calendar and chronology
 
-- What exact fictional date or instant begins year 0 AP, beyond its association with “Amiasovo proroctví” / “Amias's Prophecy”?
 - Should the provisional structured-date precision vocabulary be finalized or revised after representative records are tested?
 - What evidence, if any, will define the boundaries of the seven Ages?
 
 ## Provenance and authority
 
 - What precedence, if any, applies among raw materials, campaign accounts, in-world traditions, and GM reconstructions?
-- How granular must provenance be: whole-record, section, statement, or a later claim model?
 - How should direct quotation, paraphrase, transcription corrections, and redactions be represented?
 - How should competing GM reconstructions or later revisions be retained?
 

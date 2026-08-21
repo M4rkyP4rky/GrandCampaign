@@ -15,8 +15,35 @@ A record can link multiple accounts. Contradictions are valid archive data. Pres
 
 Use plain language for uncertainty and retain the source's precision. Distinguish “not recorded,” “unknown,” “approximate,” and “disputed” when that difference is supported. Do not convert absence of evidence into a factual negative.
 
-Provenance can be represented minimally as a list of source links with a note explaining what each source supports. Event records may separately list accounts by kind and source. The templates demonstrate this without defining a claim database.
+## Required granularity
+
+Whole-record source lists may be retained as useful discovery metadata, but they do not by themselves provide sufficient provenance for derived factual content. The minimum required granularity is a meaningful content block or Markdown section. A reader must be able to identify which source or sources support each derived factual block or section.
+
+A simple section-level pattern is sufficient when its scope is unambiguous:
+
+```markdown
+## <Section title>
+
+<Derived factual content supported by the sources below.>
+
+Sources:
+
+- [<source label>](<relative path>) — <what this source supports in the section>
+```
+
+Structured metadata can meet the same rule by placing source links within the relevant mapping or list item, or by pointing to a clearly scoped sourced section that supports the values. A record-level source list alone is not a substitute.
+
+Use statement-level provenance when section-level attribution would be ambiguous, especially when:
+
+- a claim is disputed or uncertain;
+- different accounts contradict one another;
+- statements within one section come from different sources;
+- preserving who made a particular claim or interpretation matters.
+
+Do not add a citation to every ordinary sentence when a section-level source attribution is unambiguous. Event records may list accounts by kind and source, providing statement- or account-level attribution where needed.
+
+Do not introduce an atomic claim database, claim IDs, or another complex claim model at this stage. A more granular claim model remains possible later if representative real data demonstrates a need for it.
 
 ## Intentionally unresolved authority
 
-The relative authority and precedence of raw sources, campaign accounts, traditions, and GM reconstructions has not been designed. There is no source-ranking algorithm and no automatic winner in a conflict. This is an explicit open question in [open-questions.md](open-questions.md); future rules require review and approval before being added to governance documentation.
+The relative authority and precedence of raw sources, campaign accounts, traditions, and GM reconstructions has not been designed. There is no source-ranking algorithm and no automatic winner in a conflict. Questions about quotation, paraphrase, corrections, redactions, and competing or revised reconstructions also remain unresolved. These are explicit questions in [open-questions.md](open-questions.md); future rules require review and approval before being added to governance documentation.

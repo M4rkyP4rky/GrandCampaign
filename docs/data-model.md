@@ -31,6 +31,8 @@ names:
     language_or_context: <optional language or cultural context>
     valid_time:
       description: <optional human-readable temporal validity>
+    sources:
+      - <relative link supporting this name block>
 ```
 
 Omit optional keys when unsupported. Different names do not by themselves imply different entities. Preserve original spellings, languages, quotations, and campaign terminology.
@@ -48,4 +50,4 @@ An ID is the machine-stable identity; a Markdown link provides navigability; the
 - An **event** describes a temporally situated development, normally as an interval, and may link affected entities or locations.
 - A **session** is source context for play and is not automatically an historical event.
 
-Keep these roles separate. Do not place an assumed universal “current state” in a historical identity record. Provenance belongs with every derived statement or section for which its basis matters; detailed source ranking remains unresolved.
+Keep these roles separate. Do not place an assumed universal “current state” in a historical identity record. Every derived factual Markdown section or meaningful content block must identify its supporting source or sources. Use statement-level attribution when section-level sourcing would be ambiguous, disputed, contradictory, or insufficient to preserve who made a claim. Whole-record source lists are optional metadata, not sufficient provenance for derived facts; when retained, use the explicit `record_sources` field. Detailed source ranking remains unresolved; see [provenance model](provenance-model.md).
