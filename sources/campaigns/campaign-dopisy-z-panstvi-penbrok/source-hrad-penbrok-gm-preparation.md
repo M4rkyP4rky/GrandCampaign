@@ -27,6 +27,12 @@ docx_package_metadata:
   revision: 3
   pages_reported: 2
   words_reported: 620
+curator_corrections:
+  - field: composed_map_marker_position
+    locator: text key 16 "Čapí hnízdo" and final map page
+    source_value: marker 16 omitted from the drawing layer
+    corrected_value: marker 16 belongs in the tower above markers 11 and 15
+    provenance: curator-supplied correction during curation review on 2026-08-21
 ---
 
 # Hrad Penbrok — GM preparation
@@ -50,7 +56,7 @@ Provenance:
 | Statements about what Lawrence, Nicholas, the bandits, Cecily, or Kirsten know, believe, want, or intend | Prepared NPC knowledge, motivation, or intention. An intention is not an event that occurred. |
 | Conditional language such as `Pokud se to nezmění` | Planned or contingent future development. It is not materialized as a played event. |
 | Dice chances such as `2z6`, `4z6`, and `1z6`, plus tactical reactions and attack options | Game procedure or random possibility, not fictional history. |
-| `Jjkk`, the unfinished sentence under `Pozvánky`, and the duplicated final heading `Žába na pramen` | Draft or incomplete source material. No missing completion is invented. |
+| `Jjkk` and the unfinished sentence under `Pozvánky` | Draft or incomplete source material. No missing completion is invented. |
 | Numbered headings and the composed final map | Adventure-local keyed reference material. Significant location state is materialized selectively; ordinary room and tactical detail remains addressable in this source. |
 
 Source:
@@ -78,20 +84,21 @@ The DOCX's `Heading 1` style is automatically numbered. These source-native head
 | 13 | `Žaba na prameni` | Hidden creature and water-contamination mechanism. |
 | 14 | `Tenká příčka` | Adventure-local structural detail. |
 | 15 | `Tekutý poklad` | Ordinary room contents. |
-| 16 | `Čapí hnízdo` | Adventure-local encounter detail; no corresponding key marker was found in the composed map layer. |
-| 17 | `Žába na pramen` | Trailing duplicate-like heading attached to the drawing paragraph; its intended relationship to key 13 is unresolved. |
+| 16 | `Čapí hnízdo` | Adventure-local encounter detail. Marker 16 is omitted from the raw drawing layer; the curator placed it in the tower above markers 11 and 15. |
+| 17 | Final map paragraph | Not an independent textual key. The composed drawing paragraph is styled `Heading 1`, so Word's automatic numbering assigns it 17; `Žába na pramen` is one of the drawing-layer labels within that paragraph. |
 
 ## Map and visual addressability
 
 The DOCX package reports two pages. Its final drawing paragraph forms the map page: a base castle elevation and multi-level floor-plan JPEG (`word/media/image3.jpeg`) is combined with Word drawing-layer objects. The drawing layer supplies key markers 1–15, stairs and route marks, and labels including `Vyhořelá laboratoř`, `Vyhořelá ložnice`, `Panská ložnice`, `Brána`, `Zbrojnice`, `Cisterna`, `Sklepní skladiště`, `Vinný sklep`, `Ubikace`, `Hostinské pokoje`, `Kuchyně`, `Spíže`, `Sál`, and `Stáje`.
 
-The base JPEG alone is not exported as the archive map because it omits the Word overlay layer. The preserved DOCX is therefore the authoritative composed visual source. Retrieve it by the final map page together with the numbered headings above. The absence of map markers 16–17 and the duplicate-like trailing heading are tracked in the curation queue rather than repaired in the raw file.
+The base JPEG alone is not exported as the archive map because it omits the Word overlay layer. The preserved DOCX is therefore the authoritative composed visual source. Retrieve it by the final map page together with textual keys 1–16 above. The raw map contains markers 1–15 but no marker 16. The curator supplied the omitted intended position: marker 16 belongs in the tower above markers 11 and 15. This correction is recorded in metadata and is not drawn into the preserved source. The apparent key 17 is an automatic number applied to the final map paragraph because that paragraph uses the heading style; it is not a second `Žába na pramen` textual entry.
 
 During ingestion, the embedded base JPEG was visually inspected and the complete drawing layer was structurally enumerated from the DOCX package. A full-page raster render could not be produced because LibreOffice is not installed in the available document runtime; therefore the composed page was not falsely claimed to have passed raster-layout QA. The original DOCX retains the complete composition.
 
 Source:
 
 - [Preserved GM preparation](000-Hrad-Penbrok.docx) — final map page, embedded image, drawing labels, arrows, and numbered key markers.
+- Curator-supplied correction during curation review on 2026-08-21 — intended position of omitted marker 16.
 
 ## Prepared baseline and later play
 
@@ -99,13 +106,16 @@ The source prepares Nicholas and his bandits as occupying Penbrok, with Lawrence
 
 The prepared source identifies the tower being as an `ohnivec` trapped by Florence's unfinished ritual. Yann's played account interprets it as a manifestation of the Sluneční panna. The archive retains both the prepared GM identification and Yann's religious interpretation; it does not rewrite one into the other.
 
-The prepared explanation of the invitation-and-sleep curse closely matches the ambiguous explanation in the player notes. It establishes the explanation as part of the GM baseline but does not establish when the player learned it or whether Yann knew it during `Sezení 2`.
+The prepared explanation of the invitation-and-sleep curse closely matches the gossip explanation in the player notes. It independently establishes the hidden GM baseline; the curator clarified that Yann learned the shorter, not-entirely-true version as gossip during `Sezení 2`.
+
+The vampire in the hidden background under `Panoš a koně` is unnamed in the DOCX. The curator identified that being as Lord Ruthwen. This identity decision links Ruthwen to Kirsten's earlier invitation and Edward's attempt to exclude him without altering the source's unnamed wording or implying that the player characters knew the identity at that time.
 
 Sources:
 
 - [Preserved GM preparation](000-Hrad-Penbrok.docx) — prepared occupation and headings `Panoš a koně`, `Loupeživý rytíř`, `Rukujmí`, and `Ohnivec`.
 - [Raw correspondence](Penbrok.xml) — sections `Dobytí Penbroku` and `Hladovějící z Willowburnu`, for later played outcomes and Yann's interpretation.
-- [Player notes](Penbrok-hracske-poznamky.md) — `Sezení 2` and `Sezení 4`, for the ambiguous curse explanation and played handling of the tower being.
+- [Player notes](Penbrok-hracske-poznamky.md) — `Sezení 2` and `Sezení 4`, for Yann's gossip account and played handling of the tower being.
+- [Ruthwen identity resolution](../../../curation/resolved.md#curation-penbrok-009--identity-of-the-vampire-in-the-prepared-curse-backstory) — curator-supplied identity of the unnamed prepared vampire.
 
 ## Deliberately source-local material
 
@@ -113,7 +123,7 @@ The archive does not create independent records for every keyed room, ordinary a
 
 Source:
 
-- [Preserved GM preparation](000-Hrad-Penbrok.docx) — keys 1–17.
+- [Preserved GM preparation](000-Hrad-Penbrok.docx) — textual keys 1–16 and the auto-numbered final map paragraph.
 
 ## Import trace
 

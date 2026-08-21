@@ -10,6 +10,7 @@ locations:
   - location: ../entities/locations/location-darkwood.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md
 entities:
   - entity: ../entities/beings/person-yann-du-bois.md
     sources:
@@ -41,9 +42,10 @@ accounts:
 
 ## Description
 
-Yann says that the group entered Ruthwen's residence, found Kristen, released several imprisoned women, and escaped through underground passages to an abandoned military camp. He interprets Kristen's condition as a vampiric transformation caused by Ruthwen and expresses uncertainty about whether she would harm people in the camp.
+Yann says that the group entered Ruthwen's castle at Darkwood, found Kristen, released several imprisoned women, and escaped through underground passages to an abandoned military camp. He interprets Kristen's condition as a vampiric transformation caused by Ruthwen and expresses uncertainty about whether she would harm people in the camp.
 
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — sections `Upír` and `Dívky a dámy v nesnázích`.
 - [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 7` and `Sezení 8`, a more detailed player account of the escape.
+- [Player-notes source metadata](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md#curator-corrections) — curator-supplied clarification that Darkwood is the castle throughout.

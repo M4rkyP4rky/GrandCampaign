@@ -21,11 +21,20 @@ Sources:
 
 ## Account frame
 
-Yann addresses the letters to Blanche Renardová and recounts the conduct of a group centered on Nathaniel Hargreve and Oswyn Waldergrave in and around the Penbrok estate. His praise, condemnation, religious interpretation, speculation, omissions, and reports of what others said remain attributable to him.
+Yann addresses the letters to Blanche Renardová and recounts the conduct of a group centered on Nathaniel Hargreve and Oswyn Waldegrave in and around the Penbrok estate. His praise, condemnation, religious interpretation, speculation, omissions, and reports of what others said remain attributable to him.
 
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — the addressee, recurring participants, geographic focus, and Yann's narrative framing throughout the ten sections.
+
+## Geographic terminology
+
+`Penbrokton` always denotes the village adjacent to the castle. `Penbrok` can denote either the castle (`Hrad Penbrok`) or, where the context concerns the political domain, the estate (`Panství Penbrok`). The phrases `obsadili jsme Penbrok`, `po příjezdu na Penbrok`, and `okolí Penbroku` refer to the castle or its immediate vicinity rather than asserting control of the estate. Full control of the estate was not established during play.
+
+Provenance:
+
+- Curator-supplied referent and play-state clarification during curation review on 2026-08-21.
+- [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — the contextual uses being clarified; the source wording remains unchanged.
 
 ## Player-notes frame
 

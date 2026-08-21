@@ -15,6 +15,11 @@ epistemic_roles:
   - campaign_account
   - character_testimony
 curator_corrections:
+  - field: character_surname
+    locator: section "Příjezd", phrase "Oswyna Waldergravea"
+    source_value: Waldergrave
+    corrected_value: Waldegrave
+    provenance: curator-supplied correction during curation review on 2026-08-21
   - field: real_world_session_date
     locator: section "Prokletý klášter"
     source_value: "22.2.2023"
@@ -71,12 +76,15 @@ Source:
 
 ## Curator corrections
 
+In section `Příjezd`, the first full-name occurrence gives `Oswyna Waldergravea`; the curator confirmed that the correct surname is `Waldegrave`. The raw wording remains unchanged, while derived records use the corrected surname and preserve `Waldergrave` as an erroneous source form.
+
 For `Prokletý klášter`, the raw source states `22.2.2023`; the curator-confirmed real-world session date is 2023-05-17. For `Hořkosladké vítězství`, the raw source states `21.4.20234`; the curator-confirmed real-world session date is 2024-04-21. The raw values remain in the XML and in the table above, while derived uses of real-world session dates use the corrected values.
 
 Provenance:
 
-- [Raw MediaWiki export](Penbrok.xml) — source-stated values at sections `Prokletý klášter` and `Hořkosladké vítězství`.
-- Curator-supplied corrections accompanying the consolidation request on 2026-08-21 — corrected values and their status as real-world session dates.
+- [Raw MediaWiki export](Penbrok.xml) — the source-stated surname in `Příjezd` and date values at sections `Prokletý klášter` and `Hořkosladké vítězství`.
+- Curator-supplied correction during curation review on 2026-08-21 — `Waldegrave` as Oswyn's correct surname.
+- Curator-supplied corrections accompanying the consolidation request on 2026-08-21 — corrected date values and their status as real-world session dates.
 
 ## Temporal separation
 

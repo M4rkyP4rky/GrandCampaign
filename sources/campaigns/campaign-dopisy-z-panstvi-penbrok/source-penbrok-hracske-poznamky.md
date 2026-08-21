@@ -18,6 +18,12 @@ epistemic_roles:
   - player_hypothesis
   - player_plan
   - gm_meta
+curator_corrections:
+  - field: darkwood_location_and_occupants
+    locator: section "Sezení 6", phrase "ve vesnici na jih Darkwood (68) jsou vesničané"
+    source_value: Darkwood described as a village and its occupants as villagers
+    corrected_value: Darkwood is a castle and the people described are its inhabitants
+    provenance: curator-supplied correction during curation review on 2026-08-21
 ---
 
 # Penbrok — hráčské poznámky
@@ -43,14 +49,26 @@ The following rules preserve the distinctions expressed within the notes. A bloc
 | Explicit formulations such as `Yann tvrdí`, `Yann konstatoval`, `jsem si jistý`, `myslí si`, `zjistili jsme od`, and `prý` | Character belief, interpretation, memory, or hearsay with the qualifier retained. |
 | `otázka je`, `pravděpodobně`, `asi`, `Hypotéza`, `mám myslím`, and similar uncertainty markers | Player or character hypothesis/uncertain interpretation according to the local wording; never an established external fact. |
 | Prospective or authoring notes such as `TBD`, `detaily jsou na mně`, `Na začátku rozhlásit`, `Využít`, `Seberu`, and `Příští sezení` | Player plan, reminder, or unresolved authoring prompt; not evidence that the planned action occurred. |
-| `Sezení 2` / `Prokletí - ne úplně pravdivá pověst` | The explanation closely matches hidden pre-play material in the separate GM preparation. That GM source can support the prepared baseline, but the player-notes block does not establish when the player learned it or whether Yann knew it. It is therefore not attributed to Yann without further evidence. |
+| `Sezení 2` / `Prokletí - ne úplně pravdivá pověst` | Gossip learned by Yann during this session. It told him that a wizard had botched a protection against uninvited entrants, producing the long sleep. This is character hearsay explicitly framed as not entirely true, not objective GM truth; the separate GM preparation independently supports the hidden baseline. |
 | `Sezení 4` / `Rekapitulace` / `Co postavy neví` | Explicit GM/meta information outside all player-character knowledge. The following sentence about the vampire, Kristen, Edward, and Neveah must not be attributed to Yann or the other characters. |
+| `Sezení 5` / visit to Neveah | Yann learned about Kirsten's involvement with a vampire during this visit. This curator-confirmed knowledge point does not by itself give Yann every detail in the earlier `Co postavy neví` block or identify the vampire as a particular being. |
 | `Sezení 6` / Sir Desmond / `šméčkař a vejtaha ... ale to Oswyn neví` | Player/meta aside with explicitly limited character knowledge; it does not establish Oswyn's knowledge and does not by itself establish Yann's. |
 | `Sezení 10` / `Epilog` | Outcome/epilogue notes from the player level. They may support an account of the played epilogue, but their narrative framing is not automatically Yann's contemporaneous knowledge. |
 
 Source:
 
 - [Preserved player notes](Penbrok-hracske-poznamky.md) — the cited session blocks and wording signals.
+- Curator-supplied character-knowledge clarification during curation review on 2026-08-21 — Yann learned the generic curse explanation as gossip during `Sezení 2`.
+- Curator-supplied character-knowledge clarification during curation review on 2026-08-21 — Yann learned about Kirsten and a vampire during the `Sezení 5` visit to Neveah.
+
+## Curator corrections
+
+In `Sezení 6`, the phrase `ve vesnici na jih Darkwood (68) jsou vesničané` incorrectly describes Darkwood as a village and the people there as villagers. The curator confirmed that Darkwood is a castle throughout and that these people are its inhabitants. The raw player notes remain unchanged; derived records use the corrected referent.
+
+Provenance:
+
+- [Preserved player notes](Penbrok-hracske-poznamky.md) — source-stated wording in `Sezení 6`.
+- Curator-supplied correction during curation review on 2026-08-21 — Darkwood as a castle and the referenced people as its inhabitants.
 
 ## Content-based session mapping
 

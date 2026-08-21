@@ -36,10 +36,20 @@ Sources:
 
 - [Raw correspondence](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — sections `Upír`, `Dívky a dámy v nesnázích`, `Vrátila se snad válka?`, and `Hořkosladké vítězství`.
 
+## Yann's knowledge timeline
+
+Yann learned about Kirsten's involvement with a vampire during `Sezení 5`, when the group visited Neveah. This establishes that knowledge point but does not establish that Yann then knew every hidden detail about Edward, the curse's origin, Neveah's earlier actions, or the vampire's identity.
+
+Sources:
+
+- [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 5`, visit to Neveah and her explanation that Kirsten was involved with a vampire.
+- Curator-supplied character-knowledge clarification during curation review on 2026-08-21 — timing and attribution to Yann.
+
 ## Prepared hidden backstory
 
-The GM preparation identifies Kirsten as Edward's wife, says she invited the vampire whom Edward wanted excluded, later admitted the alchemist Florence to help with the resulting curse, and eventually left the castle after Florence's death. These are hidden prepared backstory claims and do not establish that Yann or another character knew them at the start of play.
+The GM preparation identifies Kirsten as Edward's wife, says she invited an unnamed vampire whom Edward wanted excluded, later admitted the alchemist Florence to help with the resulting curse, and eventually left the castle after Florence's death. The curator identified that unnamed vampire as Lord Ruthwen. The source-stated backstory and curator-supplied identity remain distinct and do not establish that Yann or another character knew them at the start of play.
 
 Sources:
 
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx) — hidden background under key 4 `Panoš a koně`.
+- [Curation resolution](../../curation/resolved.md#curation-penbrok-009--identity-of-the-vampire-in-the-prepared-curse-backstory) — curator-supplied identification of the unnamed vampire as Lord Ruthwen.

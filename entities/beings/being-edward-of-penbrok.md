@@ -18,11 +18,12 @@ names:
 
 ## Prepared backstory
 
-The GM preparation presents Edward as Kirsten's husband and a former resident or lord of Penbrok. It says he commissioned a wandering wizard to prevent a vampire from visiting his wife, producing the invitation-and-sleep curse, and that Edward later fell on a battlefield. No exact fictional dates are supplied, and the hidden backstory does not establish player-character knowledge.
+The GM preparation presents Edward as Kirsten's husband and a former resident or lord of Penbrok. It says he commissioned a wandering wizard to prevent an unnamed vampire from visiting his wife, producing the invitation-and-sleep curse, and that Edward later fell on a battlefield. The curator identified that vampire as Lord Ruthwen. No exact fictional dates are supplied, and neither the hidden backstory nor the later identity decision establishes player-character knowledge at the time.
 
 Sources:
 
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx) — heading `Panoš a koně`, hidden curse-background blocks.
+- [Curation resolution](../../curation/resolved.md#curation-penbrok-009--identity-of-the-vampire-in-the-prepared-curse-backstory) — curator-supplied identification of the unnamed vampire as Lord Ruthwen.
 
 ## Played-source mention
 

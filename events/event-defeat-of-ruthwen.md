@@ -6,6 +6,12 @@ time:
   description: Fictional date is not recorded; Yann describes a nighttime confrontation in a monastery ending at or before dawn, during the siege of Penbrok.
   sources:
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+locations:
+  - location: ../entities/locations/location-hamswic.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+      - ../curation/resolved.md#curation-penbrok-005--identity-of-the-two-monasteries
 entities:
   - entity: ../entities/beings/person-lord-ruthwen.md
     sources:
@@ -37,9 +43,10 @@ accounts:
 
 ## Description
 
-Yann reports that Nathaniel and Oswyn prepared a mirror-based trap in an abandoned monastery and lured Ruthwen there. He says the group defeated Ruthwen with Kristen's supernatural help and fire associated with the Sluneční panna, and that Kristen remained on holy ground until dawn and was freed from Ruthwen's influence. The account's vampiric mechanics, religious causation, and claim of final death are not independently reconstructed.
+Yann reports that Nathaniel and Oswyn prepared a mirror-based trap in the monastery Hamswic and lured Ruthwen there. He says the group defeated Ruthwen with Kristen's supernatural help and fire associated with the Sluneční panna, and that Kristen remained on holy ground until dawn and was freed from Ruthwen's influence. The name `Hamswic` and its identity with the earlier monastery are curator-supplied; the account's vampiric mechanics, religious causation, and claim of final death are not independently reconstructed.
 
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — setup in `Vrátila se snad válka?` and outcome in `Hořkosladké vítězství`.
 - [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 9` and `Sezení 10`, preserving the account's supernatural interpretation.
+- [Curation resolution](../curation/resolved.md#curation-penbrok-005--identity-of-the-two-monasteries) — curator-supplied monastery name and equivalence with the earlier site.

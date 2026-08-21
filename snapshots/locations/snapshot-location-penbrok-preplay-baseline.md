@@ -8,9 +8,10 @@ time:
   sources:
     - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx
 state:
-  description: Nicholas and his bandits occupy the fortress; Lawrence serves him, Cecily is held hostage and affected by the sleep curse, a fire being is trapped in a tower, and a giant frog contaminates the cistern water. These are prepared and partly hidden conditions, not a claim that every planned encounter occurred.
+  description: Nicholas and his bandits occupy the fortress; Lawrence serves him, Cecily is held hostage and affected by the sleep curse, a fire being is trapped in a tower, and a giant frog contaminates the cistern water. The curse arose from Edward's attempt to exclude the vampire whom Kirsten invited; the curator identifies that vampire as Lord Ruthwen. These are prepared and partly hidden conditions, not a claim that every planned encounter occurred or that player characters knew the backstory.
   sources:
     - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx
+    - ../../curation/resolved.md#curation-penbrok-009--identity-of-the-vampire-in-the-prepared-curse-backstory
 ---
 
 # Penbrok — prepared pre-play baseline
@@ -25,8 +26,9 @@ Sources:
 
 ## Hidden prepared state
 
-The source prepares an invitation-based curse that causes uninvited entrants who sleep after entering the inner courtyard to remain apparently lifeless for days. It also prepares a giant frog in the cistern whose skin contaminates the water and distorts perception, and an `ohnivec` trapped in a tower after Florence's fatal experiment. These are GM-level baseline claims and do not imply character knowledge or discovery during play.
+The source prepares an invitation-based curse that causes uninvited entrants who sleep after entering the inner courtyard to remain apparently lifeless for days. Edward commissioned the protection to exclude an unnamed vampire whom Kirsten invited; the curator identifies that vampire as Lord Ruthwen. The source also prepares a giant frog in the cistern whose skin contaminates the water and distorts perception, and an `ohnivec` trapped in a tower after Florence's fatal experiment. These are GM-level baseline claims plus a separately attributed curator identity decision; they do not imply character knowledge or discovery during play.
 
 Sources:
 
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx) — hidden background under key 4 `Panoš a koně`, key 11 `Ohnivec`, and key 13 `Žaba na prameni`.
+- [Curation resolution](../../curation/resolved.md#curation-penbrok-009--identity-of-the-vampire-in-the-prepared-curse-backstory) — curator-supplied identification of the unnamed vampire as Lord Ruthwen.

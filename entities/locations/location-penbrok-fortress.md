@@ -16,11 +16,12 @@ snapshots:
 
 ## Description
 
-In several concrete passages, Yann uses `Penbrok` for a fortified residence described variously as a tvrz, pevnost, or hrad with walls, chambers, towers, and underground spaces. The wider source also uses `Penbrok` in ways that may denote the estate or its vicinity; this location record covers only the fortified residence and does not silently merge it with the political estate or nearby Penbrokton.
+`Penbrok` is a context-dependent name that can denote this fortified residence or the political estate recorded separately as `Panství Penbrok`. The phrases `obsadili jsme Penbrok`, `po příjezdu na Penbrok`, and `okolí Penbroku` refer to the castle or its immediate vicinity. The residence is described as a tvrz, pevnost, or hrad with walls, chambers, towers, and underground spaces. This record denotes only the castle and does not merge it with the estate or adjacent Penbrokton.
 
 Sources:
 
 - [Raw correspondence](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — descriptions in `Dobytí Penbroku`, `Hladovějící z Willowburnu`, and `Vrátila se snad válka?`.
+- [Campaign geographic terminology](../../campaigns/campaign-dopisy-z-panstvi-penbrok.md#geographic-terminology) — curator-supplied clarification of the contextual referents.
 
 ## Physical description
 

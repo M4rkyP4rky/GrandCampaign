@@ -16,6 +16,7 @@ locations:
   - location: ../entities/locations/location-darkwood.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md
 entities:
   - entity: ../entities/beings/person-kristen-penbrok.md
     sources:
@@ -44,9 +45,11 @@ accounts:
 
 ## Description
 
-Yann's letters gradually report a search for the missing Kristen. He withholds or labels some early conclusions as speculation, later says the witch Neveah provided sensitive information he would not disclose, and describes an encounter with a bird-like forest woman and a lead from Desmond before claiming the group found Kristen at Darkwood. The record preserves those omissions, uncertainty, and attributions rather than reconstructing the missing route or chronology.
+Yann's letters gradually report a search for the missing Kristen. He withholds or labels some early conclusions as speculation, later says the witch Neveah provided sensitive information he would not disclose, and describes an encounter with a bird-like forest woman and a lead from Desmond before claiming the group found Kristen at Darkwood. The player notes and curator clarification establish that Yann learned of Kirsten's involvement with a vampire during the `Sezení 5` visit to Neveah; they do not thereby establish every hidden detail or the vampire's identity. The record preserves the remaining omissions, uncertainty, and attributions rather than reconstructing the missing route or chronology.
 
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — sections `Dobytí Penbroku`, `Hladovějící z Willowburnu`, `Prokletý klášter`, `Paní vran`, and `Upír`.
 - [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 3` through `Sezení 7`, with hypotheses and GM/meta knowledge kept distinct from the played account.
+- [Player-notes source metadata](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md#curator-corrections) — curator-supplied clarification that the Darkwood destination is the castle.
+- Curator-supplied character-knowledge clarification during curation review on 2026-08-21 — Yann learned about Kirsten and a vampire during the `Sezení 5` visit to Neveah.

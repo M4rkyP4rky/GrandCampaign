@@ -3,7 +3,7 @@ id: event-adrian-house-ordeal
 record_type: event
 reference_name: Střet v Adrianově domě
 time:
-  description: Fictional date and duration are not recorded; Yann places the incident after the group's arrival in the Penbrok region and before its confrontation with Nikolas.
+  description: Fictional date and duration are not recorded; Yann places the incident while the group was traveling toward the Penbrok castle and before its confrontation with Nikolas.
   sources:
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 entities:
