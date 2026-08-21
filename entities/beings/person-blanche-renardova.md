@@ -1,6 +1,6 @@
 ---
 id: person-blanche-renardova
-record_type: person
+record_type: being
 reference_name: Blanche Renardová
 names:
   - name: Blanche Renardová

@@ -1,6 +1,6 @@
 ---
 id: person-oswyn-waldergrave
-record_type: person
+record_type: being
 reference_name: Oswyn Waldergrave
 names:
   - name: Oswyn Waldergrave

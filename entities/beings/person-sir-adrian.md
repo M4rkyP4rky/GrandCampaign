@@ -1,6 +1,6 @@
 ---
 id: person-sir-adrian
-record_type: person
+record_type: being
 reference_name: Sir Adrian
 names:
   - name: Sir Adrian

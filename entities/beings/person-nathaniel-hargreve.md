@@ -1,6 +1,6 @@
 ---
 id: person-nathaniel-hargreve
-record_type: person
+record_type: being
 reference_name: Nathaniel Hargreve
 names:
   - name: Nathaniel Hargreve

@@ -1,6 +1,6 @@
 ---
 id: person-barbra
-record_type: person
+record_type: being
 reference_name: Barbra
 names:
   - name: Barbra

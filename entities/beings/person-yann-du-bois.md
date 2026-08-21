@@ -1,6 +1,6 @@
 ---
 id: person-yann-du-bois
-record_type: person
+record_type: being
 reference_name: Yann du Bois
 names:
   - name: Yann du Bois

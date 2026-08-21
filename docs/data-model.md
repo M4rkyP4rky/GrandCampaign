@@ -15,12 +15,13 @@ Use readable YAML:
 
 ## Stable identity
 
-Every persistent record has a permanent ASCII `id` with a readable type prefix, such as `person-...`, `location-...`, `event-...`, `campaign-...`, `polity-...`, `organization-...`, `object-...`, `snapshot-location-...`, or `source-...`.
+Every persistent record has a permanent ASCII `id` with a readable type prefix, such as `being-...`, `location-...`, `event-...`, `campaign-...`, `polity-...`, `organization-...`, `object-...`, `snapshot-location-...`, or `source-...`.
 
 - Identity is independent of display name.
 - A corrected or changed `reference_name` does not change the ID or normal ID-based filename.
 - Inspect existing records before creating an ID to avoid duplicates.
 - Do not reuse retired IDs for different records.
+- Stable IDs assigned before a model migration remain unchanged even if their old prefix no longer matches the current record type. Existing `person-...` IDs therefore remain permanent IDs for records migrated to `being`.
 
 The `reference_name` is the archive's human-facing name, normally the name under which the subject first appears in campaign material. Alternate or historical names may use this modest structure:
 
@@ -39,9 +40,40 @@ Omit optional keys when unsupported. Different names do not by themselves imply 
 
 ## Links and filenames
 
-Persistent record filenames normally equal their stable ID plus `.md`. Use ordinary relative Markdown links, for example `[reference name](../entities/people/<person-stable-id>.md)`, adjusted for the linking file's location. Do not depend on proprietary wiki-link syntax.
+Persistent record filenames normally equal their stable ID plus `.md`. Use ordinary relative Markdown links, for example `[reference name](../entities/beings/<being-stable-id>.md)`, adjusted for the linking file's location. Do not depend on proprietary wiki-link syntax.
 
 An ID is the machine-stable identity; a Markdown link provides navigability; the link label is human-facing and may change without changing the target filename.
+
+## Beings
+
+A **being** is an individual actor or animate entity, ordinary or extraordinary. Being records live under [`entities/beings/`](../entities/beings/) and new stable IDs use the `being-...` prefix. Humans, elves, goblins or similar peoples, werewolves, spirits, dragons, local divinities, conscious springs or other nonstandard animate entities, and gods can all be beings when supported by source material.
+
+Natural, supernatural, mortal, divine, humanoid, non-humanoid, and similar distinctions do not determine the top-level storage category. Such boundaries may themselves be culturally, historically, or ontologically uncertain. A record may describe what kind of being an entity appears to be when sources support that description, while preserving competing classifications and uncertainty.
+
+Do not define a closed list of kinds, require every being to have a precise nature, or infer a classification from its storage history. In particular, a record migrated from `entities/people/` is not thereby established to be human. Whether future structured characterization should distinguish species, ancestry, condition, ontology, divinity, transformation, or other dimensions remains open until representative data demonstrates a need.
+
+Existing `person-...` records have moved to `entities/beings/` and use `record_type: being`; their stable IDs and filenames remain unchanged.
+
+## Confirmed duplicate entity records
+
+When curation establishes that two existing entity records represent the same entity, choose one surviving record and preserve the other at its existing stable-ID filename as a superseded record pointing to the survivor. Stable IDs are never reused, and the superseded record must retain the identity and provenance needed to audit the merge.
+
+Use the original entity `record_type`, add `record_status: superseded`, and record the disposition in a small mapping:
+
+```yaml
+record_status: superseded
+superseded_by:
+  entity: <relative link to surviving record>
+  merge_date: <real-world archive or curation date>
+  basis:
+    description: <what established that the records are duplicates>
+    provenance:
+      - <source evidence with locator or curator-supplied decision>
+```
+
+New references use the surviving ID. Existing links may be changed to the survivor where safe, while the superseded file remains available at its original path so the former ID and merge history do not disappear. Retain the evidence or curator decision that established equivalence and any earlier sourced content needed to understand the identity decision.
+
+Prefer the older established stable ID as the survivor unless a material reason supports another choice. If the choice is genuinely ambiguous or consequential, ask the curator rather than selecting arbitrarily. This superseded-record convention is the complete merge mechanism for now; do not build a broader redirect framework without representative need and approval.
 
 ## Identity, state, and events
 

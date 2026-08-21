@@ -1,6 +1,6 @@
 ---
 id: person-lord-ruthwen
-record_type: person
+record_type: being
 reference_name: Lord Ruthwen
 names:
   - name: Lord Ruthwen

@@ -7,19 +7,19 @@ time:
   sources:
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 entities:
-  - entity: ../entities/people/person-blanche-renardova.md
+  - entity: ../entities/beings/person-blanche-renardova.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
-  - entity: ../entities/people/person-yann-du-bois.md
+  - entity: ../entities/beings/person-yann-du-bois.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
-  - entity: ../entities/people/person-nathaniel-hargreve.md
+  - entity: ../entities/beings/person-nathaniel-hargreve.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
-  - entity: ../entities/people/person-oswyn-waldergrave.md
+  - entity: ../entities/beings/person-oswyn-waldergrave.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
-  - entity: ../entities/people/person-kristen-penbrok.md
+  - entity: ../entities/beings/person-kristen-penbrok.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 accounts:

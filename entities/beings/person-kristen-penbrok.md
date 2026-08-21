@@ -1,6 +1,6 @@
 ---
 id: person-kristen-penbrok
-record_type: person
+record_type: being
 reference_name: Kristen
 names:
   - name: Kristen

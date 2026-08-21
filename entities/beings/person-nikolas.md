@@ -1,6 +1,6 @@
 ---
 id: person-nikolas
-record_type: person
+record_type: being
 reference_name: Nikolas
 names:
   - name: Nikolas

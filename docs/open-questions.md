@@ -17,10 +17,9 @@ Do not infer answers from convenience or conversation history; record an approve
 
 ## Identity and relationships
 
-- When curation confirms that two entity records are duplicates, how should they be merged while preserving their stable IDs, provenance, and existing links?
 - Which structured relationship types are useful after representative data is reviewed, rather than leaving relationships in prose?
 - How should overlapping, nested, or disputed location snapshots be queried or presented?
-- How should deities, demons, and other named supernatural beings be typed when a source supports their narrative identity but not an ordinary person, organization, polity, object, or location classification?
+- Which, if any, structured descriptive dimensions for beings—such as species, ancestry, condition, ontology, divinity, or transformation—become useful after representative data is reviewed, without imposing a closed taxonomy?
 
 ## Sources and sessions
 

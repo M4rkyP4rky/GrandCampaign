@@ -1,6 +1,6 @@
 ---
-id: <person-stable-id>
-record_type: person
+id: <being-stable-id>
+record_type: being
 reference_name: <reference name>
 names:
   - name: <name as attested>
@@ -13,7 +13,7 @@ names:
 
 ## Description
 
-<Supported identity information. Omit unknown optional details.>
+<Supported identity information. Describe the being's apparent nature only when sourced; preserve uncertainty and competing classifications.>
 
 Sources:
 

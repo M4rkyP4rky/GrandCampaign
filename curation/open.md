@@ -4,11 +4,11 @@
 
 - Status: open
 - Scope: [Panství Penbrok](../campaigns/campaign-dopisy-z-panstvi-penbrok.md)
-- Uncertainty: Do the spellings `Kristen` and `Kirsten` refer to one person throughout the account?
-- Why it matters: A wrong equivalence could merge two people; a wrong distinction could duplicate one person and fragment her events and relationships.
-- Affected records: [Kristen](../entities/people/person-kristen-penbrok.md), [Pátrání po Kristen](../events/event-search-for-kristen.md), [Útěk z Darkwoodu](../events/event-darkwood-escape.md), [Porážka Ruthwena](../events/event-defeat-of-ruthwen.md)
+- Uncertainty: Do the spellings `Kristen` and `Kirsten` refer to one being throughout the account?
+- Why it matters: A wrong equivalence could merge two beings; a wrong distinction could duplicate one being and fragment her events and relationships.
+- Affected records: [Kristen](../entities/beings/person-kristen-penbrok.md), [Pátrání po Kristen](../events/event-search-for-kristen.md), [Útěk z Darkwoodu](../events/event-darkwood-escape.md), [Porážka Ruthwena](../events/event-defeat-of-ruthwen.md)
 - Evidence: [Dopisy z panství Penbrok](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml), especially sections `Dobytí Penbroku`, `Upír`, `Dívky a dámy v nesnázích`, `Vrátila se snad válka?`, and `Hořkosladké vítězství`, continues one disappearance-and-return narrative while using both spellings.
-- Current handling: One person record provisionally holds both spellings, with the equivalence explicitly qualified.
+- Current handling: One being record provisionally holds both spellings, with the equivalence explicitly qualified.
 
 ## curation-penbrok-002 — Oswyn surname spelling
 
@@ -16,7 +16,7 @@
 - Scope: [Panství Penbrok](../campaigns/campaign-dopisy-z-panstvi-penbrok.md)
 - Uncertainty: Is the intended surname `Waldergrave`, `Waldegrave`, or are both spellings independently meaningful?
 - Why it matters: Clarification could correct the reference name while preserving the other spelling as an attested source variant.
-- Affected records: [Oswyn Waldergrave](../entities/people/person-oswyn-waldergrave.md)
+- Affected records: [Oswyn Waldergrave](../entities/beings/person-oswyn-waldergrave.md)
 - Evidence: [Dopisy z panství Penbrok](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml), section `Příjezd`, first gives the full form `Oswyna Waldergravea` and later uses `pan Waldegrave`.
 - Current handling: `Oswyn Waldergrave` is the reference name and `Oswyn Waldegrave` is retained as an alternate source spelling.
 
@@ -36,7 +36,7 @@
 - Scope: [Panství Penbrok](../campaigns/campaign-dopisy-z-panstvi-penbrok.md)
 - Uncertainty: Does `Darkwood` name Ruthwen's wider domain, its principal residence, or both?
 - Why it matters: A confirmed distinction could require separate physical and political records and more precise event locations.
-- Affected records: [Darkwood](../entities/locations/location-darkwood.md), [Útěk z Darkwoodu](../events/event-darkwood-escape.md), [Lord Ruthwen](../entities/people/person-lord-ruthwen.md)
+- Affected records: [Darkwood](../entities/locations/location-darkwood.md), [Útěk z Darkwoodu](../events/event-darkwood-escape.md), [Lord Ruthwen](../entities/beings/person-lord-ruthwen.md)
 - Evidence: [Dopisy z panství Penbrok](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml), sections `Upír` and `Dívky a dámy v nesnázích`, calls Darkwood a `panství` while describing a residence with underground areas and towers.
 - Current handling: One location record preserves the name without asserting its exact extent or physical hierarchy.
 

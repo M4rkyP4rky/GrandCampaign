@@ -14,10 +14,10 @@ locations:
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 entities:
-  - entity: ../entities/people/person-lord-ruthwen.md
+  - entity: ../entities/beings/person-lord-ruthwen.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
-  - entity: ../entities/people/person-barbra.md
+  - entity: ../entities/beings/person-barbra.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 accounts:

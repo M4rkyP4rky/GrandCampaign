@@ -27,6 +27,8 @@ A mention of the same subject is not enough to resolve an item. Interpret the ne
 
 Update affected derived records and curation items together. For a split or reformulation, give replacement items new IDs and retain the earlier item as superseded so the change remains auditable.
 
+When curation confirms that two existing entity records are duplicates, follow the [confirmed duplicate entity policy](../docs/data-model.md#confirmed-duplicate-entity-records). Preserve both stable IDs, keep the non-surviving record as an auditable superseded record, and ask the curator if the surviving ID cannot be chosen safely under that policy.
+
 ## Resolution and audit
 
 Move a resolved or superseded item from `open.md` to [`resolved.md`](resolved.md) without changing its ID or erasing its original uncertainty. Add:
