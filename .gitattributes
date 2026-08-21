@@ -7,6 +7,9 @@
 *.json text eol=lf
 *.txt text eol=lf
 
+# Preserved XML source exports must retain their exact bytes.
+sources/**/*.xml -text
+
 *.png binary
 *.jpg binary
 *.jpeg binary

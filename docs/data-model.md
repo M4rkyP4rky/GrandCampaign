@@ -2,7 +2,7 @@
 
 ## Records and files
 
-Primary archive data is UTF-8 Markdown with concise YAML frontmatter where structured metadata is useful. Each persistent file represents one primary entity, event, campaign, or snapshot and has one H1 heading matching its human-facing `reference_name` or title.
+Primary archive data is UTF-8 Markdown with concise YAML frontmatter where structured metadata is useful. Each persistent record represents one primary entity, event, campaign, snapshot, or imported source and has one H1 heading matching its human-facing `reference_name` or title. Immutable raw evidence may use its original portable format beside its source metadata record under [`sources/`](../sources/).
 
 Use readable YAML:
 
@@ -15,7 +15,7 @@ Use readable YAML:
 
 ## Stable identity
 
-Every persistent record has a permanent ASCII `id` with a readable type prefix, such as `person-...`, `location-...`, `event-...`, `campaign-...`, `polity-...`, `organization-...`, `object-...`, or `snapshot-location-...`.
+Every persistent record has a permanent ASCII `id` with a readable type prefix, such as `person-...`, `location-...`, `event-...`, `campaign-...`, `polity-...`, `organization-...`, `object-...`, `snapshot-location-...`, or `source-...`.
 
 - Identity is independent of display name.
 - A corrected or changed `reference_name` does not change the ID or normal ID-based filename.

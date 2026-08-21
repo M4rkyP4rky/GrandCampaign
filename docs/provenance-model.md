@@ -33,6 +33,35 @@ Sources:
 
 Structured metadata can meet the same rule by placing source links within the relevant mapping or list item, or by pointing to a clearly scoped sourced section that supports the values. A record-level source list alone is not a substitute.
 
+## Source locators
+
+A compound source can contain independently meaningful sections or blocks. When a link to the entire file would leave the supporting passage ambiguous, add a human-readable `locator` to the source reference. Use the source's own stable heading or block label when available:
+
+```yaml
+sources:
+  - source: <relative link to source>
+    locator: section "<heading as recorded>"
+```
+
+The locator identifies evidence within the source; it is not a claim ID, session ID, event ID, or replacement for the source link. A prose citation may express the same information by naming the relevant section after its link. One source section need not equal one session or fictional event, and one event may cite multiple sections.
+
+## Curator-supplied corrections
+
+An immutable raw source and a later curator-supplied correction are separate evidence. Never edit the raw source to apply a correction. Source metadata must retain the source-stated value, the corrected value, the field and source locator to which it applies, and an explicit indication that the correction is curator-supplied. Derived data may use the corrected value while remaining traceable to both values.
+
+A small mapping on the source metadata record is sufficient for demonstrated cases:
+
+```yaml
+curator_corrections:
+  - field: <corrected field>
+    locator: <human-readable source locator>
+    source_value: <value preserved in the raw source>
+    corrected_value: <curator-confirmed value>
+    provenance: <identification of the curator-supplied correction>
+```
+
+This does not authorize rewriting quotations or transcriptions, establish source-authority precedence, or require a general correction/version history.
+
 Use statement-level provenance when section-level attribution would be ambiguous, especially when:
 
 - a claim is disputed or uncertain;
@@ -46,4 +75,4 @@ Do not introduce an atomic claim database, claim IDs, or another complex claim m
 
 ## Intentionally unresolved authority
 
-The relative authority and precedence of raw sources, campaign accounts, traditions, and GM reconstructions has not been designed. There is no source-ranking algorithm and no automatic winner in a conflict. Questions about quotation, paraphrase, corrections, redactions, and competing or revised reconstructions also remain unresolved. These are explicit questions in [open-questions.md](open-questions.md); future rules require review and approval before being added to governance documentation.
+The relative authority and precedence of raw sources, campaign accounts, traditions, and GM reconstructions has not been designed. There is no source-ranking algorithm and no automatic winner in a conflict. Questions about quotation, paraphrase, transcription correction, redaction, and competing or revised reconstructions also remain unresolved. These are explicit questions in [open-questions.md](open-questions.md); future rules require review and approval before being added to governance documentation.

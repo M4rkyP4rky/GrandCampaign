@@ -2,7 +2,7 @@
 
 GrandCampaign is a human-readable, Git-versioned archive for multiple tabletop RPG campaigns set in one shared fictional world. It stores source material, derived records, competing historical accounts, and optional GM reconstructions without forcing them into a single objective history.
 
-This initial repository contains only the data and governance layer. It contains no campaign lore, importer, bot, website, external integration, or generated asset.
+This repository contains the data and governance layer, preserved campaign sources, and reviewed derived campaign records. It contains no automated importer, bot, website, external integration, or generated asset.
 
 ## Start here
 

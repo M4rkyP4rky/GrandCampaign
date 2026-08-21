@@ -23,6 +23,7 @@ entities:
 accounts:
   - kind: <campaign-account | legend | gm-reconstruction>
     source: <relative link to source or account>
+    locator: <optional human-readable section or block locator>
     summary: <what this perspective reports>
 ---
 
