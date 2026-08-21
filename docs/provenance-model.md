@@ -15,6 +15,8 @@ A record can link multiple accounts. Contradictions are valid archive data. Pres
 
 Use plain language for uncertainty and retain the source's precision. Distinguish “not recorded,” “unknown,” “approximate,” and “disputed” when that difference is supported. Do not convert absence of evidence into a factual negative.
 
+When a concrete content uncertainty could materially improve or correct records if clarified, track it in the [content curation queue](../curation/README.md) while preserving the uncertainty in the affected records. Do not queue ordinary unknown facts merely because they are unknown. General representation or authority questions remain in [repository and design open questions](open-questions.md).
+
 ## Required granularity
 
 Whole-record source lists may be retained as useful discovery metadata, but they do not by themselves provide sufficient provenance for derived factual content. The minimum required granularity is a meaningful content block or Markdown section. A reader must be able to identify which source or sources support each derived factual block or section.

@@ -27,8 +27,9 @@ Start with [docs/index.md](docs/index.md), then read only the documentation rele
 - Dates, intervals, AP, Ages, and calendar: [docs/temporal-model.md](docs/temporal-model.md)
 - Locations, physical hierarchy, and political change: [docs/geography-model.md](docs/geography-model.md)
 - Evidence, accounts, contradictions, and reconstruction: [docs/provenance-model.md](docs/provenance-model.md)
-- Future ingestion workflow: [docs/ingestion.md](docs/ingestion.md)
-- Unresolved decisions: [docs/open-questions.md](docs/open-questions.md)
+- Ingestion workflow: [docs/ingestion.md](docs/ingestion.md)
+- Actionable content uncertainties and curator review: [curation/README.md](curation/README.md)
+- Unresolved repository and design decisions: [docs/open-questions.md](docs/open-questions.md)
 
 ## Working rules
 
@@ -37,6 +38,7 @@ Start with [docs/index.md](docs/index.md), then read only the documentation rele
 3. Add or update the smallest appropriate record without manufacturing missing values.
 4. Keep raw evidence separate from derived records and perspectives.
 5. Update governing documentation when an explicitly approved model rule changes; do not rely on chat memory.
-6. Review `git diff` before considering any data-changing task complete.
+6. During ingestion, reconsider relevant open content curation items; queue non-blocking actionable ambiguities and ask the curator immediately only when safe ingestion is materially blocked.
+7. Review `git diff` before considering any data-changing task complete.
 
 Do not add nested `AGENTS.md` files unless repository governance later requires them.

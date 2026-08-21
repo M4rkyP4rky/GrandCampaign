@@ -9,6 +9,7 @@ This repository contains the data and governance layer, preserved campaign sourc
 - Maintainers and Codex sessions: read [AGENTS.md](AGENTS.md).
 - Governance documentation: see [docs/index.md](docs/index.md).
 - Raw evidence and source handling: see [sources/README.md](sources/README.md).
+- Actionable content uncertainties: see [curation/README.md](curation/README.md).
 - Reusable record guidance: see [`templates/`](templates/).
 - Calendar and broad Ages: see [`config/`](config/).
 

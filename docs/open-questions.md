@@ -1,6 +1,8 @@
-# Open questions
+# Repository and design open questions
 
-These decisions are deliberately unresolved. Do not infer answers from convenience or conversation history; record an approved decision in the relevant governance document.
+This file contains unresolved questions whose answers would change the archive's general rules, schema, representation, or operation. They may remain open without immediate curator intervention. Actionable uncertainties about particular imported content or world records belong in the [content curation queue](../curation/README.md), not here.
+
+Do not infer answers from convenience or conversation history; record an approved design decision in the relevant governance document.
 
 ## Calendar and chronology
 
@@ -15,8 +17,7 @@ These decisions are deliberately unresolved. Do not infer answers from convenien
 
 ## Identity and relationships
 
-- What review process resolves suspected duplicate entities or uncertain name equivalence?
-- Should IDs ever be marked retired or superseded, and how should redirects be represented without reusing IDs?
+- When curation confirms that two entity records are duplicates, how should they be merged while preserving their stable IDs, provenance, and existing links?
 - Which structured relationship types are useful after representative data is reviewed, rather than leaving relationships in prose?
 - How should overlapping, nested, or disputed location snapshots be queried or presented?
 - How should deities, demons, and other named supernatural beings be typed when a source supports their narrative identity but not an ordinary person, organization, polity, object, or location classification?
