@@ -4,11 +4,7 @@ These decisions are deliberately unresolved. Do not infer answers from convenien
 
 ## Calendar and chronology
 
-- What are the confirmed spellings and language forms of months 7 through 12? The statement that later names follow a similar pattern is insufficient to canonize exact names.
 - Which weekday begins a month or year, and are weekday names or numbering defined?
-- Is “full moon on the last Sunday night” an astronomical property, a calendrical convention, or a ritual designation? How is drift against a natural lunar cycle handled?
-- How does a 336-day calendar remain aligned with intended seasons and astronomical solstices/equinoxes? Is there intercalation, and if so, how does it work?
-- Does “last Sunday of every third month” mark an equinox/solstice exactly, or only a regular seasonal observance?
 - What exact fictional date or instant begins year 0 AP, beyond its association with “Amiasovo proroctví” / “Amias's Prophecy”?
 - Should structured dates use a finalized precision vocabulary, and how should centuries before and after 0 AP be labeled for humans?
 - What evidence, if any, will define the boundaries of the seven Ages?

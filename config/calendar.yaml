@@ -1,20 +1,50 @@
-status: provisional
+status: approved
 calendar:
   months_per_year: 12
   days_per_month: 28
   days_per_year: 336
   days_per_week: 7
-  confirmed_month_names:
+  month_names:
     1: prvenec
     2: druhenec
     3: třetinec
     4: čtvrtenec
     5: pátenec
     6: šestenec
+    7: sedmenec
+    8: osmenec
+    9: devatenec
+    10: desátenec
+    11: jedenáctenec
+    12: dvanáctenec
+  seasons:
+    - name: jaro
+      months:
+        - prvenec
+        - druhenec
+        - třetinec
+    - name: léto
+      months:
+        - čtvrtenec
+        - pátenec
+        - šestenec
+    - name: podzim
+      months:
+        - sedmenec
+        - osmenec
+        - devatenec
+    - name: zima
+      months:
+        - desátenec
+        - jedenáctenec
+        - dvanáctenec
   seasonal_markers:
-    intended_pattern: last Sunday of every third month
+    months:
+      - 3
+      - 6
+      - 9
+      - 12
+    timing: last Sunday of the month
+    meaning: equinox or solstice
   full_moon:
-    stated_pattern: last Sunday night of every month
-notes:
-  - Months 7 through 12 are said to follow a similar pattern, but their exact names are not yet confirmed.
-  - Astronomical alignment, intercalation, weekday alignment, and exact seasonal-marker meaning remain unresolved.
+    timing: night of the last Sunday of each month

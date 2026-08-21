@@ -46,6 +46,10 @@ Seven broad Ages provide contextual historical periodization. Their confirmed la
 
 ## Calendar interaction
 
-Confirmed calendar facts are recorded in the explicitly provisional [calendar.yaml](../config/calendar.yaml). Exact dates use fictional calendar components. Approximate real-world analogy must never be converted automatically into a fictional date.
+The approved fictional calendar is recorded in [calendar.yaml](../config/calendar.yaml). It has 12 months of 28 days, a 336-day year, and seven-day weeks. In order, its months are `prvenec`, `druhenec`, `třetinec`, `čtvrtenec`, `pátenec`, `šestenec`, `sedmenec`, `osmenec`, `devatenec`, `desátenec`, `jedenáctenec`, and `dvanáctenec`.
 
-Unresolved astronomical, naming, alignment, and intercalation questions are listed in [open questions](open-questions.md). Until settled, retain source wording rather than calculating unsupported dates, weekdays, seasons, or lunar phases.
+Each season consists of exactly three consecutive months: `jaro` comprises `prvenec`, `druhenec`, and `třetinec`; `léto` comprises `čtvrtenec`, `pátenec`, and `šestenec`; `podzim` comprises `sedmenec`, `osmenec`, and `devatenec`; and `zima` comprises `desátenec`, `jedenáctenec`, and `dvanáctenec`.
+
+The last Sunday of every third month—months 3, 6, 9, and 12—is a seasonal marker representing an equinox or solstice. Full moon always occurs during the night of the last Sunday of each month. These are approved calendar rules rather than provisional interpretations.
+
+Exact dates use fictional calendar components. Approximate real-world analogy must never be converted automatically into a fictional date.
