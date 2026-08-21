@@ -6,6 +6,11 @@ time:
   description: Fictional date and duration are not recorded; Yann places the incident while the group was traveling toward the Penbrok castle and before its confrontation with Nikolas.
   sources:
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+locations:
+  - location: ../entities/locations/location-shelswell-estate.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx
 entities:
   - entity: ../entities/beings/person-yann-du-bois.md
     sources:
@@ -19,6 +24,11 @@ entities:
   - entity: ../entities/beings/person-sir-adrian.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx
+  - entity: ../entities/beings/being-shelswell-white-worm.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx
 accounts:
   - kind: campaign-account
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
@@ -32,6 +42,12 @@ accounts:
 
 Yann says that Nathaniel's group stopped at Adrian's prosperous house while preparing to ambush Nikolas. He interprets the household's business as empowered by dark magic and Sígref Strašlivá, describes a worm-like monstrosity, deaths among Adrian's family or servants, and the killing of the creature. The magical cause, moral judgment, religious framing, and exact outcomes are preserved as Yann's testimony.
 
+The matching household names and fish-and-worm mechanism in the player notes and GM preparation identify the location as Usedlost Shelswell and the creature as the prepared giant white worm. This identity match does not establish which named family members or servants died, or resolve the difference between the preparation's limited distribution of secret knowledge and Yann's broader claim of household involvement.
+
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Příjezd`.
+- [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 1`, for the named Shelswell household.
+- [GM preparation](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx) — prepared location, household, hidden mechanism, and white worm.
+- [Open household-fate item](../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — unresolved named fates.
+- [Open household-knowledge item](../curation/open.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret) — unresolved knowledge and complicity.

@@ -6,6 +6,7 @@ record_sources:
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-dopisy-z-panstvi-penbrok.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-hrad-penbrok-gm-preparation.md
+  - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-usedlost-shelswell-gm-preparation.md
 ---
 
 # Panství Penbrok
@@ -52,6 +53,16 @@ Sources:
 
 - [GM-preparation source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-hrad-penbrok-gm-preparation.md) — classification, keyed locators, map addressability, and prepared-versus-played handling.
 - [Prepared Penbrok snapshot](../snapshots/locations/snapshot-location-penbrok-preplay-baseline.md) — selectively materialized significant starting state.
+
+## Prepared Shelswell adventure baseline
+
+The adopted GM preparation `Usedlost Shelswell` records the pre-play household, hidden fish-and-worm mechanism, keyed estate areas, and composed map for the adventure later represented in `Sezení 1` and `Příjezd`. Prepared NPC knowledge, intentions, contingencies, and encounter procedures remain distinct from the later played account. The prepared location state is materialized selectively without turning every keyed area into a world record.
+
+Sources:
+
+- [Shelswell GM-preparation source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-usedlost-shelswell-gm-preparation.md) — classification, keyed locators, visual addressability, and prepared-versus-played handling.
+- [Prepared Shelswell snapshot](../snapshots/locations/snapshot-location-shelswell-preplay-baseline.md) — selectively materialized significant starting state.
+- [Played event](../events/event-adrian-house-ordeal.md) — later account retained with Yann's interpretations and unresolved household outcomes.
 
 ## Play context
 
