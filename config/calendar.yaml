@@ -4,6 +4,16 @@ calendar:
   days_per_month: 28
   days_per_year: 336
   days_per_week: 7
+  week_starts_on: pondělí
+  month_starts_on: pondělí
+  weekday_names:
+    1: pondělí
+    2: úterý
+    3: středa
+    4: čtvrtek
+    5: pátek
+    6: sobota
+    7: neděle
   month_names:
     1: prvenec
     2: druhenec
@@ -39,12 +49,42 @@ calendar:
         - jedenáctenec
         - dvanáctenec
   seasonal_markers:
-    months:
-      - 3
-      - 6
-      - 9
-      - 12
-    timing: last Sunday of the month
-    meaning: equinox or solstice
+    - season: jaro
+      month_number: 3
+      month_name: třetinec
+      day: 28
+      weekday: neděle
+      marker: jarní rovnodennost
+    - season: léto
+      month_number: 6
+      month_name: šestenec
+      day: 28
+      weekday: neděle
+      marker: letní slunovrat
+    - season: podzim
+      month_number: 9
+      month_name: devatenec
+      day: 28
+      weekday: neděle
+      marker: podzimní rovnodennost
+    - season: zima
+      month_number: 12
+      month_name: dvanáctenec
+      day: 28
+      weekday: neděle
+      marker: zimní slunovrat
   full_moon:
     timing: night of the last Sunday of each month
+    day: 28
+    weekday: neděle
+year_numbering:
+  epoch_year: 0
+  system:
+    field: year_ap
+    representation: signed_integer
+    before_epoch: negative
+    after_epoch: positive
+  human_czech:
+    before_epoch_suffix: přPA
+    after_epoch_suffix: poPA
+    epoch_label: 0 AP

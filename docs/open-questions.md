@@ -4,9 +4,8 @@ These decisions are deliberately unresolved. Do not infer answers from convenien
 
 ## Calendar and chronology
 
-- Which weekday begins a month or year, and are weekday names or numbering defined?
 - What exact fictional date or instant begins year 0 AP, beyond its association with “Amiasovo proroctví” / “Amias's Prophecy”?
-- Should structured dates use a finalized precision vocabulary, and how should centuries before and after 0 AP be labeled for humans?
+- Should the provisional structured-date precision vocabulary be finalized or revised after representative records are tested?
 - What evidence, if any, will define the boundaries of the seven Ages?
 
 ## Provenance and authority
