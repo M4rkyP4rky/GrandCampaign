@@ -1,0 +1,20 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE state
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temporary and cache files
+*.tmp
+*.temp
+*.bak
+*.cache
+.cache/
+tmp/
+temp/

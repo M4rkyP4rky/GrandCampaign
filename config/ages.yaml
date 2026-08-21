@@ -1,0 +1,25 @@
+ages:
+  - number: 1
+    name: First Age
+    analogue: prehistory
+  - number: 2
+    name: Second Age
+    analogue: antiquity
+  - number: 3
+    name: Third Age
+    analogue: medieval
+  - number: 4
+    name: Fourth Age
+    analogue: Renaissance
+  - number: 5
+    name: Fifth Age
+    analogue: industrialization
+  - number: 6
+    name: Sixth Age
+    analogue: twentieth century
+  - number: 7
+    name: Seventh Age
+    analogue: present day and near future
+notes:
+  - Ages are broad historical periodization rather than precise dates.
+  - Exact year boundaries are not defined.
