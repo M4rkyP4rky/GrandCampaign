@@ -14,6 +14,32 @@ Ingestion is a reviewed workflow, not an implemented tool:
 10. After successful review, move the immutable raw source and its metadata out of `sources/inbox/` to the permanent location defined in [`sources/README.md`](../sources/README.md). Update provenance links and verify the raw digest after the move.
 11. Review the complete Git diff for unsupported or insufficiently sourced facts, accidental source edits, broken relative links, manufactured precision, and curation items inconsistent with the derived records.
 
+## GM preparation and adventure modules
+
+GM preparation is evidence of what was prepared for play. It is neither a played campaign account nor a later GM reconstruction of what happened. Preserve that distinction in source classification and in every derived use of the material.
+
+The general immutable-source rule applies to the complete preparation or module, including material that is not selected for world-model records. Transcriptions, extracted assets, and other derivatives may aid access but do not replace the preserved original.
+
+Importing or retaining an adventure module as a source does not by itself establish its contents as a campaign prepared baseline. Module content supports prepared state for a campaign only to the extent that adoption or preparation of that content for the campaign is established by evidence; otherwise preserve it as source material without promoting it to campaign state.
+
+A preparation document or adventure module may mix several epistemically different kinds of content. Classify relevant blocks according to what they actually establish:
+
+- declarative prepared baselines and hidden established backstory may support state, backstory, and relationships at the preparation's temporal point, without making them character knowledge;
+- NPC knowledge, beliefs, motivations, and intentions describe the prepared NPC perspective or disposition, not necessarily external fact or later action;
+- intended developments, conditional contingencies, tactical instructions, game procedures, encounter tables, dice chances, and other random possibilities are possibilities or play machinery, not historical events;
+- drafts, placeholders, unfinished passages, and `TBD` material remain incomplete and must not be silently completed;
+- numbered rooms, keyed locations, maps, encounter notes, and similar adventure-local reference material may remain addressable within the source rather than becoming independent world records.
+
+In particular, do not create an event merely because preparation says that someone intends an action, an outcome will occur under a condition, or a procedure can generate it. Materialize an event only when evidence supports it as part of the fictional history, retaining the supporting source's relationship to play and provenance in the relevant records.
+
+Compare prepared and played claims at the relevant temporal points. When play changes a prepared baseline, the normal interpretation is a state transition rather than a source conflict: preserve the earlier prepared state and represent the later played change through an appropriate event or later state record when useful. If preparation and played evidence instead make materially incompatible claims about the same relevant state and time, preserve both claims and their provenance and use the curation workflow when the uncertainty is actionable. Do not resolve the case through a universal ranking of GM preparation over played evidence, or the reverse; see the [provenance model](provenance-model.md).
+
+Use a hybrid materialization policy. Create or update records for persistent or world-significant entities, states, backstory, relationships, and supported played changes when doing so improves the archive. Do not mechanically duplicate every keyed room, mundane feature, tactical instruction, minor encounter, object, or random procedure into the world model. Information left source-local must remain practically retrievable through source-native headings, keys, pages, sections, or equivalent locators recorded in source metadata or citations. This policy does not require a general room, module, or encounter schema.
+
+Preserve materially useful maps, floorplans, diagrams, and other composed visual information as source evidence. Text extraction is not a substitute when position, overlays, labels, arrows, layers, or page composition carry meaning. An extracted component image must not be presented as the complete visual when important composition or overlays remain outside it. Identify a practical locator for the composed visual and record relevant extraction or rendering limitations.
+
+The completed [Hrad Penbrok GM-preparation source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-hrad-penbrok-gm-preparation.md) is a demonstrated application of this workflow, not a mandatory source-record template.
+
 ## Reconsidering curation items
 
 A new source does not resolve a curation item merely because it mentions the same subject. Resolution must follow from what the source actually establishes, interpreted according to its provenance, perspective, epistemic role, and relationship to play. Prepared GM material, for example, is not automatically evidence that a possible event occurred during play.

@@ -5,11 +5,18 @@
 The archive distinguishes these concepts without assuming a complete epistemology:
 
 - **Raw source material**: preserved evidence under [`sources/`](../sources/), such as campaign notes or exported logs. It must never be silently rewritten to make derived data cleaner or consistent.
+- **GM preparation or adventure module**: material recording campaign preparation or offering content that could be adopted for play. It supports a campaign prepared baseline only where adoption or preparation for that campaign is established by evidence; otherwise it establishes only what the source contains or proposes. It is not by itself a played account or a retrospective reconstruction of what happened.
 - **Campaign account**: an historical account produced by played campaign material. It is a perspective, not automatically objective truth.
 - **In-world tradition or legend**: a belief or narrative attested within the fictional world, which may differ from other accounts.
 - **GM reconstruction**: an explicitly labeled attempt to reconstruct events as objectively as available information permits. It remains derived material and must retain provenance and uncertainty.
 
 A record can link multiple accounts. Contradictions are valid archive data. Preserve each supported version, identify its source or perspective, and do not invent facts to reconcile them.
+
+## Preparation, possibility, and later play
+
+GM preparation can contain both declarative prepared assertions and non-asserted possibilities. A hidden baseline or backstory may support a prepared state at its documented temporal point. NPC intentions, contingencies, game procedures, random outcomes, and draft material do not establish that the described events occurred. Preserve the epistemic role of the relevant block when deriving records; the detailed ingestion policy is in [ingestion.md](ingestion.md#gm-preparation-and-adventure-modules).
+
+A later played change to an earlier prepared state is normally temporal succession, not contradiction. Claims become a potential conflict when they are materially incompatible about the same relevant subject, state, and time. In that case retain the competing provenance and uncertainty, and create or update a content curation item when clarification could materially improve the records. Neither GM preparation nor played evidence wins automatically.
 
 ## Uncertainty
 
@@ -77,4 +84,4 @@ Do not introduce an atomic claim database, claim IDs, or another complex claim m
 
 ## Intentionally unresolved authority
 
-The relative authority and precedence of raw sources, campaign accounts, traditions, and GM reconstructions has not been designed. There is no source-ranking algorithm and no automatic winner in a conflict. Questions about quotation, paraphrase, transcription correction, redaction, and competing or revised reconstructions also remain unresolved. These are explicit questions in [open-questions.md](open-questions.md); future rules require review and approval before being added to governance documentation.
+The relative authority and precedence of GM preparation and adventure modules, other raw sources, campaign accounts, traditions, and GM reconstructions has not been designed. There is no source-ranking algorithm and no automatic winner in a conflict. Questions about quotation, paraphrase, transcription correction, redaction, and competing or revised reconstructions also remain unresolved. These are explicit questions in [open-questions.md](open-questions.md); future rules require review and approval before being added to governance documentation.

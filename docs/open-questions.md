@@ -11,7 +11,7 @@ Do not infer answers from convenience or conversation history; record an approve
 
 ## Provenance and authority
 
-- What precedence, if any, applies among raw materials, campaign accounts, in-world traditions, and GM reconstructions?
+- What precedence, if any, applies among GM preparation and adventure modules, other raw materials, campaign accounts, in-world traditions, and GM reconstructions?
 - How should direct quotation, paraphrase, transcription corrections, and redactions be represented?
 - How should competing GM reconstructions or later revisions be retained?
 
