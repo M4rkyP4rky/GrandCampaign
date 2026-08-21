@@ -27,6 +27,10 @@ accounts:
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     locator: sections "Vrátila se snad válka?" and "Hořkosladké vítězství"
     summary: Yann reports luring Ruthwen into a monastery, defeating and burning him, and Kristen remaining on holy ground until dawn and losing Ruthwen's influence.
+  - kind: player-notes
+    source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+    locator: sections "Sezení 9" and "Sezení 10"
+    summary: The notes report the mirror trap, Ruthwen's transformations, Nathaniel's final blow, Ruthwen's burning, and Kristen remaining in the crypt until she was described as no longer vampiric. The supernatural mechanics and causal interpretation remain part of the player account.
 ---
 
 # Porážka Ruthwena
@@ -38,3 +42,4 @@ Yann reports that Nathaniel and Oswyn prepared a mirror-based trap in an abandon
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — setup in `Vrátila se snad válka?` and outcome in `Hořkosladké vítězství`.
+- [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 9` and `Sezení 10`, preserving the account's supernatural interpretation.

@@ -25,6 +25,10 @@ accounts:
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     locator: sections "Vrátila se snad válka?" and "Hořkosladké vítězství"
     summary: Yann reports an undead army arriving from the south, besieging the village and fortress, storming Penbrok during the night, and causing extensive damage and Barbra's death.
+  - kind: player-notes
+    source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+    locator: sections "Sezení 9" and "Sezení 10"
+    summary: The notes report the army's arrival and preparations near Ekenbury, the nighttime assault, the collapse of many undead at sunrise, severe military losses, and Barbra's death in the played epilogue.
 ---
 
 # Obležení a útok na Penbrok
@@ -36,3 +40,4 @@ According to Yann, an army of warriors who neither lived nor died approached fro
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — sections `Vrátila se snad válka?` and `Hořkosladké vítězství`.
+- [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 9` and `Sezení 10`, including the siege setup and aftermath.

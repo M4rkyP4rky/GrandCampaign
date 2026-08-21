@@ -21,6 +21,10 @@ accounts:
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     locator: section "Hadí doupě"
     summary: In Hadí doupě, Yann reports an expedition to caves associated with stories of a giant snake, an encounter with Imperial soldiers, and no encounter with the snake itself.
+  - kind: player-notes
+    source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+    locator: section "Sezení 3"
+    summary: The notes report the cave expedition, soldiers, sacrifices, and two recruited survivors while explicitly marking several conclusions about the cult, armor-making, and causation as appearances or probabilities.
 ---
 
 # Výprava do hadího doupěte
@@ -32,3 +36,4 @@ Yann reports that Nathaniel responded to local stories of a giant snake by leadi
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Hadí doupě`.
+- [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 3`, preserving the account's observations and hypotheses separately.

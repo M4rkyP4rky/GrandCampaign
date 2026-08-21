@@ -31,6 +31,10 @@ accounts:
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     locator: sections "Upír" and "Dívky a dámy v nesnázích"
     summary: Yann reports finding Kristen, freeing several imprisoned women through underground passages, and escaping from Darkwood to an abandoned military camp.
+  - kind: player-notes
+    source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+    locator: sections "Sezení 7" and "Sezení 8"
+    summary: The notes report finding Kristen, Yann freeing ten imprisoned women, Kristen calming guard dogs, the group's escape, and recruitment of mercenaries at an abandoned camp; uncertain and hypothetical statements remain marked as such in the raw notes.
 ---
 
 # Útěk z Darkwoodu
@@ -42,3 +46,4 @@ Yann says that the group entered Ruthwen's residence, found Kristen, released se
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — sections `Upír` and `Dívky a dámy v nesnázích`.
+- [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 7` and `Sezení 8`, a more detailed player account of the escape.

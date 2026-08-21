@@ -34,6 +34,10 @@ accounts:
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     locator: sections "Dobytí Penbroku", "Hladovějící z Willowburnu", "Prokletý klášter", "Paní vran", and "Upír"
     summary: Across several letters, Yann reports clues at Penbrok, information obtained through Neveah, encounters during a search through Rumcombe and an unnamed village, Desmond's lead, and finally finding Kristen at Darkwood.
+  - kind: player-notes
+    source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+    locator: sections "Sezení 3" through "Sezení 7"
+    summary: The notes preserve developing clues, player hypotheses, Neveah's reported explanation, the search through Rumcombe and the forgotten village, Desmond's lead, and finding Kristen at Darkwood. The explicit "Co postavy neví" block in Sezení 4 remains GM/meta information outside Yann's knowledge.
 ---
 
 # Pátrání po Kristen
@@ -45,3 +49,4 @@ Yann's letters gradually report a search for the missing Kristen. He withholds o
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — sections `Dobytí Penbroku`, `Hladovějící z Willowburnu`, `Prokletý klášter`, `Paní vran`, and `Upír`.
+- [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 3` through `Sezení 7`, with hypotheses and GM/meta knowledge kept distinct from the played account.

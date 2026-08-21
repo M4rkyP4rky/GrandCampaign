@@ -4,6 +4,8 @@ record_type: campaign
 reference_name: Panství Penbrok
 record_sources:
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-dopisy-z-panstvi-penbrok.md
+  - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md
+  - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-hrad-penbrok-gm-preparation.md
 ---
 
 # Panství Penbrok
@@ -24,6 +26,23 @@ Yann addresses the letters to Blanche Renardová and recounts the conduct of a g
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — the addressee, recurring participants, geographic focus, and Yann's narrative framing throughout the ten sections.
+
+## Player-notes frame
+
+Jiří "Sarsaparillos" Richter's player notes cover the same ten played sessions as the correspondence sections, based on strong content matches recorded in their source metadata. They are primarily organized around Yann but mix retrospective play reporting with character interpretations, player hypotheses and plans, and limited GM/meta material. Those layers remain distinct and the notes are not treated as an objective reconstruction.
+
+Sources:
+
+- [Player-notes source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md) — classification, block-level epistemic handling, and content-based session mappings.
+
+## Prepared adventure baseline
+
+The GM document `Hrad Penbrok` records the intended pre-play state of the fortress and its hidden mechanisms. Its prepared occupation by Nicholas precedes the played account of his defeat, and its trapped tower fire being precedes the played account of the being's departure. Procedures, random chances, contingencies, NPC intentions, and draft fragments remain preparation rather than played history.
+
+Sources:
+
+- [GM-preparation source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-hrad-penbrok-gm-preparation.md) — classification, keyed locators, map addressability, and prepared-versus-played handling.
+- [Prepared Penbrok snapshot](../snapshots/locations/snapshot-location-penbrok-preplay-baseline.md) — selectively materialized significant starting state.
 
 ## Play context
 

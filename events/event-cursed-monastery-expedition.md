@@ -21,6 +21,10 @@ accounts:
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     locator: section "Prokletý klášter"
     summary: In Prokletý klášter, Yann reports that the group explored a forgotten monastery near an unnamed afflicted village and dispersed what he calls a demon's presence.
+  - kind: player-notes
+    source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+    locator: section "Sezení 5"
+    summary: The notes describe the afflicted village, crystalline mud and small gems, numbered graves, and an armored paladin in a place headed "Chrám"; they do not name the village, establish a fictional date, or identify this place with the later monastery.
 ---
 
 # Výprava do prokletého kláštera
@@ -32,3 +36,4 @@ Yann says the group visited an unnamed village troubled by a curse, apparitions,
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Prokletý klášter`.
+- [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 5`, a more detailed but still perspective-bound player account.

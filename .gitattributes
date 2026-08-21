@@ -7,8 +7,14 @@
 *.json text eol=lf
 *.txt text eol=lf
 
+# Office Open XML documents are preserved binary source artifacts.
+*.docx binary
+
 # Preserved XML source exports must retain their exact bytes.
 sources/**/*.xml -text
+
+# This imported Markdown source has preserved CRLF bytes; it is evidence, not repository prose.
+sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md -text
 
 *.png binary
 *.jpg binary

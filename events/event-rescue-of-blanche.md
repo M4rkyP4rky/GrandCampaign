@@ -27,6 +27,10 @@ accounts:
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     locator: section "Hořkosladké vítězství"
     summary: Yann reports following Kristen's clue to an old mill, negotiating Blanche's release from an undead servant, and later returning with Blanche and Kristen to Blanche's court.
+  - kind: player-notes
+    source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+    locator: section "Sezení 10"
+    summary: The notes report following Kristen's clue to the old mill, entering by separate routes, Oswyn bringing Blanche out, and Nathaniel negotiating with the being called Fext; the epilogue is retained as player-level outcome narration.
 ---
 
 # Nalezení a propuštění Blanche
@@ -38,3 +42,4 @@ Yann says the survivors learned that Blanche was being held somewhere in the Pen
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Hořkosladké vítězství`.
+- [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 10`, including the mill approach, release, and epilogue.
