@@ -24,6 +24,11 @@ curator_corrections:
     source_value: Darkwood described as a village and its occupants as villagers
     corrected_value: Darkwood is a castle and the people described are its inhabitants
     provenance: curator-supplied correction during curation review on 2026-08-21
+  - field: being_reference_name
+    locator: section "Sezení 5", phrase "Maxmilián de Živé"
+    source_value: Maxmilián de Živé
+    corrected_value: Maxmillian de Juive
+    provenance: curator-supplied canonical-name and identity decision during materialization review on 2026-08-22
 ---
 
 # Penbrok — hráčské poznámky
@@ -65,10 +70,14 @@ Source:
 
 In `Sezení 6`, the phrase `ve vesnici na jih Darkwood (68) jsou vesničané` incorrectly describes Darkwood as a village and the people there as villagers. The curator confirmed that Darkwood is a castle throughout and that these people are its inhabitants. The raw player notes remain unchanged; derived records use the corrected referent.
 
+In `Sezení 5`, the notes call the accountant `Maxmilián de Živé`. The curator confirmed that this is a source variant of the being whose canonical name is [Maxmillian de Juive](../../../entities/beings/being-maxmillian-de-juive.md). The raw spelling remains unchanged.
+
 Provenance:
 
 - [Preserved player notes](Penbrok-hracske-poznamky.md) — source-stated wording in `Sezení 6`.
 - Curator-supplied correction during curation review on 2026-08-21 — Darkwood as a castle and the referenced people as its inhabitants.
+- [Preserved player notes](Penbrok-hracske-poznamky.md) — source-stated `Maxmilián de Živé` in `Sezení 5`.
+- Curator-supplied canonical-name and identity decision during materialization review on 2026-08-22 — `Maxmillian de Juive` as the reference name for that being.
 
 ## Content-based session mapping
 

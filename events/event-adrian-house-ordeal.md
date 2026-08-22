@@ -51,3 +51,4 @@ Sources:
 - [GM preparation](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx) — prepared location, household, hidden mechanism, and white worm.
 - [Open household-fate item](../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — unresolved named fates.
 - [Open household-knowledge item](../curation/open.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret) — unresolved knowledge and complicity.
+- [Open Sígref identity item](../curation/open.md#curation-penbrok-016--sígref-strašlivá-and-the-shelswell-white-worm) — unresolved relationship between Yann's named religious figure and the white worm.

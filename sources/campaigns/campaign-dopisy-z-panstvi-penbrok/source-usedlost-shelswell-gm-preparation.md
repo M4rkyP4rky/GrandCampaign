@@ -109,16 +109,18 @@ Sources:
 - [Played event record](../../../events/event-adrian-house-ordeal.md) — provenance-preserving representation of the confrontation.
 - [Open household-fate item](../../../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — unresolved named fates.
 - [Open household-knowledge item](../../../curation/open.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret) — unresolved knowledge and complicity.
+- [Open Sígref identity item](../../../curation/open.md#curation-penbrok-016--sígref-strašlivá-and-the-shelswell-white-worm) — unresolved relationship between Yann's religious interpretation and the prepared worm identity.
 
-## Deliberately source-local material
+## Source-local and materialized material
 
-The archive does not create independent records for every keyed building, room, door, barrel, route, supply cache, item, local tactical feature, or encounter ability. The later rough-notes ingestion and its curator-directed named-being policy resulted in persistent records for Thomas, Jerome Hobart, and Tobiáš. Brigitte from the player notes, the lean horse, and the oversized ferret remain source-local; their names and roles remain practically retrievable through the locators above and `Sezení 1` in the player notes.
+The archive does not create independent records for every keyed building, room, door, barrel, route, supply cache, item, local tactical feature, or encounter ability. The lean horse and oversized ferret are unnamed and remain source-local. The earlier statement that the explicitly named Brigitte could remain source-local was inconsistent with the current named-things invariant; [Brigitte](../../../entities/beings/being-brigitte-shelswell.md) is now materialized as a persistent being. This metadata correction does not alter either raw source.
 
 Source:
 
 - [Preserved GM preparation](025-Usedlost-Shelswell-Campaign-version.docx) — textual keys 1–13 and the final map page.
 - [Player notes](Penbrok-hracske-poznamky.md) — `Sezení 1`, including Brigitte.
-- [Rough-notes source record](source-penbrokton-shelswell-rough-gm-notes.md) — later source and ingestion-specific named-being handling.
+- [Named-things governance](../../../docs/data-model.md#named-things-and-persistent-identity) — explicitly named fictional beings normally receive persistent records.
+- Curator-supplied application correction during materialization review on 2026-08-22 — Brigitte is not an exception to the invariant.
 
 ## Import trace
 

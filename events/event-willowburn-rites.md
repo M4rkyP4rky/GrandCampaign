@@ -23,6 +23,9 @@ entities:
   - entity: ../entities/beings/person-barbra.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+  - entity: ../entities/organizations/organization-kohouti.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 accounts:
   - kind: campaign-account
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
@@ -38,7 +41,7 @@ accounts:
 
 ## Description
 
-Yann reports that the group investigated accusations and hardship in Willowburn. He says the seer Katrin revealed that soldiers called the Kohouti had died of plague in nearby wetlands and their souls had settled in the village; he then claims a procession with local children calmed those souls and helped cleanse the village. He also reports his unexpected engagement to Barbra. The supernatural history, efficacy of the rite, and relationship account remain his testimony.
+Yann reports that the group investigated accusations and hardship in Willowburn. He says the seer Katrin revealed that soldiers associated with the [Kohouti](../entities/organizations/organization-kohouti.md) had died of plague in nearby wetlands and their souls had settled in the village; he then claims a procession with local children calmed those souls and helped cleanse the village. He also reports his unexpected engagement to Barbra. The supernatural history, efficacy of the rite, and relationship account remain his testimony.
 
 Sources:
 

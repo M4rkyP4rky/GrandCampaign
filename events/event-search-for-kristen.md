@@ -13,6 +13,9 @@ locations:
   - location: ../entities/locations/location-rumcombe.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+  - location: ../entities/locations/location-forgotton.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
   - location: ../entities/locations/location-darkwood.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
@@ -30,6 +33,14 @@ entities:
   - entity: ../entities/beings/person-yann-du-bois.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+  - entity: ../entities/beings/being-pani-vran.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+  - entity: ../entities/beings/being-sir-desmond.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
 accounts:
   - kind: campaign-account
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
@@ -38,14 +49,14 @@ accounts:
   - kind: player-notes
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
     locator: sections "Sezení 3" through "Sezení 7"
-    summary: The notes preserve developing clues, player hypotheses, Neveah's reported explanation, the search through Rumcombe and the forgotten village, Desmond's lead, and finding Kristen at Darkwood. The explicit "Co postavy neví" block in Sezení 4 remains GM/meta information outside Yann's knowledge.
+    summary: The notes preserve developing clues, player hypotheses, Neveah's reported explanation, the search through Rumcombe and Forgotton, Desmond's lead, and finding Kristen at Darkwood. The explicit "Co postavy neví" block in Sezení 4 remains GM/meta information outside Yann's knowledge.
 ---
 
 # Pátrání po Kristen
 
 ## Description
 
-Yann's letters gradually report a search for the missing Kristen. He withholds or labels some early conclusions as speculation, later says the witch Neveah provided sensitive information he would not disclose, and describes an encounter with a bird-like forest woman and a lead from Desmond before claiming the group found Kristen at Darkwood. The player notes and curator clarification establish that Yann learned of Kirsten's involvement with a vampire during the `Sezení 5` visit to Neveah; they do not thereby establish every hidden detail or the vampire's identity. The record preserves the remaining omissions, uncertainty, and attributions rather than reconstructing the missing route or chronology.
+Yann's letters gradually report a search for the missing Kristen. He withholds or labels some early conclusions as speculation, later says the witch Neveah provided sensitive information he would not disclose, and describes encounters with [Paní Vran](../entities/beings/being-pani-vran.md) and a lead from [Sir Desmond](../entities/beings/being-sir-desmond.md) before claiming the group found Kristen at Darkwood. The player notes name the memory-affecting village [Forgotton](../entities/locations/location-forgotton.md). The player notes and curator clarification establish that Yann learned of Kirsten's involvement with a vampire during the `Sezení 5` visit to Neveah; they do not thereby establish every hidden detail or the vampire's identity. The record preserves the remaining omissions, uncertainty, and attributions rather than reconstructing missing chronology.
 
 Sources:
 

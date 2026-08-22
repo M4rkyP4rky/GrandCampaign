@@ -18,11 +18,12 @@ names:
 
 ## Prepared identity and promise
 
-The rough GM notes identify Nevaeh as a witch from Blatná who promised Benedict healing associated with snake skin. The source does not establish that a cure was delivered or that the proposed expedition to obtain the skin occurred. The distinctive witch name and her influence on Penbrokton support identity with the player notes' Neveah despite the transposed spelling.
+The rough GM notes identify Nevaeh as a witch from the place source-stated as `Blatná` who promised Benedict healing associated with snake skin. The curator corrected that place-name to [Mudfeld](../locations/location-mudfeld.md). The source does not establish that a cure was delivered or that the proposed expedition to obtain the skin occurred. The distinctive witch name and her influence on Penbrokton support identity with the player notes' Neveah despite the transposed spelling.
 
 Sources:
 
 - [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `Penbrokton`, Benedict block.
+- [Rough-notes source metadata](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrokton-shelswell-rough-gm-notes.md#curator-correction) — curator correction from `Blatná` to `Mudfeld`.
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 2` and `Sezení 5`, for the same witch's influence and name.
 
 ## Played-note account

@@ -14,6 +14,12 @@ epistemic_roles:
   - established_backstory
   - npc_knowledge_and_motivation
   - planned_contingency
+curator_corrections:
+  - field: place_name
+    locator: section "Penbrokton", phrase "Nevaeh z Blatné"
+    source_value: Blatná
+    corrected_value: Mudfeld
+    provenance: curator-supplied correction during materialization review on 2026-08-22
 ---
 
 # Penbrokton, Shelswell a Old Chalford — rough GM notes
@@ -28,6 +34,15 @@ Provenance:
 
 - Curator instructions accompanying the ingestion request on 2026-08-22 — campaign adoption, GM-preparation classification, prepared-world interpretation, and source handling.
 - [Preserved rough notes](Penbrokton-Shelswell-GM-notes.md) — supplied source text and source-native labels.
+
+## Curator correction
+
+In the `Penbrokton` block, the raw source calls Nevaeh's place of origin `Blatná`. The curator corrected that place-name to [Mudfeld](../../../entities/locations/location-mudfeld.md). The source-stated form remains unchanged in the preserved rough notes and is retained as an attested corrected form in the location record.
+
+Provenance:
+
+- [Preserved rough notes](Penbrokton-Shelswell-GM-notes.md) — source-stated phrase `Nevaeh z Blatné`.
+- Curator-supplied place-name correction during materialization review on 2026-08-22 — `Mudfeld` as the corrected canonical identity.
 
 ## Source locators
 
@@ -61,7 +76,7 @@ Source:
 
 ## Identity resolution
 
-Content and role continuity support the following matches to names already attested in the player notes: `Barnaby` is `Barneby`; `Catherin` is `Katrin`; `Elinor` is `Elionor`; `Benedict` is `Benedikt`; `Nevaeh` is `Neveah`; and `Roger Lowe` is Nikolas's informant `Roger`. The rough notes' `Barbra`/`Barbora` is the same Elinor's daughter who continues through the player notes into Yann's marriage and later reported widowhood. These matches use distinctive relationships and roles rather than spelling alone.
+Content and role continuity support the following matches to names already attested in the player notes: `Barnaby` is `Barneby`; `Catherin` is `Katrin`; `Elinor` is `Elionor`; `Benedict` is `Benedikt`; `Nevaeh` is `Neveah`; and `Roger Lowe` is Nikolas's informant `Roger`. The rough notes' `Barbra`/`Barbora` is the same Elinor's daughter who continues through the player notes into Yann's marriage and later reported widowhood. These matches use distinctive relationships and roles rather than spelling alone. The source-stated place `Blatná` is retained as evidence but derives to the curator-corrected [Mudfeld](../../../entities/locations/location-mudfeld.md).
 
 The Penbrokton block's corrupted phrase before `David a Joyce` may mean Allen was also recruited for the proposed snake-skin expedition, but it is not clear enough to assert. This remains in [curation-penbrok-014](../../../curation/open.md#curation-penbrok-014--participants-and-status-of-benedicts-snake-skin-expedition).
 

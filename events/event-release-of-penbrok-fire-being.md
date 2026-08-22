@@ -17,6 +17,10 @@ entities:
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+  - entity: ../entities/beings/being-slunecni-panna.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
   - entity: ../entities/beings/person-yann-du-bois.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
@@ -45,7 +49,7 @@ accounts:
 
 ## Description
 
-The prepared baseline places a fire being trapped in a tower by an unfinished ritual. Played sources later report that the group completed or altered the ritual and caused the being to leave. The GM source's identification as an `ohnivec` and Yann's interpretation as an embodiment of the Sluneční panna are retained as distinct claims; the archive does not synthesize them into a new objective ontology.
+The prepared baseline places a fire being trapped in a tower by an unfinished ritual. Played sources later report that the group completed or altered the ritual and caused the being to leave. The GM source's identification as an `ohnivec` and Yann's interpretation as an embodiment of [Sluneční panna](../entities/beings/being-slunecni-panna.md) are retained as distinct claims; the archive does not synthesize them into a new objective ontology.
 
 Sources:
 

@@ -22,6 +22,9 @@ entities:
   - entity: ../entities/beings/person-kristen-penbrok.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+  - entity: ../entities/beings/being-johan.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
 accounts:
   - kind: campaign-account
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
@@ -37,7 +40,7 @@ accounts:
 
 ## Description
 
-Yann says the survivors learned that Blanche was being held somewhere in the Penbrok estate and received a clue from Kristen. He reports that the group reached an old mill, fought an undead servant, then negotiated Blanche's release and eventually returned with her and Kristen to Blanche's court. The exact location, route, terms, casualties, and fictional timing are not established beyond Yann's compressed farewell account.
+Yann says the survivors learned that Blanche was being held somewhere in the Penbrok estate and received a clue from Kristen. He reports that the group reached an old mill, fought an undead servant, then negotiated Blanche's release and eventually returned with her and Kristen to Blanche's court. The player notes name Blanche's guard [Johan](../entities/beings/being-johan.md) and later call the guarding being a `Fext`. The exact location, route, terms, casualties, and fictional timing are not established beyond the played accounts.
 
 Sources:
 

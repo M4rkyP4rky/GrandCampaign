@@ -21,6 +21,7 @@ Sources:
 - [Campaign-version GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx) — key 2 `Obytné stavení`.
 - [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `# Shellswel`, `Syn Thomas` block.
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 1`, `Místa`.
+- [Open Rumburk identity item](../../curation/open.md#curation-penbrok-015--rumburk-and-rumcombe-identity) — `Rumburk` is not linked to Rumcombe or materialized separately pending clarification.
 
 ## Prepared knowledge and motivation
 

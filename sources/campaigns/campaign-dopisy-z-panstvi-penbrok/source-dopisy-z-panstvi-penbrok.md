@@ -30,6 +30,16 @@ curator_corrections:
     source_value: "21.4.20234"
     corrected_value: "2024-04-21"
     provenance: curator-supplied correction accompanying the consolidation request on 2026-08-21
+  - field: being_reference_name
+    locator: section "Dobytí Penbroku", phrase "dceru vlivného sira Holta"
+    source_value: sira Holta
+    corrected_value: sir z Holtu
+    provenance: curator-supplied canonical-name decision during materialization review on 2026-08-22
+  - field: being_reference_name
+    locator: section "Prokletý klášter", phrase "pana účetního Maxmiliána de Juive"
+    source_value: Maxmiliána de Juive
+    corrected_value: Maxmillian de Juive
+    provenance: curator-supplied canonical-name decision during materialization review on 2026-08-22
 mediawiki_export:
   version: "0.11"
   page_title: Dopisy z panství Penbrok
@@ -80,11 +90,14 @@ In section `Příjezd`, the first full-name occurrence gives `Oswyna Waldergrave
 
 For `Prokletý klášter`, the raw source states `22.2.2023`; the curator-confirmed real-world session date is 2023-05-17. For `Hořkosladké vítězství`, the raw source states `21.4.20234`; the curator-confirmed real-world session date is 2024-04-21. The raw values remain in the XML and in the table above, while derived uses of real-world session dates use the corrected values.
 
+During named-identity materialization, the curator selected `sir z Holtu` as the canonical name for the father whom the correspondence calls `sira Holta`, and `Maxmillian de Juive` as the canonical name for the accountant whom it calls `Maxmiliána de Juive`. The raw inflected forms remain unchanged and the being records retain their source-supported variants.
+
 Provenance:
 
 - [Raw MediaWiki export](Penbrok.xml) — the source-stated surname in `Příjezd` and date values at sections `Prokletý klášter` and `Hořkosladké vítězství`.
 - Curator-supplied correction during curation review on 2026-08-21 — `Waldegrave` as Oswyn's correct surname.
 - Curator-supplied corrections accompanying the consolidation request on 2026-08-21 — corrected date values and their status as real-world session dates.
+- Curator-supplied canonical-name decisions during materialization review on 2026-08-22 — `sir z Holtu` and `Maxmillian de Juive` as derived reference names.
 
 ## Temporal separation
 

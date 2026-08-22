@@ -3,7 +3,7 @@ id: event-cursed-monastery-expedition
 record_type: event
 reference_name: Výprava do prokletého kláštera
 time:
-  description: Fictional date and duration are not recorded; Yann presents the expedition after his marriage and after Maxmilián de Juive's arrival at Penbrok.
+  description: Fictional date and duration are not recorded; Yann presents the expedition after his marriage and after Maxmillian de Juive's arrival at Penbrok.
   sources:
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 locations:
@@ -13,6 +13,10 @@ locations:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
       - ../curation/resolved.md#curation-penbrok-005--identity-of-the-two-monasteries
 entities:
+  - entity: ../entities/beings/being-maxmillian-de-juive.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
   - entity: ../entities/beings/person-yann-du-bois.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml

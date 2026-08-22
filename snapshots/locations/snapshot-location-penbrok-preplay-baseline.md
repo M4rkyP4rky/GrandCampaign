@@ -18,7 +18,7 @@ state:
 
 ## Occupancy and condition
 
-The GM preparation depicts the stone fortress on a narrow high hill between two trading routes, occupied by Nicholas and a bandit group. Lawrence serves Nicholas and tends horses; Cecily is held as a hostage. The drawbridge and defensive walkways are prepared as damaged or fragile. Dice chances, tactical responses, and possible future actions remain source procedures and contingencies rather than snapshot facts about what happened.
+The GM preparation depicts the stone fortress on a narrow high hill between two trading routes, occupied by Nicholas and a bandit group. [Lawrence](../../entities/beings/being-lawrence-penbrok.md) serves Nicholas and tends horses; Cecily is held as a hostage. [Gilbert](../../entities/beings/being-gilbert-penbrok.md) is prepared as the named lookout, while the rest of the bandit group is unnamed. The drawbridge and defensive walkways are prepared as damaged or fragile. Dice chances, tactical responses, and possible future actions remain source procedures and contingencies rather than snapshot facts about what happened.
 
 Sources:
 

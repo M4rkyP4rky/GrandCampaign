@@ -23,6 +23,16 @@ names:
 
 # Cecily z Holtu
 
+## Name and origin
+
+Cecily's attested `z Holtu` name relates her to [Holt](../locations/location-holt.md). The curator identifies Holt as the place or domain administered by her father, [sir z Holtu](being-sir-of-holt.md). The exact legal, familial, or territorial force of Cecily's style is not otherwise inferred.
+
+Sources:
+
+- [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx) — keys 6 `Loupeživý rytíř` and 7 `Rukojmí`, for the attested name.
+- [Raw correspondence](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Dobytí Penbroku`, for her father's source-stated form `sir Holt`.
+- Curator-supplied Holt identity and relationship clarification during materialization review on 2026-08-22.
+
 ## Prepared state
 
 The GM preparation places Cecily at Penbrok as Nicholas's hostage. It says she had entered the cursed part of the castle, cast jewelry into what she took for a well while wishing for rescue, and was in her first curse-induced sleep at the prepared starting point. Her stated resentment toward her father and preference for being supported by a rescuer are prepared NPC motivation, not proof of later action.
