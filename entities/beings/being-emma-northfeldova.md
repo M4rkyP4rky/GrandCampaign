@@ -7,6 +7,7 @@ names:
     role: reference
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx
+      - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md
   - name: Emma Shelswellová
     role: historical
     language_or_context: maiden name stated in the GM preparation
@@ -27,9 +28,10 @@ Sources:
 
 ## Prepared knowledge and motivation
 
-Emma is prepared as knowing the source of the estate's wealth, continuing the inherited guest-and-fish practice, and wanting to arrange Thomas's marriage. She leaves the practical handling of the fish and worm to Jerome and Tobiáš. These are hidden pre-play claims about her knowledge and motivation; the sources do not establish her fate after the confrontation at Shelswell.
+Emma is prepared as holding inherited knowledge of the estate's wealth, continuing the guest-and-fish practice, and wanting Thomas married before passing the secret to the next generation. She leaves practical handling to Jerome and Tobiáš. The rough notes specify that her knowledge does not include the recent use of corpses. These are hidden pre-play claims about her knowledge and motivation; the sources do not establish her fate after the confrontation at Shelswell.
 
 Sources:
 
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx) — key 2 and hidden backstory under key 6.
+- [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `# Shellswel`, `Lady Emma` block.
 - [Open fate question](../../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — unresolved played outcome for named household members other than Adrian.

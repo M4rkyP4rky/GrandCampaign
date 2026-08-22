@@ -96,11 +96,12 @@ The preparation depicts Adrian alive, the white worm active, and the household s
 
 The preparation identifies a giant white worm and an addictive fish-treatment mechanism. Yann interprets the creature and household prosperity through Sígref Strašlivá and dark magic. The archive preserves the prepared identification and Yann's religious interpretation separately rather than promoting either through an automatic source ranking.
 
-The preparation assigns knowledge of the operative secret to Emma, Jerome, and Tobiáš while presenting Adrian as searching for it and Thomas as still ignorant. Yann's played account instead describes a plot involving a substantial part of Adrian's family and servants without naming the participants. The exact played knowledge and complicity remain unresolved.
+The preparation assigns knowledge of the operative secret to Emma, Jerome, and Tobiáš while presenting Adrian as searching for it and Thomas as still ignorant. The later-ingested rough GM notes add compatible detail about their knowledge and motives without establishing played complicity. Yann's played account instead describes a plot involving a substantial part of Adrian's family and servants without naming the participants. The exact played knowledge and complicity remain unresolved.
 
 Sources:
 
 - [Preserved GM preparation](025-Usedlost-Shelswell-Campaign-version.docx) — prepared household, secret, white worm, and keys 1–13.
+- [Rough GM notes](Penbrokton-Shelswell-GM-notes.md) — `# Shellswel`, compatible additional prepared evidence.
 - [Player notes](Penbrok-hracske-poznamky.md) — `Sezení 1`, for Shelswell and its named household.
 - [Player-notes source metadata](source-penbrok-hracske-poznamky.md#content-based-session-mapping) — strong content mapping of `Sezení 1` to `Příjezd`.
 - [Correspondence source metadata](source-dopisy-z-panstvi-penbrok.md#section-level-play-metadata) — real-world session date and RPG-system context for `Příjezd`.
@@ -111,12 +112,13 @@ Sources:
 
 ## Deliberately source-local material
 
-The archive does not create independent records for every keyed building, room, door, barrel, route, supply cache, item, local tactical feature, or encounter ability. Thomas, Jerome Hobart, Tobiáš, Brigitte from the player notes, the lean horse, and the oversized ferret remain source-local rather than being mechanically materialized as beings. Their names and roles remain practically retrievable through the locators above and `Sezení 1` in the player notes.
+The archive does not create independent records for every keyed building, room, door, barrel, route, supply cache, item, local tactical feature, or encounter ability. The later rough-notes ingestion and its curator-directed named-being policy resulted in persistent records for Thomas, Jerome Hobart, and Tobiáš. Brigitte from the player notes, the lean horse, and the oversized ferret remain source-local; their names and roles remain practically retrievable through the locators above and `Sezení 1` in the player notes.
 
 Source:
 
 - [Preserved GM preparation](025-Usedlost-Shelswell-Campaign-version.docx) — textual keys 1–13 and the final map page.
 - [Player notes](Penbrok-hracske-poznamky.md) — `Sezení 1`, including Brigitte.
+- [Rough-notes source record](source-penbrokton-shelswell-rough-gm-notes.md) — later source and ingestion-specific named-being handling.
 
 ## Import trace
 

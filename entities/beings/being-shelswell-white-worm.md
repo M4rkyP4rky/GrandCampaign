@@ -7,17 +7,23 @@ names:
     role: reference
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx
+  - name: Bílý Červ
+    role: alternate
+    language_or_context: capitalization in the rough GM notes
+    sources:
+      - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md
 ---
 
 # Obří bílý červ ze Shelswellu
 
 ## Prepared GM identification
 
-The GM preparation identifies a giant white worm kept in hidden caves beneath Shelswell. Jerome Hobart and Tobiáš feed it animals or overly curious people, use its excretions in fish brine, and rely on hardened slime to stabilize underground passages. The prepared effects and encounter properties are hidden GM information and game procedure, not automatic character knowledge or evidence that every possible interaction occurred.
+The GM preparations identify a giant white worm kept in hidden caves beneath Shelswell. The rough notes describe a family tradition of feeding it animal carcasses and hunting remains and say Jerome used a dead soldier during the war when game became scarce; the resulting fish were then used when hosting members of hostile sides. The campaign-version preparation says Jerome Hobart and Tobiáš feed it animals or overly curious people, use its excretions in fish brine, and rely on hardened slime to stabilize underground passages. The prepared effects and encounter properties are hidden GM information and game procedure, not automatic character knowledge or evidence that every possible interaction occurred.
 
 Sources:
 
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx) — key 1, hidden backstory under key 6, and keys 9–10.
+- [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `# Shellswel`, fish blocks.
 
 ## Played interpretation and reported outcome
 

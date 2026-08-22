@@ -11,6 +11,16 @@ names:
     role: alternate
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+  - name: Shellswel
+    role: alternate
+    language_or_context: spelling in the rough GM notes
+    sources:
+      - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md
+  - name: Shellwell
+    role: alternate
+    language_or_context: spelling within the rough GM notes
+    sources:
+      - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md
 snapshots:
   - ../../snapshots/locations/snapshot-location-shelswell-preplay-baseline.md
 ---
@@ -28,8 +38,9 @@ Sources:
 
 ## Physical description and source-local plan
 
-The preparation depicts a walled estate with residential and economic buildings, a fishpond and sluice, an old mill, waterways, and concealed underground routes. Time-specific condition, occupancy, and hidden mechanisms are kept in the prepared snapshot. Individual keyed areas are not separate locations; retrieve them through keys 1–13 and the composed final map page in the source metadata.
+The campaign-version preparation depicts a walled estate with residential and economic buildings, a fishpond and sluice, an old mill, waterways, and concealed underground routes. The rough notes add a hidden counterfeiting history connected to the mill, pond, channel, and pyrite mine. Time-specific condition, occupancy, and hidden mechanisms are kept in the prepared snapshot. Individual keyed areas are not separate locations; retrieve them through keys 1–13 and the composed final map page in the source metadata.
 
 Sources:
 
 - [GM-preparation source metadata](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-usedlost-shelswell-gm-preparation.md#keyed-textual-locators) — keyed headings and map addressability.
+- [Rough-notes source metadata](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrokton-shelswell-rough-gm-notes.md#source-locators) — compatible additional hidden location evidence under `# Shellswel`.

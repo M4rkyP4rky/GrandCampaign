@@ -27,8 +27,10 @@ Sources:
 
 ## Prepared baseline
 
-The GM preparation places Nicholas at Penbrok before play as a robber knight occupying the fortress with bandits. It gives him knowledge of the curse and identifies Cecily as his hostage. His possible future consideration of selling her if circumstances did not change is explicitly contingent preparation and is not recorded as an event.
+The Hrad Penbrok preparation places Nicholas at Penbrok before play as a robber knight occupying the fortress with bandits. It gives him knowledge of the curse and identifies Cecily as his hostage. The Penbrokton rough notes, identified with Nikolas through the player notes, add that Elinor negotiated tribute with his robber knights and that he was involved with her daughter Barbra. His possible future consideration of selling Cecily and Barbra's desire to remove the hostage are intentions or contingencies, not events.
 
 Sources:
 
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx) — key 6 `Loupeživý rytíř`.
+- [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `Penbrokton`, Elinor and Barbra blocks.
+- [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 2`, identifying Nikolas as the tribute-taking robber knight and Barbra's partner.

@@ -12,6 +12,7 @@ names:
     role: alternate
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx
+      - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md
 ---
 
 # Sir Adrian
@@ -27,11 +28,12 @@ Sources:
 
 ## Prepared knowledge and activity
 
-Adrian is prepared as spending family wealth on restoring the old mill while secretly searching there for Emma's inherited family secret. Emma, Jerome, and Tobiáš know what he is doing and allow the search to continue, but the preparation does not say Adrian has discovered the mechanism behind the estate's wealth.
+Adrian is prepared as spending family wealth on restoring the old mill while secretly searching there for Emma's inherited family secret. The rough notes distinguish this focus from the fish operation, which does not interest him. They add that indications noticed during an imprecisely placed escape through a secret passage are beginning to make the mill's ancestral secret clearer to him. This does not establish that he knows the worm-and-fish mechanism or supply enough temporal precision for an escape event. Emma, Jerome, and Tobiáš know about his search and allow it to continue.
 
 Sources:
 
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx) — key 5 `Starý mlýn` and hidden backstory under key 6 `Hráz rybníka`.
+- [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `# Shellswel`, `Sir Adrian` and `Rodinné tajemství:` blocks.
 
 ## Played account
 

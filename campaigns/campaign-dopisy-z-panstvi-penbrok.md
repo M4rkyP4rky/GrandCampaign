@@ -7,6 +7,7 @@ record_sources:
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-hrad-penbrok-gm-preparation.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-usedlost-shelswell-gm-preparation.md
+  - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrokton-shelswell-rough-gm-notes.md
 ---
 
 # Panství Penbrok
@@ -63,6 +64,17 @@ Sources:
 - [Shelswell GM-preparation source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-usedlost-shelswell-gm-preparation.md) — classification, keyed locators, visual addressability, and prepared-versus-played handling.
 - [Prepared Shelswell snapshot](../snapshots/locations/snapshot-location-shelswell-preplay-baseline.md) — selectively materialized significant starting state.
 - [Played event](../events/event-adrian-house-ordeal.md) — later account retained with Yann's interpretations and unresolved household outcomes.
+
+## Rough prepared settlement notes
+
+The rough GM notes add adopted prepared state for Penbrokton, compatible hidden backstory and household detail for Shelswell, and an additional prepared Old Chalford block. Named beings are resolved and materialized under the curator's instruction for this ingest. Knowledge, motives, threats, and proposed actions remain distinct from historical events, and later played changes do not erase the earlier prepared snapshots.
+
+Sources:
+
+- [Rough-notes source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrokton-shelswell-rough-gm-notes.md) — classification, locators, identity resolution, and prepared-versus-played handling.
+- [Prepared Penbrokton snapshot](../snapshots/locations/snapshot-location-penbrokton-preplay-baseline.md) — selectively materialized settlement state.
+- [Updated Shelswell snapshot](../snapshots/locations/snapshot-location-shelswell-preplay-baseline.md) — compatible additional hidden and household state.
+- [Prepared Old Chalford snapshot](../snapshots/locations/snapshot-location-old-chalford-preplay-baseline.md) — source-contained additional location state.
 
 ## Play context
 
