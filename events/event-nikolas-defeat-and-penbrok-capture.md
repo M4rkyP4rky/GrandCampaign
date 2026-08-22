@@ -3,8 +3,17 @@ id: event-nikolas-defeat-and-penbrok-capture
 record_type: event
 reference_name: Porážka Nikolase a obsazení Penbroku
 time:
-  description: Fictional date is not recorded; Yann describes this after the Adrian-house incident and says the continuation was written several days after his preceding text.
+  description: The event occurred during podzim 1652 poPA; its exact month and day are not recorded. Yann describes it after the Adrian-house incident and says the continuation was written several days after his preceding text.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 locations:
   - location: ../entities/locations/location-penbrok-fortress.md

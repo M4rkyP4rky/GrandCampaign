@@ -3,8 +3,17 @@ id: event-rescue-of-blanche
 record_type: event
 reference_name: Nalezení a propuštění Blanche
 time:
-  description: Fictional date is not recorded; Yann places the search after Ruthwen's defeat and the attack on Penbrok, followed later by the group's return to Blanche's court.
+  description: The event occurred during podzim 1652 poPA; its exact month and day are not recorded. Yann places the search after Ruthwen's defeat and the attack on Penbrok, followed later by the group's return to Blanche's court.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 entities:
   - entity: ../entities/beings/person-blanche-renardova.md

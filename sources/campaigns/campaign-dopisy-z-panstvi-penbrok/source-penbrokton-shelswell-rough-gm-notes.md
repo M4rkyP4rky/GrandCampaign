@@ -8,6 +8,8 @@ campaign: ../../../campaigns/campaign-dopisy-z-panstvi-penbrok.md
 document_type: gm_preparation
 relationship_to_play: pre_play
 perspective: gm
+real_world_author: 'Filip "MarkyParky" Dvořák'
+real_world_author_metadata_provenance: curator-supplied GM authorship and identity information on 2026-08-22
 epistemic_roles:
   - prepared_baseline
   - hidden_gm_information
@@ -28,11 +30,12 @@ curator_corrections:
 
 These are rough GM preparation notes adopted for the campaign `Panství Penbrok`. Their declarative material is evidence of the prepared fictional world even where the players did not encounter or discover it. Hidden state remains distinct from player-character knowledge, and motives, intentions, desired outcomes, and conditional violence are not historical events merely because the GM prepared them.
 
-No real-world author was supplied. The text was provided inline in the curator's ingestion request on 2026-08-22 while `sources/inbox/` contained no corresponding file. The preserved Markdown file therefore contains exactly the supplied notes from `Penbrokton` onward; the archive does not infer an original filename, external document timestamp, fictional date, or play date.
+Filip "MarkyParky" Dvořák is the curator-confirmed real-world author. The text was provided inline in the curator's ingestion request on 2026-08-22 while `sources/inbox/` contained no corresponding file. The preserved Markdown file therefore contains exactly the supplied notes from `Penbrokton` onward; the archive does not infer an original filename, external document timestamp, fictional date, or play date.
 
 Provenance:
 
 - Curator instructions accompanying the ingestion request on 2026-08-22 — campaign adoption, GM-preparation classification, prepared-world interpretation, and source handling.
+- Curator-supplied GM authorship and real-world identity information on 2026-08-22 — authoritative authorship.
 - [Preserved rough notes](Penbrokton-Shelswell-GM-notes.md) — supplied source text and source-native labels.
 
 ## Curator correction

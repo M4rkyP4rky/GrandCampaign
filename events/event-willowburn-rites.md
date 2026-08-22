@@ -3,8 +3,17 @@ id: event-willowburn-rites
 record_type: event
 reference_name: Obřady ve Willowburnu
 time:
-  description: Fictional date is not recorded; Yann calls the Willowburn events recent and places them after the snake-den expedition.
+  description: The rites occurred during podzim 1652 poPA; their exact month and day are not recorded. Yann calls the Willowburn events recent and places them after the snake-den expedition.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 locations:
   - location: ../entities/locations/location-willowburn.md

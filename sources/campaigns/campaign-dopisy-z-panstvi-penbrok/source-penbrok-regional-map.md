@@ -8,6 +8,8 @@ campaign: ../../../campaigns/campaign-dopisy-z-panstvi-penbrok.md
 document_type: gm_preparation_map
 relationship_to_play: prepared_regional_baseline
 perspective: gm
+real_world_author: 'Filip "MarkyParky" Dvořák'
+real_world_author_metadata_provenance: curator-supplied GM authorship and identity information on 2026-08-22
 epistemic_roles:
   - prepared_baseline
   - map_reference
@@ -19,13 +21,14 @@ companion_source: source-penbrok-regional-map-key.md
 
 ## Classification
 
-This JPEG is an adopted GM-preparation regional map for the campaign `Panství Penbrok`. It establishes the presence of numbered marker labels in the range `00`–`82` and preserves their relative visual placement and surrounding cartographic context on this particular map. It is not a played account and supplies no exact fictional date.
+This JPEG is an adopted GM-preparation regional map by Filip "MarkyParky" Dvořák for the campaign `Panství Penbrok`. It establishes the presence of numbered marker labels in the range `00`–`82` and preserves their relative visual placement and surrounding cartographic context on this particular map. It is not a played account and supplies no exact fictional date.
 
 The image does not establish geographic coordinates, a coordinate system, scale, exact distances, or measurements. Roads, streams, terrain, settlement symbols, buildings, and other unnumbered artwork remain source-local unless the companion key or other ingested evidence independently gives them persistent semantic identity.
 
 Provenance:
 
 - Curator ingestion instructions supplied on 2026-08-22 — campaign adoption, GM/world-preparation classification, temporal handling, and limits on cartographic inference.
+- Curator-supplied GM authorship and real-world identity information on 2026-08-22 — authoritative authorship.
 - [Preserved regional map](Penbrok_Small.jpg) — marker labels, relative visual placement, and surrounding artwork.
 
 ## Relationship to the curator map key

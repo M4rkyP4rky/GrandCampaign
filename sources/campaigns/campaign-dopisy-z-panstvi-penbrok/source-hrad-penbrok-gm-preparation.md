@@ -8,6 +8,8 @@ campaign: ../../../campaigns/campaign-dopisy-z-panstvi-penbrok.md
 document_type: gm_preparation
 relationship_to_play: pre_play
 perspective: gm
+real_world_author: 'Filip "MarkyParky" Dvořák'
+real_world_author_metadata_provenance: curator-supplied GM authorship and identity information on 2026-08-22
 epistemic_roles:
   - prepared_baseline
   - hidden_gm_information
@@ -41,11 +43,12 @@ curator_corrections:
 
 This is pre-play GM preparation for `Hrad Penbrok` in the campaign `Panství Penbrok`. It supplies a prepared starting state, hidden backstory and mechanisms, NPC knowledge and motivations, encounter procedures, contingencies, draft fragments, keyed location descriptions, and a composed castle map. It is evidence for what was prepared, not by itself evidence that a possible action or outcome occurred in play.
 
-The DOCX package names `Filip Dvořák` as its creator and last modifier. Those fields are preserved as document-package provenance only; no curator-supplied real-world authorship was provided, so the package metadata is not promoted to an authoritative real-world author claim. The creation and modification timestamps are real-world document metadata, not fictional dates or session dates.
+Filip "MarkyParky" Dvořák is the curator-confirmed real-world author. The DOCX package's source-stated creator and last-modifier form `Filip Dvořák` is preserved as document-package provenance and resolves to the same real-world person; the curator-supplied authorship supersedes reliance on package metadata alone. The creation and modification timestamps are real-world document metadata, not fictional dates or session dates.
 
 Provenance:
 
 - Curator instructions accompanying the ingestion request on 2026-08-21 — campaign association, pre-play classification, and interpretation rules.
+- Curator-supplied GM authorship and real-world identity information on 2026-08-22 — authoritative authorship and normalization of the package name form.
 - [Preserved GM preparation](000-Hrad-Penbrok.docx) — document content, package properties, keyed headings, and composed visual material.
 
 ## Epistemic handling

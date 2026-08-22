@@ -3,8 +3,17 @@ id: event-darkwood-escape
 record_type: event
 reference_name: Útěk z Darkwoodu
 time:
-  description: Fictional date and duration are not recorded; Yann's account spans the sections Upír and Dívky a dámy v nesnázích and ends before the group's return to Penbrok.
+  description: The event occurred during podzim 1652 poPA; its exact month, day, and duration are not recorded. Yann's account spans the sections Upír and Dívky a dámy v nesnázích and ends before the group's return to Penbrok.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 locations:
   - location: ../entities/locations/location-darkwood.md

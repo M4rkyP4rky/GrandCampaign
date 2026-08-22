@@ -3,8 +3,17 @@ id: event-penbrok-staff-recruitment
 record_type: event
 reference_name: Najímání personálu na Penbroku
 time:
-  description: Ongoing for an unspecified period during the campaign; the source records no exact beginning or end.
+  description: Ongoing for an unspecified interval during podzim 1652 poPA; the source records no exact month, day, beginning, or end.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt
 locations:
   - location: ../entities/locations/location-penbrok-fortress.md

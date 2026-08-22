@@ -3,8 +3,17 @@ id: event-yann-barbra-marriage
 record_type: event
 reference_name: Sňatek Yanna a Barbry
 time:
-  description: The exact fictional date is not recorded; played sources place the marriage after their Willowburn engagement and before the expedition to Hamswic.
+  description: The marriage occurred during podzim 1652 poPA; its exact month and day are not recorded. Played sources place it after the Willowburn engagement and before the expedition to Hamswic.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt

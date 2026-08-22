@@ -3,8 +3,17 @@ id: event-search-for-kristen
 record_type: event
 reference_name: Pátrání po Kristen
 time:
-  description: Fictional dates and total duration are not recorded; Yann presents a search beginning after the group's arrival at Penbrok and ending when Kristen is found at Darkwood.
+  description: The search occurred during podzim 1652 poPA; its exact months, days, and total duration are not recorded. Yann presents it as beginning after the group's arrival at Penbrok and ending when Kristen is found at Darkwood.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 locations:
   - location: ../entities/locations/location-penbrok-fortress.md

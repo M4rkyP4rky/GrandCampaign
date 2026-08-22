@@ -8,6 +8,8 @@ campaign: ../../../campaigns/campaign-dopisy-z-panstvi-penbrok.md
 document_type: gm_preparation
 relationship_to_play: pre_play
 perspective: gm
+real_world_author: 'Filip "MarkyParky" Dvořák'
+real_world_author_metadata_provenance: curator-supplied GM authorship and identity information on 2026-08-22
 epistemic_roles:
   - prepared_baseline
   - hidden_gm_information
@@ -35,11 +37,12 @@ docx_package_metadata:
 
 This is pre-play GM preparation adopted for the `Usedlost Shelswell` location and adventure in the campaign `Panství Penbrok`. It supplies a prepared household and location state, hidden backstory and mechanism, NPC knowledge and motivations, contingencies, encounter information, thirteen keyed areas, and a composed two-panel map. It is evidence of what was prepared for this campaign, not by itself evidence that a possible action or outcome occurred in play.
 
-The DOCX package names `Filip Dvořák` as creator and last modifier. Those fields are preserved as document-package provenance only; no curator-supplied real-world authorship was provided, so they are not promoted to an authoritative real-world author claim. The package creation, modification, and last-printed timestamps are real-world document metadata. Their order is not used to infer preparation chronology, session chronology, fictional chronology, or an in-world document date.
+Filip "MarkyParky" Dvořák is the curator-confirmed real-world author. The DOCX package's source-stated creator and last-modifier form `Filip Dvořák` is preserved as document-package provenance and resolves to the same real-world person; the curator-supplied authorship supersedes reliance on package metadata alone. The package creation, modification, and last-printed timestamps are real-world document metadata. Their order is not used to infer preparation chronology, session chronology, fictional chronology, or an in-world document date.
 
 Provenance:
 
 - Curator instructions accompanying the ingestion request on 2026-08-22 — campaign association, adoption as pre-play GM preparation for Usedlost Shelswell, and required epistemic handling.
+- Curator-supplied GM authorship and real-world identity information on 2026-08-22 — authoritative authorship and normalization of the package name form.
 - [Preserved GM preparation](025-Usedlost-Shelswell-Campaign-version.docx) — document content, package properties, keyed headings, and composed visual material.
 
 ## Epistemic handling

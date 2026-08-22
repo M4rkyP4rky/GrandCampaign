@@ -3,8 +3,17 @@ id: event-snake-den-expedition
 record_type: event
 reference_name: Výprava do hadího doupěte
 time:
-  description: Fictional date and duration are not recorded; Yann presents the expedition after the group's establishment at Penbrok and before its journey to Willowburn.
+  description: The expedition occurred during podzim 1652 poPA; its exact month, day, and duration are not recorded. Yann presents it after the group's establishment at Penbrok and before its journey to Willowburn.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 locations:
   - location: ../entities/locations/location-penbrok-map-09.md

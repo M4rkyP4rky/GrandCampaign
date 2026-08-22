@@ -3,8 +3,17 @@ id: event-cursed-monastery-expedition
 record_type: event
 reference_name: Výprava do prokletého kláštera
 time:
-  description: Fictional date and duration are not recorded; Yann presents the expedition after his marriage and after Maxmillian de Juive's arrival at Penbrok.
+  description: The event occurred during podzim 1652 poPA; its exact month, day, and duration are not recorded. Yann presents the expedition after his marriage and after Maxmillian de Juive's arrival at Penbrok.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
 locations:
   - location: ../entities/locations/location-hamswic.md

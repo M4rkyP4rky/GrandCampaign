@@ -3,8 +3,17 @@ id: event-release-of-penbrok-fire-being
 record_type: event
 reference_name: Propuštění ohnivce z Penbroku
 time:
-  description: The exact fictional date and duration are not recorded; played accounts place the incident after the Willowburn expedition during the group's investigation of the Penbrok fortress.
+  description: The event occurred during podzim 1652 poPA; its exact month, day, and duration are not recorded. Played accounts place it after the Willowburn expedition during the group's investigation of the Penbrok fortress.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
 locations:

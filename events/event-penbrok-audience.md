@@ -3,8 +3,17 @@ id: event-penbrok-audience
 record_type: event
 reference_name: Audience o problémech panství Penbrok
 time:
-  description: The exact fictional date and duration are not recorded; existing player notes place the audience after the group's occupation of Penbrok and before the snake-den expedition.
+  description: The audience occurred during podzim 1652 poPA; its exact month, day, and duration are not recorded. Existing player notes place it after the group's occupation of Penbrok and before the snake-den expedition.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
   sources:
+    - Curator-supplied campaign chronology on 2026-08-22
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
     - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt
 locations:

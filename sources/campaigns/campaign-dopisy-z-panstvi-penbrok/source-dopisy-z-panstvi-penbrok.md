@@ -47,6 +47,8 @@ mediawiki_export:
   revision_id: 1302
   revision_timestamp: "2025-07-12T14:21:26Z"
   revision_contributor: Markyparky
+  revision_contributor_resolved_identity: 'Filip "MarkyParky" Dvořák'
+  revision_contributor_identity_provenance: curator-supplied real-world identity information on 2026-08-22
 ---
 
 # Dopisy z panství Penbrok
@@ -55,11 +57,12 @@ mediawiki_export:
 
 This source is an in-world correspondence document from played material. Its narrative perspective is that of the in-world character Yann du Bois, and its contents are both a campaign account and character testimony. Statements in the letters therefore retain Yann's knowledge, beliefs, rhetoric, hearsay, uncertainty, and bias; this classification does not make them objective GM truth.
 
-Jiří "Sarsaparillos" Richter is the real-world author. That authorship is curator-supplied archive metadata and is authoritative for this source. The MediaWiki revision contributor `Markyparky` is recorded separately as export provenance and is not treated as evidence of real-world authorship.
+Jiří "Sarsaparillos" Richter is the real-world author. That authorship is curator-supplied archive metadata and is authoritative for this source. The MediaWiki revision contributor's source-stated form `Markyparky` is recorded separately as export provenance and resolves to the real-world identity Filip "MarkyParky" Dvořák. Revision contribution is not authorship of the player-authored correspondence.
 
 Provenance:
 
 - Curator-supplied archive metadata accompanying the ingestion request on 2026-08-21 — document classification, relationship to play, perspective, in-world narrator, real-world author, and epistemic roles.
+- Curator-supplied real-world identity information on 2026-08-22 — resolution of the export contributor alias without changing source authorship.
 - [Raw MediaWiki export](Penbrok.xml) — page title, page and revision identifiers, revision timestamp, revision contributor, and the letters themselves.
 
 ## Section-level play metadata

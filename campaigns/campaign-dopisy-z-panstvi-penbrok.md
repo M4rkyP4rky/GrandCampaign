@@ -2,6 +2,24 @@
 id: campaign-dopisy-z-panstvi-penbrok
 record_type: campaign
 reference_name: Panství Penbrok
+time:
+  description: The campaign takes place during podzim (autumn) of 1652 poPA; exact campaign start and end dates within the season are not established.
+  start:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  end:
+    precision: broad
+    year_ap: 1652
+    season: podzim
+  sources:
+    - Curator-supplied campaign chronology on 2026-08-22
+game_master: 'Filip "MarkyParky" Dvořák'
+game_master_aliases:
+  - Filip Dvořák
+  - MarkyParky
+  - Markyparky
+game_master_metadata_provenance: curator-supplied campaign and real-world identity information on 2026-08-22
 record_sources:
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-dopisy-z-panstvi-penbrok.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md
@@ -23,6 +41,25 @@ Sources:
 
 - Curator-supplied campaign-name correction accompanying the consolidation request on 2026-08-21 — authoritative campaign name and distinction from the source title.
 - [Source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-dopisy-z-panstvi-penbrok.md) — source title, played classification, perspective, and epistemic roles.
+
+## Campaign chronology
+
+The campaign takes place during `podzim` (autumn) of 1652 poPA. Under the approved calendar, `podzim` is the season comprising `sedmenec`, `osmenec`, and `devatenec`; this supplies a seasonal envelope, not exact campaign or event dates. Existing source-supported relative chronology remains in force within that envelope. Real-world session dates and source-package timestamps are not converted into fictional chronology.
+
+Sources:
+
+- Curator-supplied campaign chronology on 2026-08-22 — campaign-level year and season.
+- [Temporal governance](../docs/temporal-model.md#calendar-interaction) — approved meaning of `podzim` and prohibition on automatic real-world-to-fictional date conversion.
+
+## Game master and real-world identity
+
+Filip "MarkyParky" Dvořák was the GM of `Panství Penbrok`. In derived provenance, `Filip Dvořák`, `MarkyParky`, and `Filip "MarkyParky" Dvořák` resolve to this one real-world person, with the quoted form used as the preferred display name. Source-stated forms remain preserved in source-specific package or export metadata and do not create separate identities. This real-world provenance identity is not a fictional being record.
+
+Sources:
+
+- Curator-supplied GM, authorship, and real-world identity information on 2026-08-22.
+- [Hrad Penbrok source metadata](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-hrad-penbrok-gm-preparation.md#classification-and-document-metadata) — curator-confirmed authorship and preserved DOCX package form.
+- [Correspondence source metadata](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-dopisy-z-panstvi-penbrok.md#classification-and-authorship) — player authorship remains distinct while the export contributor alias is resolved separately.
 
 ## Account frame
 
