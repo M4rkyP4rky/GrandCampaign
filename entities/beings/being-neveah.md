@@ -33,3 +33,12 @@ The player notes describe Neveah as very old, living in the marshes, and extendi
 Sources:
 
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 5` and `Sezení 10`.
+
+## Quest-log retrospective
+
+The quest log locates Neveah through marker `05` south of Egham and says she intervened in Penbrokton's affairs and wanted the shed skin from [Hadí jeskyně](../locations/location-penbrok-map-09.md). It also attributes the Penbrok curse to her at the original lord's request. The player explicitly remembers almost nothing about the dedicated Neveah block and does not remember why she altered or botched the curse, offering only speculation; those memory gaps do not replace the more specific prepared and played-note evidence.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — markers `00`, `02`, `05`, and `09`.
+- [Curse-casting event](../../events/event-penbrok-curse-casting.md) — separately attributed preparation and retrospective accounts.

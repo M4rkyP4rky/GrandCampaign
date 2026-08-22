@@ -23,6 +23,9 @@ entities:
   - entity: ../entities/beings/person-oswyn-waldergrave.md
     sources:
       - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+  - entity: ../entities/beings/being-cecily-of-holt.md
+    sources:
+      - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt
 accounts:
   - kind: gm-preparation
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx
@@ -36,6 +39,10 @@ accounts:
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
     locator: section "Sezení 2"
     summary: The notes report the ambush, rout, Oswyn's protection of local youths, Nathaniel unhorsing Nikolas, and the group's subsequent situation at the fortress; Yann's celebratory phrasing and the note author's unresolved prompts remain perspective-bound.
+  - kind: player-retrospective
+    source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt
+    locator: marker `00`, first two closed items and open `Cecilia z Holtu` item
+    summary: The quest log says the group got rid of Nicholas, occupied the outer courtyard, gained control of the whole castle, and freed Cecilia, while her later situation remained an unclosed quest-log item.
 ---
 
 # Porážka Nikolase a obsazení Penbroku
@@ -46,8 +53,11 @@ According to Yann, Nathaniel lured Nikolas from the fortified residence, Nikolas
 
 The GM preparation's earlier depiction of Nicholas controlling the fortress is compatible with this played account as the state immediately changed by the event; it is not treated as a conflict.
 
+The quest log additionally reports control of the entire castle and identifies Cecily as a freed hostage. These are supported by the item text; the check marks record closure but are not independently interpreted as success.
+
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Dobytí Penbroku`, with setup in `Příjezd`.
 - [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 2`, a second player-authored account of the ambush and capture.
 - [GM preparation](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx) — keys 3–7, for the prepared occupation preceding the played change.
+- [Discord player quest log](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `00`, castle-control and Cecily items.

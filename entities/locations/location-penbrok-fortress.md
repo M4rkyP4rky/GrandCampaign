@@ -48,3 +48,14 @@ Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `00`.
 - [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `00` and relative visual placement.
+
+## Quest-log played changes and unresolved curse
+
+The player quest log says the group first occupied the outer courtyard and then gained control of the whole castle. It also reports finding and releasing the trapped fire being and retains breaking or controlling the castle curse as an item that was not marked closed. The open marker does not establish the curse's ultimate campaign outcome, while the item text and nested accounts supplement the already materialized capture, curse, Florence, and fire-being events.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `00`, `Hrad Penbrok` block.
+- [Capture event](../../events/event-nikolas-defeat-and-penbrok-capture.md) — reported control change.
+- [Curse-casting event](../../events/event-penbrok-curse-casting.md) — earlier hidden history and player-retrospective account.
+- [Florence death event](../../events/event-florence-death-at-penbrok.md) and [fire-being release](../../events/event-release-of-penbrok-fire-being.md) — tower events.

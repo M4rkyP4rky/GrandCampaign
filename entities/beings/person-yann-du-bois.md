@@ -27,6 +27,8 @@ Yann reports an unexpected betrothal and later marriage to Barbra, Barbra's deat
 Sources:
 
 - [Raw correspondence](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — sections `Hladovějící z Willowburnu`, `Prokletý klášter`, and `Hořkosladké vítězství`.
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `02`, closed marriage item corroborating the marriage outcome.
+- [Marriage event](../../events/event-yann-barbra-marriage.md) — consolidated source accounts.
 
 ## Knowledge of the Penbrok curse
 

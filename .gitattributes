@@ -19,6 +19,9 @@ sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md 
 # This curator-authored raw map key has preserved CRLF bytes; it is evidence, not repository prose.
 "sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt" -text
 
+# This imported Discord quest-log export has preserved CRLF bytes; it is evidence, not repository prose.
+sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt -text -eol
+
 *.png binary
 *.jpg binary
 *.jpeg binary

@@ -82,6 +82,7 @@ When an item closes, move its complete entry here without changing its ID or rem
 - Earlier handling: No monastery location record or equivalence was asserted.
 - Resolution: Both visits were to the same monastery. Its name is `Hamswic`.
 - Basis: Curator-supplied identity decision and name during curation review.
+- Later corroboration: The [Discord player quest log](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt), marker `27`, independently calls the burned monastery `Hamswic` and describes features of the earlier expedition. It corroborates the name and marker identity but does not itself state that the later Ruthwen confrontation used the same site; the curator decision remains the basis for the two-visit equivalence.
 - Affected records updated: New [Hamswic](../entities/locations/location-hamswic.md) location record, [Výprava do prokletého kláštera](../events/event-cursed-monastery-expedition.md), [Porážka Ruthwena](../events/event-defeat-of-ruthwen.md), and [Lord Ruthwen](../entities/beings/person-lord-ruthwen.md).
 - Resolution date: 2026-08-21 (real-world archive/curation date).
 

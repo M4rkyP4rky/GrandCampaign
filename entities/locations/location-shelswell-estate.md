@@ -12,6 +12,11 @@ names:
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
       - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
+  - name: Panský dům Shelswell
+    role: alternate
+    language_or_context: Discord player quest-log heading
+    sources:
+      - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt
   - name: Shellswel
     role: alternate
     language_or_context: spelling in the rough GM notes
@@ -54,3 +59,13 @@ Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `25`.
 - [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `25` and relative visual placement.
+
+## Retrospective outcome account
+
+The quest log says the household used old rites and mind-affecting slime from the large worm to influence neighboring nobles. It reports that the group ended the practice, that the whole family was fed to the worm, and that an explosion then buried the worm. `Celá rodina` is a broad player-retrospective outcome claim; it is preserved in the event and curation records without silently assigning an individually certain fate to every named relative or servant.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `25`, closed Shelswell item and open old-mill/inheritance item.
+- [Střet v Adrianově domě](../../events/event-adrian-house-ordeal.md) — provenance-preserving event account.
+- [Open household-fate item](../../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — remaining person-level uncertainty.

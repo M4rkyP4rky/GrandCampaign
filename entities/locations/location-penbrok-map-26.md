@@ -16,3 +16,11 @@ Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `26`.
 - [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `26` and relative visual placement.
+
+## Quest-log route statement
+
+The player quest log says an aqueduct passing this marker led into a laboratory in [Hamswic](location-hamswic.md), where an internal explosion began. This later player-side route statement supplements the map key, which says people did not know the aqueduct's endpoints; the different perspectives are retained rather than treated as a same-time contradiction.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — markers `08`, `26`, and `27`.

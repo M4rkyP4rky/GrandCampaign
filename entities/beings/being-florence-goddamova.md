@@ -36,3 +36,12 @@ The player notes call Florence an alchemist and associate her with the tower exp
 Sources:
 
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 4`, fortress investigation and recap blocks.
+
+## Quest-log retrospective
+
+The player quest log likewise says Florence was invited to break the curse but instead pursued research into fire demons. It reports that the curse overtook her during a ritual and that she died in her sleep. The separately prepared account includes an explosion and fire; both descriptions remain attributed in the event record.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `00`, closed Florence block.
+- [Florence death event](../../events/event-florence-death-at-penbrok.md) — separate source accounts.

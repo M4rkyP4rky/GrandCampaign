@@ -34,6 +34,10 @@ accounts:
     source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
     locator: section "Příjezd"
     summary: In Příjezd, Yann reports that the group uncovered dark magic behind Adrian's household prosperity, that members of the household died, and that Nathaniel ordered a monstrous worm killed.
+  - kind: player-retrospective
+    source: ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt
+    locator: marker `25`, closed Shelswell item
+    summary: The quest log says the household used old rites and mind-affecting worm slime to influence nobles; the group ended the practice; the whole family was fed to the worm; and an explosion buried the worm.
 ---
 
 # Střet v Adrianově domě
@@ -44,6 +48,8 @@ Yann says that Nathaniel's group stopped at Adrian's prosperous house while prep
 
 The matching household names and fish-and-worm mechanism in the player notes and GM preparation identify the location as Usedlost Shelswell and the creature as the prepared giant white worm. This identity match does not establish which named family members or servants died, or resolve the difference between the preparation's limited distribution of secret knowledge and Yann's broader claim of household involvement.
 
+The quest log adds a broad retrospective claim that `celá rodina` was fed to the worm and that an explosion buried it. This materially strengthens the player-side outcome account but still does not name individual victims or servants; the existing curation items therefore remain open and retain the preparation's more specific knowledge distribution.
+
 Sources:
 
 - [Raw correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Příjezd`.
@@ -52,3 +58,4 @@ Sources:
 - [Open household-fate item](../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — unresolved named fates.
 - [Open household-knowledge item](../curation/open.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret) — unresolved knowledge and complicity.
 - [Open Sígref identity item](../curation/open.md#curation-penbrok-016--sígref-strašlivá-and-the-shelswell-white-worm) — unresolved relationship between Yann's named religious figure and the white worm.
+- [Discord player quest log](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `25`, retrospective mechanism and outcome claim.

@@ -13,6 +13,11 @@ names:
     language_or_context: variant within the rough GM notes
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md
+  - name: Barbara
+    role: alternate
+    language_or_context: spelling in the Discord player quest log
+    sources:
+      - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt
 ---
 
 # Barbra
@@ -34,3 +39,5 @@ Sources:
 
 - [Raw correspondence](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — sections `Hladovějící z Willowburnu`, `Prokletý klášter`, and `Hořkosladké vítězství`.
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 2`, `Sezení 4`–`5`, and `Sezení 7`–`10`, for the continuous Elionor-daughter, marriage, and death narrative.
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `02`, closed item directly recording her marriage to Yann.
+- [Marriage event](../../events/event-yann-barbra-marriage.md) — consolidated source accounts without an inferred exact date.

@@ -38,3 +38,12 @@ Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `50` and its clarification.
 - [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `50` and surrounding visual context.
+
+## Quest-log civic outcome
+
+The quest log says property disputes concerning inheritances, abandoned houses, and similar matters were resolved during and after an audience at Penbrok. The item was marked closed and its own text supports the successful resolution.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `50`, closed property-disputes item.
+- [Penbrok audience](../../events/event-penbrok-audience.md) — event record.

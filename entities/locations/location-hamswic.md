@@ -10,6 +10,11 @@ names:
     sources:
       - ../../curation/resolved.md#curation-penbrok-005--identity-of-the-two-monasteries
       - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
+  - name: Vypálený klášter Hamswic
+    role: alternate
+    language_or_context: Discord player quest-log heading
+    sources:
+      - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt
 ---
 
 # Hamswic
@@ -40,3 +45,13 @@ Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `27`, including `Možná` and `myslím`.
 - [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `27` and relative visual placement; the artwork is not used to settle the curator's uncertainty.
+
+## Quest-log structures and outcomes
+
+The quest log directly identifies marker `27` as `Vypálený klášter Hamswic`. It describes a cemetery with many warriors' graves and a system of pipes and hoses, an internal laboratory explosion connected to the lake at marker `08` and aqueduct at marker `26`, and disappearances in a nearby settlement. It reports that an abducted poor man survived and that the iron priest responsible was defeated. These open and closed quest blocks remain player-retrospective evidence; their workflow status does not set confidence or chronology.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `27`, all nested Hamswic items.
+- [Hamswic destruction](../../events/event-hamswic-destruction.md) — separately materialized earlier explosion.
+- [Cursed-monastery expedition](../../events/event-cursed-monastery-expedition.md) — played exploration and confrontation.

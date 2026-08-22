@@ -26,3 +26,4 @@ Sources:
 - [Raw correspondence](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — sections `Hladovějící z Willowburnu`, `Upír`, and `Hořkosladké vítězství`.
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 2`, `Sezení 3`, `Sezení 6`, `Sezení 7`, and `Sezení 10`.
 - Curator-supplied canonical-name decision during materialization review on 2026-08-22 — `Kohouti` is canonical and `Kohoutí vojsko` is retained as a source form.
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `06`, for the reported plague-infected unit that died in Morová Blata, and marker `72`, for the wartime opposition to Lišky.

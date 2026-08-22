@@ -30,3 +30,12 @@ Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `07`.
 - [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `07` and relative visual placement.
+
+## Quest-log outcome account
+
+The quest log says the rites reconciled the dead from [Morová Blata](location-penbrok-map-06.md) with Willowburn's inhabitants, lifted the curse, ended the hunger, and stopped Willowburn inhabitants troubling nearby villages. It separately records an explicit player-memory gap about harm to participating children; guesses of infection or possession are not treated as established outcomes.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — markers `06` and `07`.
+- [Willowburn rites](../../events/event-willowburn-rites.md) — event-level account and stronger preserved player-note detail about the children.

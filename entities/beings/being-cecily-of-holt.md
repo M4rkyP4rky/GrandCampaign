@@ -7,6 +7,11 @@ names:
     role: reference
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx
+  - name: Cecilia z Holtu
+    role: alternate
+    language_or_context: form in the Discord player quest log
+    sources:
+      - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
   - name: Cecila z Holtu
     role: alternate
@@ -61,3 +66,11 @@ The curator key says of [Holt](../locations/location-holt.md) at marker `74` tha
 Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `74`, phrase `je odtamtud Cecily`.
+
+## Quest-log retrospective
+
+The quest log identifies Cecilia as the freed hostage of Nikolas and links her to Holt through marker `74`. It says she was cursed, expected suitable care, resented her father, and was affectionate toward her rescuer Nathaniel. These present-tense relationship and motivation statements belong to the player-retrospective account; the question-mark workflow icon does not establish that her situation remained unresolved later.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `00`, open `Cecilia z Holtu` item.

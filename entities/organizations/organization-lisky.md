@@ -18,3 +18,4 @@ The player notes identify Lišky as one of the named political or military sides
 Sources:
 
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 1`, `Sezení 2`, `Sezení 3`, `Sezení 6`, and `Sezení 10`.
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `72`, for the player-side account that the punished village aided Lišky against Kohouti.

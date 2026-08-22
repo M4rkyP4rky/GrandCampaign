@@ -10,6 +10,7 @@ record_sources:
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrokton-shelswell-rough-gm-notes.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map-key.md
+  - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-discord-player-quest-log.md
 ---
 
 # Panství Penbrok
@@ -96,3 +97,11 @@ Sources:
 
 - [Regional-map source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map.md) — visual evidence, limitations, integrity, and companion relationship.
 - [Curator-key source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map-key.md) — classification, complete marker handling, named-thing resolution, uncertainty, and blank-marker list.
+
+## Player-maintained quest log
+
+The Discord export is a player-maintained quest log and retrospective set of campaign notes. Its check mark, question mark, and ongoing icons record quest-workflow state rather than truth, confidence, success, or chronology. Open items can contribute factual material without establishing permanent non-resolution; explicit memory gaps remain player-memory uncertainty. Emoji digit sequences resolve through the already-ingested regional map and do not name locations.
+
+Sources:
+
+- [Discord quest-log source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-discord-player-quest-log.md) — classification, status semantics, stable heading locators, map-marker resolution, and memory-uncertainty handling.

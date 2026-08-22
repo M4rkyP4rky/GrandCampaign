@@ -39,3 +39,12 @@ Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `02`.
 - [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `02` and relative visual placement.
+
+## Quest-log problem list
+
+The player quest log records hungry thieves from Willowburn, inhabitants searching the forests for treasure instead of working fields, and Neveah's intervention in local affairs as items not marked closed. It also directly records the later marriage of Barbra and Yann in a closed item. The open items supplement previously prepared and played settlement material without being treated as permanently unresolved or as objective explanations of motive.
+
+Sources:
+
+- [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `02`, `Problémy vesnice Penbrokton`.
+- [Yann–Barbra marriage](../../events/event-yann-barbra-marriage.md) — separately materialized outcome.
