@@ -27,10 +27,11 @@ Sources:
 
 ## Played interpretation and reported outcome
 
-Yann describes a worm-like monstrosity at Adrian's fish-producing house, interprets it as Sígref Strašlivá incarnate, and says Nathaniel ordered it killed. The location, household, fish mechanism, and creature provide strong identity evidence for the prepared white worm and the played creature. The archive retains Yann's religious interpretation as his testimony rather than replacing the GM identification with it; whether Sígref is this being, a distinct deity manifested through it, or another relationship remains open.
+Yann describes a worm-like monstrosity at Adrian's fish-producing house, rhetorically interprets it as Sígref Strašlivá incarnate, and says Nathaniel ordered it killed. The location, household, fish mechanism, and creature provide strong identity evidence for the prepared white worm and the played creature. The curator confirmed that `Sígref Strašlivá` is only Yann's rhetorical religious interpretation: it is neither an alternate name for the worm nor a distinct divine being manifested through it. Yann's wording remains preserved as his testimony.
 
 Sources:
 
 - [Raw correspondence](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Příjezd`, for Yann's interpretation and reported killing.
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx) — prepared creature and mechanism.
-- [Open Sígref identity item](../../curation/open.md#curation-penbrok-016--sígref-strašlivá-and-the-shelswell-white-worm) — unresolved identity or manifestation relationship.
+- Curator-supplied objective interpretation during curation review on 2026-08-22.
+- [Resolved Sígref identity item](../../curation/resolved.md#curation-penbrok-016--sígref-strašlivá-and-the-shelswell-white-worm) — audit trail and no-separate-identity conclusion.

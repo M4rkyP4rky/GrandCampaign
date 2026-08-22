@@ -13,9 +13,10 @@ names:
 
 ## Prepared state
 
-David is a young inhabitant of Penbrokton who is nearing adulthood. The notes name him among those Benedict tried to recruit to obtain snake skin from a cave in the dark forest, but do not clearly establish that the proposed expedition occurred.
+David is a young inhabitant of Penbrokton who is nearing adulthood. Benedict recruited him, Allen, and Joyce to obtain snake skin from a cave in the dark forest. At the time of Yann's arrival in Penbrokton, they were still planning and had not undertaken the expedition.
 
 Sources:
 
 - [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `Penbrokton`, block `Chlapi jenom:`.
-- [Open participant/status question](../../curation/open.md#curation-penbrok-014--participants-and-status-of-benedicts-snake-skin-expedition).
+- Curator-supplied participant-name correction and objective planning-state clarification during curation review on 2026-08-22.
+- [Resolved participant/status item](../../curation/resolved.md#curation-penbrok-014--participants-and-status-of-benedicts-snake-skin-expedition).

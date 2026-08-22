@@ -22,6 +22,11 @@ curator_corrections:
     source_value: Blatná
     corrected_value: Mudfeld
     provenance: curator-supplied correction during materialization review on 2026-08-22
+  - field: recruited_participant_name
+    locator: section "Penbrokton", phrase "to on přemluvila line David a Joyce aby se vydali na výpravu"
+    source_value: line
+    corrected_value: Allen
+    provenance: curator-supplied correction during curation review on 2026-08-22
 ---
 
 # Penbrokton, Shelswell a Old Chalford — rough GM notes
@@ -42,10 +47,14 @@ Provenance:
 
 In the `Penbrokton` block, the raw source calls Nevaeh's place of origin `Blatná`. The curator corrected that place-name to [Mudfeld](../../../entities/locations/location-mudfeld.md). The source-stated form remains unchanged in the preserved rough notes and is retained as an attested corrected form in the location record.
 
+In the same block, the damaged phrase `to on přemluvila line David a Joyce aby se vydali na výpravu` uses `line` where the intended participant name is Allen. The raw wording remains unchanged. Derived records therefore identify Allen, David, and Joyce as Benedict's recruited group. The separate curator clarification that they were still planning at Yann's arrival is world-state information, not a correction to the raw phrase.
+
 Provenance:
 
 - [Preserved rough notes](Penbrokton-Shelswell-GM-notes.md) — source-stated phrase `Nevaeh z Blatné`.
 - Curator-supplied place-name correction during materialization review on 2026-08-22 — `Mudfeld` as the corrected canonical identity.
+- [Preserved rough notes](Penbrokton-Shelswell-GM-notes.md) — source-stated damaged phrase containing `line David a Joyce`.
+- Curator-supplied participant-name correction during curation review on 2026-08-22 — `Allen` as the corrected participant name.
 
 ## Source locators
 
@@ -70,7 +79,7 @@ Source:
 | Settlement composition, named inhabitants, household roles, locations and concealed mechanisms | Prepared baseline or hidden prepared state at an inexact pre-play temporal point. |
 | The Shelswell worm tradition, wartime use of a soldier's corpse, guest strategy, and concealed counterfeiting installation | Established hidden backstory where declaratively stated; no exact fictional dates or victim identities are inferred. |
 | What Joyce or household members know, and what Barnaby, Elinor, Barbra, Benedict, Jerome, Adrian, Thomas, and Emma want or prioritize | Prepared knowledge, characterization, motivation, or intention. These claims do not establish that desired or threatened actions occurred. |
-| Benedict's effort to send young villagers for snake skin | A prepared plan with corrupt participant wording and no sufficiently clear completion claim; no expedition event is created. |
+| Benedict's effort to send young villagers for snake skin | A prepared plan involving curator-corrected participants Allen, David, and Joyce. The group was still planning at Yann's arrival, so no expedition event is created. |
 | The Old Chalford goblins' disguises and deterrents | Hidden prepared state and tactics, not a played encounter. |
 
 Source:
@@ -81,12 +90,14 @@ Source:
 
 Content and role continuity support the following matches to names already attested in the player notes: `Barnaby` is `Barneby`; `Catherin` is `Katrin`; `Elinor` is `Elionor`; `Benedict` is `Benedikt`; `Nevaeh` is `Neveah`; and `Roger Lowe` is Nikolas's informant `Roger`. The rough notes' `Barbra`/`Barbora` is the same Elinor's daughter who continues through the player notes into Yann's marriage and later reported widowhood. These matches use distinctive relationships and roles rather than spelling alone. The source-stated place `Blatná` is retained as evidence but derives to the curator-corrected [Mudfeld](../../../entities/locations/location-mudfeld.md).
 
-The Penbrokton block's corrupted phrase before `David a Joyce` may mean Allen was also recruited for the proposed snake-skin expedition, but it is not clear enough to assert. This remains in [curation-penbrok-014](../../../curation/open.md#curation-penbrok-014--participants-and-status-of-benedicts-snake-skin-expedition).
+The curator confirmed that the Penbrokton block's corrupted word `line` before `David a Joyce` denotes Allen. Derived records therefore identify Allen, David, and Joyce as the recruited group while preserving the raw spelling and correction separately. The group was still planning at Yann's arrival, so no expedition event is created.
 
 Sources:
 
 - [Preserved rough notes](Penbrokton-Shelswell-GM-notes.md) — `Penbrokton` and `# Old Chalford`.
 - [Player notes](Penbrok-hracske-poznamky.md) — `Sezení 1`–`5`, for the matching names, roles, relationships, and continuity.
+- Curator-supplied participant-name correction and planning-state clarification during curation review on 2026-08-22.
+- [Resolved participant/status item](../../../curation/resolved.md#curation-penbrok-014--participants-and-status-of-benedicts-snake-skin-expedition) — audit trail and the no-event conclusion.
 
 ## Relationship to other preparation and later play
 

@@ -32,12 +32,14 @@ Sources:
 
 ## Regional map identity and associated sites
 
-The curator key identifies marker `50` as the village Old Chalford. It separately describes two distinct, genuinely unnamed sites on the hill above the village: [castle ruins from the time of the æs](location-old-chalford-castle-ruins.md) and a [white tower without an entrance](location-old-chalford-white-tower.md). Neither associated site is given its own numbered marker, and no exact distance or relationship between them is inferred.
+The curator key identifies marker `50` as the village Old Chalford. It separately describes two distinct, genuinely unnamed sites on the hill above the village: [castle ruins from the time of the æs polity](location-old-chalford-castle-ruins.md) and a [white tower without an entrance](location-old-chalford-white-tower.md). The curator places the [æs](../polities/polity-aes.md) polity's regional presence in either the Third Age or the Fourth Age, without resolving which. Neither associated site is given its own numbered marker, and no exact distance, political relationship, or relationship between the two sites is inferred.
 
 Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `50` and its clarification.
 - [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `50` and surrounding visual context.
+- Curator-supplied æs polity classification and Third-or-Fourth-Age uncertainty during curation review on 2026-08-22.
+- [Resolved æs identity item](../../curation/resolved.md#curation-penbrok-018--identity-category-of-æsové) — audit trail.
 
 ## Quest-log civic outcome
 

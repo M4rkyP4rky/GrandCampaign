@@ -95,11 +95,11 @@ Source:
 
 The household names and roles in this preparation strongly match `Sezení 1` in the player notes: Sir Adrian, Emma, Thomas, Jerome, and Tobiáš at Shelswell. The same played session is already mapped by independent content evidence to the correspondence section `Příjezd`. The existing real-world session date 2022-11-30 and RPG system `Příběhy impéria` belong to that played session; neither is a fictional date, a preparation date, or a DOCX timestamp.
 
-The preparation depicts Adrian alive, the white worm active, and the household secret still operating. Yann later reports Adrian dead, the worm killed, and unnamed members of the household dead after the played confrontation. These are later played changes to the prepared baseline rather than facts to embed in the pre-play snapshot. The sources do not establish which named household members other than Adrian died or survived.
+The preparation depicts Adrian alive, the white worm active, and the household secret still operating. Yann later reports Adrian dead, the worm killed, and unnamed members of the household dead after the played confrontation. These are later played changes to the prepared baseline rather than facts to embed in the pre-play snapshot. The source documents alone do not establish which named household members other than Adrian died or survived; the curator separately confirmed the deaths of Emma, Thomas, Jerome, and Tobiáš without supplying their individual manners of death.
 
 The preparation identifies a giant white worm and an addictive fish-treatment mechanism. Yann interprets the creature and household prosperity through Sígref Strašlivá and dark magic. The archive preserves the prepared identification and Yann's religious interpretation separately rather than promoting either through an automatic source ranking.
 
-The preparation assigns knowledge of the operative secret to Emma, Jerome, and Tobiáš while presenting Adrian as searching for it and Thomas as still ignorant. The later-ingested rough GM notes add compatible detail about their knowledge and motives without establishing played complicity. Yann's played account instead describes a plot involving a substantial part of Adrian's family and servants without naming the participants. The exact played knowledge and complicity remain unresolved.
+The preparation assigns knowledge of the operative secret to Emma, Jerome, and Tobiáš while presenting Adrian as searching for it and Thomas as still ignorant. The later-ingested rough GM notes add compatible detail about their knowledge and motives. Yann's played account instead describes a plot involving a substantial part of Adrian's family and servants without naming the participants. The curator separately established the objective distribution at Yann's arrival: Adrian was unaware; Thomas was suspicious but had not figured it out; and Emma, Jerome, and Tobiáš knew the operation completely. This clarification does not promote Yann's broader account to objective knowledge or attribute the GM state to any player character.
 
 Sources:
 
@@ -110,20 +110,21 @@ Sources:
 - [Correspondence source metadata](source-dopisy-z-panstvi-penbrok.md#section-level-play-metadata) — real-world session date and RPG-system context for `Příjezd`.
 - [Raw correspondence](Penbrok.xml) — section `Příjezd`, for Yann's later account and interpretations.
 - [Played event record](../../../events/event-adrian-house-ordeal.md) — provenance-preserving representation of the confrontation.
-- [Open household-fate item](../../../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — unresolved named fates.
-- [Open household-knowledge item](../../../curation/open.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret) — unresolved knowledge and complicity.
-- [Open Sígref identity item](../../../curation/open.md#curation-penbrok-016--sígref-strašlivá-and-the-shelswell-white-worm) — unresolved relationship between Yann's religious interpretation and the prepared worm identity.
+- [Superseded household-fate item](../../../curation/resolved.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — curator-supplied named outcomes and their limits.
+- [Resolved household-knowledge item](../../../curation/resolved.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret) — curator-supplied objective knowledge distribution at Yann's arrival.
+- [Resolved Sígref identity item](../../../curation/resolved.md#curation-penbrok-016--sígref-strašlivá-and-the-shelswell-white-worm) — Sígref as Yann's rhetorical religious interpretation only.
 
 ## Source-local and materialized material
 
-The archive does not create independent records for every keyed building, room, door, barrel, route, supply cache, item, local tactical feature, or encounter ability. The lean horse and oversized ferret are unnamed and remain source-local. The earlier statement that the explicitly named Brigitte could remain source-local was inconsistent with the current named-things invariant; [Brigitte](../../../entities/beings/being-brigitte-shelswell.md) is now materialized as a persistent being. This metadata correction does not alter either raw source.
+The archive does not create independent records for every keyed building, room, door, barrel, route, supply cache, item, local tactical feature, or encounter ability. The lean horse and oversized ferret are unnamed and remain source-local. This GM-preparation document does not name Brigitte, but the player notes do. The curator confirmed that the player-note occurrence means the player characters encountered [Brigitte](../../../entities/beings/being-brigitte-shelswell.md). The preparation's silence does not negate that played encounter, but neither source explicitly establishes Brigitte's employer or origin. Neither raw source is altered.
 
 Source:
 
 - [Preserved GM preparation](025-Usedlost-Shelswell-Campaign-version.docx) — textual keys 1–13 and the final map page.
-- [Player notes](Penbrok-hracske-poznamky.md) — `Sezení 1`, including Brigitte.
+- [Player notes](Penbrok-hracske-poznamky.md) — `Sezení 1`, source-stated Brigitte occurrence.
 - [Named-things governance](../../../docs/data-model.md#named-things-and-persistent-identity) — explicitly named fictional beings normally receive persistent records.
-- Curator-supplied application correction during materialization review on 2026-08-22 — Brigitte is not an exception to the invariant.
+- Curator-supplied correction of the previous curation answer during review on 2026-08-22 — the occurrence belongs to the player notes and establishes a played encounter rather than a GM-preparation error.
+- [Open Brigitte affiliation item](../../../curation/open.md#curation-penbrok-020--brigittes-affiliation-during-the-played-encounter) — exact capacity and affiliation remain unresolved.
 
 ## Import trace
 

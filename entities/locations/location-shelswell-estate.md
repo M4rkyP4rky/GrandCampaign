@@ -62,10 +62,11 @@ Sources:
 
 ## Retrospective outcome account
 
-The quest log says the household used old rites and mind-affecting slime from the large worm to influence neighboring nobles. It reports that the group ended the practice, that the whole family was fed to the worm, and that an explosion then buried the worm. `Celá rodina` is a broad player-retrospective outcome claim; it is preserved in the event and curation records without silently assigning an individually certain fate to every named relative or servant.
+The quest log says the household used old rites and mind-affecting slime from the large worm to influence neighboring nobles. It reports that the group ended the practice, that the whole family was fed to the worm, and that an explosion then buried the worm. `Celá rodina` remains a broad player-retrospective outcome claim rather than person-level evidence of how anyone died. Separately, the curator confirmed that Emma, Thomas, Jerome Hobart, and Tobiáš died during the confrontation; no exact manner, sequence, or agent of their individual deaths was supplied.
 
 Sources:
 
 - [Discord player quest log](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt) — marker `25`, closed Shelswell item and open old-mill/inheritance item.
 - [Střet v Adrianově domě](../../events/event-adrian-house-ordeal.md) — provenance-preserving event account.
-- [Open household-fate item](../../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — remaining person-level uncertainty.
+- Curator-supplied world information during curation review on 2026-08-22 — individual death outcomes and their limits.
+- [Superseded household-fate item](../../curation/resolved.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — audit trail; Brigitte's played encounter, uncertain affiliation, and probable different outcome are handled separately.

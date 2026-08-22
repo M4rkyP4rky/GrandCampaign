@@ -35,11 +35,22 @@ Sources:
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx) — key 5 `Starý mlýn` and hidden backstory under key 6 `Hráz rybníka`.
 - [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `# Shellswel`, `Sir Adrian` and `Rodinné tajemství:` blocks.
 
+## Knowledge at Yann's arrival
+
+At the time of Yann's arrival, Adrian remained unaware of the worm-slime fish operation. His investigation of the separate ancestral mill secret did not give him knowledge of that operation, and he was not a knowing participant in it.
+
+Sources:
+
+- Curator-supplied objective world-state clarification during curation review on 2026-08-22.
+- [Resolved household-knowledge item](../../curation/resolved.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret) — audit trail and scope of the clarification.
+
 ## Played account
 
-Sir Adrian is the owner or head of a prosperous house and fish business encountered by the group in Yann's first section. Yann claims the household's prosperity depended on dark magic and an alliance with Sígref Strašlivá, and he refers to Adrian as deceased by the end of the episode. These are Yann's interpretations and report.
+Sir Adrian is the owner or head of a prosperous house and fish business encountered by the group in Yann's first section. Yann claims the household's prosperity depended on dark magic and an alliance with Sígref Strašlivá, and he refers to Adrian as deceased by the end of the episode. The curator confirmed that Sígref is only Yann's rhetorical religious interpretation of the white worm and does not identify an objective being or alliance in this incident. Yann's wording and Adrian's reported death remain his testimony.
 
 Sources:
 
 - [Raw correspondence](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Příjezd`.
-- [Open household-fate question](../../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — the other named household members' outcomes remain unresolved.
+- Curator-supplied objective interpretation during curation review on 2026-08-22 — rhetorical status of Sígref.
+- [Resolved Sígref identity item](../../curation/resolved.md#curation-penbrok-016--sígref-strašlivá-and-the-shelswell-white-worm) — audit trail and no-separate-identity conclusion.
+- [Superseded household-fate item](../../curation/resolved.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — the curator separately confirmed the deaths of Emma, Thomas, Jerome Hobart, and Tobiáš; Brigitte's affiliation and probable different outcome are handled separately.

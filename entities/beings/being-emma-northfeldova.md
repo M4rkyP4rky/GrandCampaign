@@ -28,10 +28,27 @@ Sources:
 
 ## Prepared knowledge and motivation
 
-Emma is prepared as holding inherited knowledge of the estate's wealth, continuing the guest-and-fish practice, and wanting Thomas married before passing the secret to the next generation. She leaves practical handling to Jerome and Tobiáš. The rough notes specify that her knowledge does not include the recent use of corpses. These are hidden pre-play claims about her knowledge and motivation; the sources do not establish her fate after the confrontation at Shelswell.
+Emma is prepared as holding inherited knowledge of the estate's wealth, continuing the guest-and-fish practice, and wanting Thomas married before passing the secret to the next generation. She leaves practical handling to Jerome and Tobiáš. The rough notes specify that her knowledge does not include the recent use of corpses. These are hidden pre-play claims about her knowledge and motivation rather than later played state.
 
 Sources:
 
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx) — key 2 and hidden backstory under key 6.
 - [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `# Shellswel`, `Lady Emma` block.
-- [Open fate question](../../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — unresolved played outcome for named household members other than Adrian.
+
+## Knowledge at Yann's arrival
+
+At the time of Yann's arrival, Emma knew the worm-slime fish operation completely and was a knowing participant through her prepared role in continuing the practice. This is later state than the rough preparation's statement that she did not know about the recent use of corpses; the archive does not infer when or how she learned the remaining details. Complete knowledge here is limited to the operation under review and does not extend to unrelated Shelswell secrets.
+
+Sources:
+
+- Curator-supplied objective world-state clarification during curation review on 2026-08-22.
+- [Resolved household-knowledge item](../../curation/resolved.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret) — audit trail, prepared role, and scope limits.
+
+## Played fate
+
+The curator confirmed that Emma died during the [confrontation at Shelswell](../../events/event-adrian-house-ordeal.md). No exact manner, sequence, or agent of her death was supplied.
+
+Sources:
+
+- Curator-supplied world information during curation review on 2026-08-22.
+- [Superseded household-fate item](../../curation/resolved.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — audit trail and limits of the clarification.

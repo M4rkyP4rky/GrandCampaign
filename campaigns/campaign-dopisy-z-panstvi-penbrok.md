@@ -29,6 +29,7 @@ record_sources:
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map-key.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-discord-player-quest-log.md
+  - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-character-sheets-penbrok.md
 ---
 
 # Panství Penbrok
@@ -85,6 +86,14 @@ Jiří "Sarsaparillos" Richter's player notes cover the same ten played sessions
 Sources:
 
 - [Player-notes source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-hracske-poznamky.md) — classification, block-level epistemic handling, and content-based session mappings.
+
+## Character-definition frame
+
+The simplified character sheets define persistent backstory, traits, relationships, possessions, expertise, beliefs, and traditions for Nathaniel Hargreve, Yann du Bois, and Oswyn Waldegrave. The material is character definition rather than a played account: supported childhood and succession developments may establish backstory events, while intentions remain uncompleted possibilities and the Hargreve supernatural tradition remains attributed family belief.
+
+Sources:
+
+- [Character-sheet source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-character-sheets-penbrok.md) — classification, locators, epistemic handling, temporal limits, and identity resolution.
 
 ## Prepared adventure baseline
 

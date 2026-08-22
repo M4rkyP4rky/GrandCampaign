@@ -22,6 +22,9 @@ sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md 
 # This imported Discord quest-log export has preserved CRLF bytes; it is evidence, not repository prose.
 sources/campaigns/campaign-dopisy-z-panstvi-penbrok/discord_player_questlog.txt -text -eol
 
+# This imported character-sheet summary has preserved CRLF bytes; it is evidence, not repository prose.
+sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Character_sheets_Penbrok.txt -text -eol
+
 *.png binary
 *.jpg binary
 *.jpeg binary

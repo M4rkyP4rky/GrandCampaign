@@ -18,3 +18,11 @@ The player notes identify Pírko as a falcon accompanying the group. They mentio
 Sources:
 
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 8` and `Sezení 9`.
+
+## Relationship to Oswyn
+
+The character sheet defines Pírko as [Oswyn Waldegrave](person-oswyn-waldergrave.md)'s trained falcon. It does not provide training history or a more exact start date for their relationship.
+
+Source:
+
+- [Character-sheet summary](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Character_sheets_Penbrok.txt) — Oswyn Waldegrave, `Cvičený sokol Pírko`.

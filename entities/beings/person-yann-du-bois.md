@@ -38,3 +38,11 @@ Sources:
 
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 2`, `Prokletí - ne úplně pravdivá pověst`, and `Sezení 5`, visit to Neveah.
 - Curator-supplied character-knowledge clarifications during curation review on 2026-08-21 — the `Sezení 2` gossip attribution and the `Sezení 5` learning point.
+
+## Character-definition traits
+
+The simplified character sheet defines Yann as a merchant's son (`Obchodníkův syn`), a troubadour associated with [Périlla](../locations/location-perilla.md), and an expert on [Lišky](../organizations/organization-lisky.md) and [Kohouti](../organizations/organization-kohouti.md). These concise labels do not identify his merchant parent, clarify the exact nature of his Périlla association, or establish membership in either faction.
+
+Source:
+
+- [Character-sheet summary](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Character_sheets_Penbrok.txt) — Yann du Bois, `Obchodníkův syn`, `Trubadúr z Périlla`, and `Znalec Lišek a Kohoutů`.

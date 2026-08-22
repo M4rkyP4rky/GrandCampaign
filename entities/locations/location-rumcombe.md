@@ -30,3 +30,12 @@ Sources:
 
 - [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `13`.
 - [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `13` and relative visual placement.
+
+## Distinction from Rumburk
+
+The curator confirmed that Rumcombe is distinct from [Rumburk](location-rumburk.md), where Thomas was sent to study. The similar names are not treated as spelling, translation, or historical variants of one place.
+
+Sources:
+
+- Curator-supplied identity decision during curation review on 2026-08-22.
+- [Resolved Rumburk/Rumcombe identity item](../../curation/resolved.md#curation-penbrok-015--rumburk-and-rumcombe-identity) — audit trail.

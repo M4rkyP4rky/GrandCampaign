@@ -33,5 +33,21 @@ Jerome knows and operates the worm-and-fish mechanism. His need to find material
 Sources:
 
 - [Rough GM notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md) — `# Shellswel`, fish blocks.
-- [Open household fate item](../../curation/open.md#curation-penbrok-012--played-fates-of-the-shelswell-household).
-- [Open household knowledge item](../../curation/open.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret).
+
+## Knowledge at Yann's arrival
+
+At the time of Yann's arrival, Jerome knew the worm-slime fish operation completely and remained a knowing participant through his prepared role in running it. Complete knowledge here is limited to the operation under review and does not extend to unrelated Shelswell secrets.
+
+Sources:
+
+- Curator-supplied objective world-state clarification during curation review on 2026-08-22.
+- [Resolved household-knowledge item](../../curation/resolved.md#curation-penbrok-013--knowledge-and-complicity-in-the-shelswell-secret) — audit trail, prepared role, and scope limits.
+
+## Played fate
+
+The curator confirmed that Jerome died during the [confrontation at Shelswell](../../events/event-adrian-house-ordeal.md). No exact manner, sequence, or agent of his death was supplied.
+
+Sources:
+
+- Curator-supplied world information during curation review on 2026-08-22.
+- [Superseded household-fate item](../../curation/resolved.md#curation-penbrok-012--played-fates-of-the-shelswell-household) — audit trail and limits of the clarification.

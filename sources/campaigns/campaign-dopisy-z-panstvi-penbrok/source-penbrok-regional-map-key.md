@@ -40,7 +40,7 @@ Sources:
 
 ## Persistent marker handling
 
-Every nonblank key row is represented by a persistent location record. Marker `50` also describes two distinct unnumbered sites above Old Chalford; these receive their own unnamed location records without pretending that either has its own map marker. Proper-named Egham, mentioned only in marker `05`'s relative-location text, is materialized separately. `Síthstow` at marker `04` remains attached to the marker's persistent record as an unresolved candidate name because the same row says `Bezejmenná`.
+Every nonblank key row is represented by a persistent location record. Marker `50` also describes two distinct unnumbered sites above Old Chalford; these receive their own unnamed location records without pretending that either has its own map marker. Proper-named Egham, mentioned only in marker `05`'s relative-location text, is materialized separately. The curator clarified that `Síthstow` at marker `04` is the place-name and `Bezejmenná` names the deity to whom its desecrated temple is devoted; the two cells do not conflict.
 
 | Marker | Key interpretation | Persistent handling |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ Every nonblank key row is represented by a persistent location record. Marker `5
 | 01 | Windridge watchtower site | [Windridge](../../../entities/locations/location-windridge.md) |
 | 02 | Penbrokton village | [Penbrokton](../../../entities/locations/location-penbrokton.md) |
 | 03 | Ekenbury ruined fortified house | [Ekenbury](../../../entities/locations/location-ekenbury.md) |
-| 04 | desecrated temple; `Síthstow` / `Bezejmenná` conflict | [marker-04 temple site](../../../entities/locations/location-penbrok-map-04.md) and [curation item](../../../curation/open.md#curation-penbrok-017--síthstow-and-the-unnamed-marker-04-temple) |
+| 04 | Síthstow; desecrated temple devoted to Bezejmenná | [Síthstow](../../../entities/locations/location-penbrok-map-04.md), deity [Bezejmenná](../../../entities/beings/being-bezejmenna.md), and [resolved curation item](../../../curation/resolved.md#curation-penbrok-017--síthstow-and-the-unnamed-marker-04-temple) |
 | 05 | unnamed marsh-edge hut south of Egham | [marker-05 hut](../../../entities/locations/location-penbrok-map-05.md); [Egham](../../../entities/locations/location-egham.md) |
 | 06 | unnamed mass graves | [marker-06 mass graves](../../../entities/locations/location-penbrok-map-06.md) |
 | 07 | Willowburn village | [Willowburn](../../../entities/locations/location-willowburn.md) |
@@ -70,7 +70,7 @@ Every nonblank key row is represented by a persistent location record. Marker `5
 | 23 | unnamed robber-used hill site | [marker-23 site](../../../entities/locations/location-penbrok-map-23.md) |
 | 24 | Lymsey's large mill | [Lymsey's](../../../entities/locations/location-lymseys.md) |
 | 25 | Shelswell manor/estate | [Usedlost Shelswell](../../../entities/locations/location-shelswell-estate.md) |
-| 26 | unnamed ancient aqueduct ruins | [marker-26 ruins](../../../entities/locations/location-penbrok-map-26.md) |
+| 26 | unnamed aqueduct ruins from the time of the æs polity | [marker-26 ruins](../../../entities/locations/location-penbrok-map-26.md); [æs](../../../entities/polities/polity-aes.md) |
 | 27 | Hamswic, tentatively characterized as a large burned monastery | [Hamswic](../../../entities/locations/location-hamswic.md) |
 | 32 | Hortonberry chapel of Sluneční paní | [Hortonberry](../../../entities/locations/location-hortonberry.md) |
 | 33 | unnamed military-camp remains | [marker-33 remains](../../../entities/locations/location-penbrok-map-33.md) |
@@ -86,7 +86,7 @@ Every nonblank key row is represented by a persistent location record. Marker `5
 | 47 | Houghbury castle | [Houghbury castle](../../../entities/locations/location-houghbury-castle.md) |
 | 48 | Houghbury town | [Houghbury town](../../../entities/locations/location-houghbury.md) |
 | 49 | unnamed temple quarter | [marker-49 quarter](../../../entities/locations/location-penbrok-map-49.md) |
-| 50 | Old Chalford village; unnumbered castle ruins and white tower above it | [Old Chalford](../../../entities/locations/location-old-chalford.md); [castle ruins](../../../entities/locations/location-old-chalford-castle-ruins.md); [white tower](../../../entities/locations/location-old-chalford-white-tower.md) |
+| 50 | Old Chalford village; unnumbered castle ruins from the time of the æs polity and white tower above it | [Old Chalford](../../../entities/locations/location-old-chalford.md); [castle ruins](../../../entities/locations/location-old-chalford-castle-ruins.md); [white tower](../../../entities/locations/location-old-chalford-white-tower.md); [æs](../../../entities/polities/polity-aes.md) |
 | 51 | unnamed mill | [marker-51 mill](../../../entities/locations/location-penbrok-map-51.md) |
 | 55 | unnamed castle | [marker-55 castle](../../../entities/locations/location-penbrok-map-55.md) |
 | 57 | unnamed wolf pits | [marker-57 pits](../../../entities/locations/location-penbrok-map-57.md) |
@@ -112,12 +112,14 @@ Sources:
 - Marker `47` and marker `48` are distinct physical locations sharing the name `Houghbury`; existing played evidence safely identifies the pre-existing Houghbury record as the town at marker `48`.
 - The marker `27` wording `Možná spíš vypálený klášter?` and `myslím` remains explicitly tentative.
 - The map-key spelling `Lord Rutwenn` is treated as a spelling variant of existing Lord Ruthwen because both the distinctive title and control of Darkwood coincide; the raw spelling remains unchanged.
-- `z časů æsů` is retained as an unidentified historical/cultural expression. The key does not establish whether `æsové` denotes a polity, organization, people, species, age, or another persistent entity kind, so no categorical identity is invented; the classification question is tracked in [curation-penbrok-018](../../../curation/open.md#curation-penbrok-018--identity-category-of-æsové).
+- `z časů æsů` refers to the [æs polity](../../../entities/polities/polity-aes.md), whose inhabitants formerly lived in this area and could build aqueducts and castles. The curator places their presence in either the Third Age or the Fourth Age without resolving which; no exact boundaries, control relationships, or dates are inferred. See the [resolved curation item](../../../curation/resolved.md#curation-penbrok-018--identity-category-of-æsové).
 
 Sources:
 
 - [Preserved curator map key](Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — markers `04`, `10`, `12`, `22`, `24`, `26`, `27`, `47`, `48`, `50`, and `68`.
-- [Curation item for marker 04](../../../curation/open.md#curation-penbrok-017--síthstow-and-the-unnamed-marker-04-temple) — unresolved name application.
+- Curator-supplied map-key interpretation during curation review on 2026-08-22 — `Síthstow` as the place-name and `Bezejmenná` as the temple's deity.
+- Curator-supplied æs polity classification, regional history, building capabilities, and Third-or-Fourth-Age uncertainty during curation review on 2026-08-22.
+- [Resolved curation item for marker 04](../../../curation/resolved.md#curation-penbrok-017--síthstow-and-the-unnamed-marker-04-temple) — audit trail.
 
 ## Import trace
 

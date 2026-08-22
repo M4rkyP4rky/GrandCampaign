@@ -72,12 +72,16 @@ In `Sezení 6`, the phrase `ve vesnici na jih Darkwood (68) jsou vesničané` in
 
 In `Sezení 5`, the notes call the accountant `Maxmilián de Živé`. The curator confirmed that this is a source variant of the being whose canonical name is [Maxmillian de Juive](../../../entities/beings/being-maxmillian-de-juive.md). The raw spelling remains unchanged.
 
+In `Sezení 1`, the notes include `Brigitte děvečka (ztratil se její milý)` beside the Shelswell material. A previous curation answer incorrectly treated this as an erroneous GM-preparation mention. The curator withdrew that answer: the occurrence is in the player notes, and its presence means the player characters encountered Brigitte. The occurrence supports the encounter, her source-stated role word, and the missing-beloved detail, but it does not explicitly identify her employer, origin, exact involvement in the confrontation, or later fate.
+
 Provenance:
 
 - [Preserved player notes](Penbrok-hracske-poznamky.md) — source-stated wording in `Sezení 6`.
 - Curator-supplied correction during curation review on 2026-08-21 — Darkwood as a castle and the referenced people as its inhabitants.
 - [Preserved player notes](Penbrok-hracske-poznamky.md) — source-stated `Maxmilián de Živé` in `Sezení 5`.
 - Curator-supplied canonical-name and identity decision during materialization review on 2026-08-22 — `Maxmillian de Juive` as the reference name for that being.
+- [Preserved player notes](Penbrok-hracske-poznamky.md) — source-stated Brigitte line in `Sezení 1`, `Místa`.
+- Curator-supplied correction of the previous curation answer during review on 2026-08-22 — player-note occurrence as evidence of a played encounter, with affiliation and fate limits retained.
 
 ## Content-based session mapping
 
@@ -85,7 +89,7 @@ All ten mappings below are assessed as **strong**. The ordinal sequence is compa
 
 | Notes section | Matched correspondence section | Real-world session date | RPG system | Content evidence for the match | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| `Sezení 1` | `Příjezd` | 2022-11-30 | Příběhy impéria | Old Chalford; Nikolas as self-appointed tax collector; his informants Cecille and Roger; damaged eastern walls; and Adrian's household with Thomas, Emma, Jerome, Brigitte, and Tobiáš. | Strong |
+| `Sezení 1` | `Příjezd` | 2022-11-30 | Příběhy impéria | Old Chalford; Nikolas as self-appointed tax collector; his informants Cecille and Roger; damaged eastern walls; Adrian's household with Thomas, Emma, Jerome, and Tobiáš; and the curator-confirmed played encounter with Brigitte. | Strong |
 | `Sezení 2` | `Dobytí Penbroku` | 2023-01-25 | Příběhy impéria | The ambush and rout of Nikolas's men, Oswyn shielding local youths, Nathaniel unhorsing Nikolas, entry into Penbrok, the long-sleep curse, and the captive daughter of Holt. | Strong |
 | `Sezení 3` | `Hadí doupě` | 2023-02-15 | Příběhy impéria | The audience, forest apparitions, snake cave, Imperial soldiers, human sacrifices, iron priest, and recruitment of two surviving soldiers. | Strong |
 | `Sezení 4` | `Hladovějící z Willowburnu` | 2023-02-22 | Příběhy impéria | Willowburn's fishing crisis, animated willows, plague dead and polluted stream, the children's procession, a carving of the Sluneční panna, investigation of the fortress curse, and the fire being in the tower. | Strong |
