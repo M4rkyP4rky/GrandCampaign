@@ -7,6 +7,7 @@ names:
     role: reference
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
 snapshots:
   - ../../snapshots/locations/snapshot-location-penbrokton-preplay-baseline.md
 ---
@@ -29,3 +30,12 @@ The rough GM notes provide a time-specific prepared settlement state, named inha
 Sources:
 
 - [Rough-notes source metadata](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrokton-shelswell-rough-gm-notes.md#source-locators) — `Penbrokton` locators and epistemic handling.
+
+## Regional map reference
+
+The curator key interprets marker `02` as the village Penbrokton. The map preserves its relative visual placement; neither artifact supplies coordinates, scale, exact distance, or a physical-parent relationship.
+
+Sources:
+
+- [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `02`.
+- [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `02` and relative visual placement.

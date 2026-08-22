@@ -14,6 +14,7 @@ names:
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+      - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
   - name: Sluneční bohyně
     role: alternate
     language_or_context: descriptive source variant
@@ -42,3 +43,11 @@ Sources:
 - [Raw correspondence](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml) — section `Hladovějící z Willowburnu`.
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 4`.
 - [Hrad Penbrok GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx) — key 11 `Ohnivec`.
+
+## Hortonberry chapel
+
+The curator regional-map key identifies [Hortonberry](../locations/location-hortonberry.md) at marker `32` as a chapel of `Sluneční paní`. This establishes the prepared shrine association but does not independently establish divine action, doctrine, clergy, or the shrine's history.
+
+Sources:
+
+- [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `32`.

@@ -7,6 +7,11 @@ names:
     role: reference
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+  - name: Lord Rutwenn
+    role: alternate
+    language_or_context: spelling in the curator regional-map key
+    sources:
+      - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
 ---
 
 # Lord Ruthwen
@@ -29,3 +34,11 @@ Sources:
 
 - [GM preparation](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx) — hidden background under key 4 `Panoš a koně`.
 - [Curation resolution](../../curation/resolved.md#curation-penbrok-009--identity-of-the-vampire-in-the-prepared-curse-backstory) — curator-supplied identity decision.
+
+## Regional map association
+
+The curator key associates `Lord Rutwenn` with [Darkwood](../locations/location-darkwood.md) at marker `68`. The distinctive title and existing Darkwood-control relationship support treating this as a spelling variant of Lord Ruthwen, not a duplicate being. The key does not establish a new polity, exact tenure interval, or additional powers.
+
+Sources:
+
+- [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `68`.

@@ -7,6 +7,7 @@ names:
     role: reference
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
+      - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
 snapshots:
   - ../../snapshots/locations/snapshot-location-old-chalford-preplay-baseline.md
 ---
@@ -28,3 +29,12 @@ The rough GM notes supply the concealed explanation behind local reports about t
 Sources:
 
 - [Rough-notes source metadata](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrokton-shelswell-rough-gm-notes.md#source-locators) — `# Old Chalford` locators and epistemic handling.
+
+## Regional map identity and associated sites
+
+The curator key identifies marker `50` as the village Old Chalford. It separately describes two distinct, genuinely unnamed sites on the hill above the village: [castle ruins from the time of the æs](location-old-chalford-castle-ruins.md) and a [white tower without an entrance](location-old-chalford-white-tower.md). Neither associated site is given its own numbered marker, and no exact distance or relationship between them is inferred.
+
+Sources:
+
+- [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `50` and its clarification.
+- [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `50` and surrounding visual context.

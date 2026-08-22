@@ -7,6 +7,7 @@ names:
     role: reference
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+      - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
 ---
 
 # Inglewood
@@ -18,3 +19,11 @@ The player notes attest Inglewood through the proper-named historical event `Mas
 Sources:
 
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 3`, `Les nedaleko 09`, `Masakr u Inglewoodu`.
+
+## Regional relationship
+
+The curator key places the unnamed [gallows grove at marker 72](location-penbrok-map-72.md) near Inglewood. It supplies no exact distance, direction, or clarification of Inglewood's own physical type.
+
+Sources:
+
+- [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `72`, phrase `nedaleko Inglewood`.

@@ -8,6 +8,7 @@ names:
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx
+      - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
 snapshots:
   - ../../snapshots/locations/snapshot-location-penbrok-preplay-baseline.md
 ---
@@ -38,3 +39,12 @@ The source retains a keyed floor plan and elevation without creating separate lo
 Sources:
 
 - [GM-preparation source metadata](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-hrad-penbrok-gm-preparation.md#map-and-visual-addressability) — relationship between the DOCX, keyed headings, base image, and overlay layer.
+
+## Regional map reference
+
+The regional map key identifies marker `00` as Penbrok castle and describes it, at the undated prepared map baseline, as the seat of the administrator of the Penbrok estate. This does not merge the castle with the [political estate](../polities/polity-penbrok-estate.md) or establish who held the administrative role at an exact fictional date.
+
+Sources:
+
+- [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `00`.
+- [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `00` and relative visual placement.

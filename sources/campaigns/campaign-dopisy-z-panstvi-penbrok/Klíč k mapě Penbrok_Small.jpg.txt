@@ -1,0 +1,88 @@
+Klíč k mapě Penbrok_Small.jpg
+| **Číslo** | **Nahrubo**                  | **Jméno (má-li)**      | **Zpřesnění**                                                                                |
+| --------- | ---------------------------- | ---------------------- | -------------------------------------------------------------------------------------------- |
+| 00        | Hrad                         | Penbrok                | Sídlo správce panství Penbrok                                                                |
+| 01        | Hláska                       | Windridge              | Otevřený vrch s malou hláskou na vršku, kde stále fičí severák.                              |
+| 02        | Vesnice                      | Penbrokton             |                                                                                              |
+| 03        | Zřícenina tvrze              | Ekenbury               |                                                                                              |
+| 04        | Znesvěcený chrám             | Síthstow               | Bezejmenná                                                                                   |
+| 05        | Chatrč na kraji blat         | jižně od vesnice Egham |                                                                                              |
+| 06        | Hromadné hroby               |                        |                                                                                              |
+| 07        | Hladovějící vesnice          | Willowburn             | Vrby podél potoka                                                                            |
+| 08        | Otrávené jezero              |                        | Voda jezera je prudce jedovatá a i výpary z něj mohou být nebezpečné. V okolí nic nežije.    |
+| 09        | Jeskyně v lese               |                        |                                                                                              |
+| 10        | Salaš                        | Mylsen's               |                                                                                              |
+| 11        | Prastarý les                 |                        |                                                                                              |
+| 12        | Zájezdní hostinec            | Clairmond's            |                                                                                              |
+| 13        | Vypálená ves                 | Rumcombe               |                                                                                              |
+| 14        | Holý vrch                    |                        |                                                                                              |
+| 15        | Hornická osada               | Penoakly               |                                                                                              |
+| 16        | Trosky obléhacího stroje     |                        |                                                                                              |
+| 17        | Prastará socha dávné bohyně  |                        | Kamenná socha vysoká dobrých dvacet metrů.                                                   |
+| 18        | Vesnice                      | Ringsfield             |                                                                                              |
+| 19        | Houbový háj                  |                        |                                                                                              |
+| 20        | Kamenný kruh                 |                        | Dávný kruh kamenů na louce uprostřed pralesa.                                                |
+| 21        | Vlčí brloh                   |                        |                                                                                              |
+| 22        | Obří šlápota plná vody       | Casmohr                |                                                                                              |
+| 23        | Loupežnický hrad             |                        | Opuštěný dvorec na kopci o kterém se ví, že jej využívají loupežníci a podloudníci.          |
+| 24        | Velký mlýn                   | Lymsey's               |                                                                                              |
+| 25        | Panský dům                   | Shelswell              |                                                                                              |
+| 26        | Trosky akvaduktu             |                        | Trosky ohromného kamenného akvaduktu z časů *æsů*. Kam vedl a odkud už dnes nikdo neví.      |
+| 27        | Velký vypálený klášter       | Hamswic                | Možná spíš vypálený klášter? Na mapě to vypadá jako velká věc a klášter myslím nikde nemáme. |
+| 28        |                              |                        |                                                                                              |
+| 29        |                              |                        |                                                                                              |
+| 30        |                              |                        |                                                                                              |
+| 31        |                              |                        |                                                                                              |
+| 32        | Kaplička Sluneční paní       | Hortonberry            |                                                                                              |
+| 33        | Pozůstatky vojenského tábora |                        |                                                                                              |
+| 34        | Medvědiště                   |                        |                                                                                              |
+| 35        | Údolí s mokřadem             |                        |                                                                                              |
+| 36        |                              |                        |                                                                                              |
+| 37        | Záď lodi trčící z jezera     |                        |                                                                                              |
+| 38        | Mlýn                         |                        |                                                                                              |
+| 39        |                              |                        |                                                                                              |
+| 40        |                              |                        |                                                                                              |
+| 41        | Mokřady                      |                        | V bažinách se rozkládají mrtví a z mokřin trčí zlámaná kopí a zrezlé meče.                   |
+| 42        |                              |                        |                                                                                              |
+| 43        | Pozůstatky bitvy             |                        |                                                                                              |
+| 44        | Statek                       |                        | Sídlí tu věštec a prorok s malou komunitou, která jej následuje.                             |
+| 45        | Osada                        | Sonchester             |                                                                                              |
+| 46        | Černá věž                    |                        |                                                                                              |
+| 47        | Hrad                         | Houghbury              |                                                                                              |
+| 48        | Město (s radnicí)            | Houghbury              |                                                                                              |
+| 49        | Chrámová čtvrť               |                        |                                                                                              |
+| 50        | Vesnice                      | Old Chalford           | Na kopci nad vesnicí se tyčí trosky hradu z časů *æsů* a bílá věž bez vchodu.                |
+| 51        | Mlýn                         |                        |                                                                                              |
+| 52        |                              |                        |                                                                                              |
+| 53        |                              |                        |                                                                                              |
+| 54        |                              |                        |                                                                                              |
+| 55        | Hrad                         |                        |                                                                                              |
+| 56        |                              |                        |                                                                                              |
+| 57        | Vlčí jámy                    |                        | Ohromná průrva a propadlé údolí v krajině, zarostlá stromy.                                  |
+| 58        |                              |                        |                                                                                              |
+| 59        |                              |                        |                                                                                              |
+| 60        | Puklina v zemi               |                        |                                                                                              |
+| 61        |                              |                        |                                                                                              |
+| 62        |                              |                        |                                                                                              |
+| 63        |                              |                        |                                                                                              |
+| 64        |                              |                        |                                                                                              |
+| 65        |                              |                        |                                                                                              |
+| 66        | Mlýn                         |                        |                                                                                              |
+| 67        |                              |                        |                                                                                              |
+| 68        | Hrad                         | Darkwood               | Lord Rutwenn                                                                                 |
+| 69        | Jeskyně                      |                        |                                                                                              |
+| 70        |                              |                        |                                                                                              |
+| 71        |                              |                        |                                                                                              |
+| 72        | Oběšenecký háj               |                        | nedaleko Inglewood                                                                           |
+| 73        |                              |                        |                                                                                              |
+| 74        | Hrad                         | Holt                   | je odtamtud Cecily                                                                           |
+| 75        |                              |                        |                                                                                              |
+| 76        |                              |                        |                                                                                              |
+| 77        |                              |                        |                                                                                              |
+| 78        | Klášter                      |                        |                                                                                              |
+| 79        |                              |                        |                                                                                              |
+| 80        |                              |                        |                                                                                              |
+| 81        |                              |                        |                                                                                              |
+| 82        |                              |                        |                                                                                              |
+
+Navrhni ingest prompt, který zapracuje lokace v souladu s provenance pravidly.

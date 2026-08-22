@@ -37,8 +37,8 @@
 - Uncertainty: Does the rough-notes place-name `Rumburk`, where Thomas was sent to study, refer to the existing village Rumcombe, represent a spelling or translation variant, or denote a distinct named place?
 - Why it matters: Treating the names as identical could attach Thomas's studies to the wrong location; creating a second identity without evidence could duplicate Rumcombe.
 - Affected records: [Thomas ze Shelswellu](../entities/beings/being-thomas-shelswell.md) and [Rumcombe](../entities/locations/location-rumcombe.md).
-- Evidence: [Rough GM notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md), `# Shellswel`, `Syn Thomas`, say Thomas was sent to study `do Rumburku`. [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md), `Sezení 6`, and [correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml), `Paní vran`, identify Rumcombe as a war-damaged or burned village encountered during the search for Kristen. The spelling resemblance does not establish identity, and the study context does not establish distinctness.
-- Current handling: Thomas's record retains the source-stated `Rumburk` without a location link. No Rumburk record is created and no link to Rumcombe is asserted pending curator evidence.
+- Evidence: [Rough GM notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrokton-Shelswell-GM-notes.md), `# Shellswel`, `Syn Thomas`, say Thomas was sent to study `do Rumburku`. [Player notes](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md), `Sezení 6`, and [correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml), `Paní vran`, identify Rumcombe as a war-damaged or burned village encountered during the search for Kristen. The curator [regional-map key](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt), marker `13`, independently retains the spelling `Rumcombe` and characterizes it as a burned village, but does not mention Thomas, Rumburk, or an equivalence. The spelling resemblance does not establish identity, and the study context does not establish distinctness.
+- Current handling: The new map evidence enriches Rumcombe but does not resolve this item. Thomas's record retains the source-stated `Rumburk` without a location link. No Rumburk record is created and no link to Rumcombe is asserted pending curator evidence.
 
 ## curation-penbrok-016 — Sígref Strašlivá and the Shelswell white worm
 
@@ -49,3 +49,23 @@
 - Affected records: [Obří bílý červ ze Shelswellu](../entities/beings/being-shelswell-white-worm.md), [Sir Adrian](../entities/beings/person-sir-adrian.md), and [Střet v Adrianově domě](../events/event-adrian-house-ordeal.md).
 - Evidence: [Correspondence](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok.xml), `Příjezd`, says Adrian's family was allied with `Sígref Strašlivá`, incarnated in a worm-like monstrosity. [Campaign-version GM preparation](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/025-Usedlost-Shelswell-Campaign-version.docx), key 10 and the hidden backstory under key 6, identifies a giant white worm and its fish-related mechanism without naming Sígref. The existing being record preserves the strong match between the prepared worm and the played creature while treating Sígref as Yann's religious interpretation.
 - Current handling: No separate Sígref record is created, and `Sígref Strašlivá` is not added as a confirmed alternate name of the white worm. The possible identity or manifestation relationship remains unresolved.
+
+## curation-penbrok-017 — Síthstow and the unnamed marker-04 temple
+
+- Status: open
+- Scope: [Panství Penbrok regional map key](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map-key.md), marker `04`
+- Uncertainty: Does `Síthstow` name the desecrated temple at marker `04`, name another place associated with that marker, or conflict with the same row's explicit note `Bezejmenná`?
+- Why it matters: Promoting `Síthstow` to the temple's confirmed proper name would erase the curator key's statement that it is unnamed; separating it without evidence could manufacture a second place.
+- Affected records: [marker-04 temple site](../entities/locations/location-penbrok-map-04.md) and the [map-key source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map-key.md).
+- Evidence: The curator-authored [map key](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt), marker `04`, places `Síthstow` in the `Jméno (má-li)` column while its `Zpřesnění` cell says `Bezejmenná`.
+- Current handling: One persistent marker-site record preserves both statements. `Síthstow` is recorded as an unresolved candidate name associated with that identity, not promoted to a confirmed name and not materialized as a speculative second location.
+
+## curation-penbrok-018 — Identity category of æsové
+
+- Status: open
+- Scope: [Panství Penbrok regional map key](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map-key.md), markers `26` and `50`
+- Uncertainty: What persistent kind of identity, if any, does the expression `z časů æsů` denote: a named people or culture, a polity, an organization, a species or class of beings, an Age, or another historical referent?
+- Why it matters: Treating the expression as a polity or organization would manufacture unsupported structure, while ignoring a confirmed proper-named people would leave the named-things invariant incomplete.
+- Affected records: [marker-26 aqueduct ruins](../entities/locations/location-penbrok-map-26.md), [castle ruins above Old Chalford](../entities/locations/location-old-chalford-castle-ruins.md), and the [map-key source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map-key.md).
+- Evidence: The curator-authored [map key](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) uses the italicized lower-case expression `z časů *æsů*` for the aqueduct ruins at marker `26` and castle ruins above Old Chalford at marker `50`, without further definition.
+- Current handling: The exact source expression remains in both affected location records and source metadata. No polity, organization, being, age, or duplicate identity is asserted until the referent and appropriate persistent type can be established.

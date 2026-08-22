@@ -11,6 +11,7 @@ names:
     role: alternate
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+      - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
   - name: Shellswel
     role: alternate
     language_or_context: spelling in the rough GM notes
@@ -44,3 +45,12 @@ Sources:
 
 - [GM-preparation source metadata](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-usedlost-shelswell-gm-preparation.md#keyed-textual-locators) — keyed headings and map addressability.
 - [Rough-notes source metadata](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrokton-shelswell-rough-gm-notes.md#source-locators) — compatible additional hidden location evidence under `# Shellswel`.
+
+## Regional map reference
+
+The curator key identifies marker `25` as `Shelswell` and roughly characterizes it as a manor house. This is compatible with the already materialized landed estate and does not create a separate settlement, castle, or namesake location.
+
+Sources:
+
+- [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `25`.
+- [Regional map](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok_Small.jpg) — marker `25` and relative visual placement.

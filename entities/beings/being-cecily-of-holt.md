@@ -19,6 +19,11 @@ names:
     sources:
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/000-Hrad-Penbrok.docx
       - ../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md
+  - name: Cecily
+    role: alternate
+    language_or_context: shortened form in the curator regional-map key
+    sources:
+      - "../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč k mapě Penbrok_Small.jpg.txt"
 ---
 
 # Cecily z Holtu
@@ -48,3 +53,11 @@ The player notes describe the group encountering and awakening the hostage, whil
 Sources:
 
 - [Player notes](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Penbrok-hracske-poznamky.md) — `Sezení 2`, `Sezení 7`, and `Sezení 8`.
+
+## Regional map origin statement
+
+The curator key says of [Holt](../locations/location-holt.md) at marker `74` that Cecily comes from there. This supports the existing place association without inferring an exact residence interval, legal status, or route.
+
+Sources:
+
+- [Curator map key](../../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/Klíč%20k%20mapě%20Penbrok_Small.jpg.txt) — marker `74`, phrase `je odtamtud Cecily`.

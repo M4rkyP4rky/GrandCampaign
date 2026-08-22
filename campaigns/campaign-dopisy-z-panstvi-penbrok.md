@@ -8,6 +8,8 @@ record_sources:
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-hrad-penbrok-gm-preparation.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-usedlost-shelswell-gm-preparation.md
   - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrokton-shelswell-rough-gm-notes.md
+  - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map.md
+  - ../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map-key.md
 ---
 
 # Panství Penbrok
@@ -83,3 +85,14 @@ All ten dated sections name `Příběhy impéria` as the RPG system. Derived pla
 Sources:
 
 - [Source record: section-level play metadata](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-dopisy-z-panstvi-penbrok.md#section-level-play-metadata) — source-stated labels, derived session dates, RPG system, and correction provenance.
+
+## Prepared regional map baseline
+
+The adopted regional map and its curator-authored key supply complementary GM/world-preparation evidence for the broader Penbrok region. The JPEG preserves numbered markers `00`–`82`, relative visual placement, and terrain context; the key supplies marker interpretations, names, descriptions, relationships, and curator uncertainty. The pair has no exact fictional date and does not supply coordinates, scale, or measured distances.
+
+All 53 markers with meaningful key content resolve to persistent location records. Empty key rows remain source-local, while named things inside descriptions and relative-location wording are resolved independently. The Houghbury castle at marker `47` remains distinct from the existing Houghbury town at marker `48`.
+
+Sources:
+
+- [Regional-map source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map.md) — visual evidence, limitations, integrity, and companion relationship.
+- [Curator-key source record](../sources/campaigns/campaign-dopisy-z-panstvi-penbrok/source-penbrok-regional-map-key.md) — classification, complete marker handling, named-thing resolution, uncertainty, and blank-marker list.
