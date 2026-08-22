@@ -12,6 +12,7 @@ This repository is the persistent, Git-versioned source of knowledge for multipl
 - Preserve uncertainty and the precision of the source.
 - Give every derived factual section or meaningful content block identifiable supporting sources; use statement-level attribution when ambiguity, dispute, or conflicting sourcing requires it.
 - Inspect existing records before assigning a new entity, event, campaign, or snapshot ID.
+- Explicitly proper-named fictional things normally receive persistent entity records; resolve spelling and naming variants against existing identities rather than creating duplicates.
 - Every persistent record has a permanent, readable ASCII ID with a type prefix. Renaming a record does not change its ID.
 - Keep identity, time-dependent state, and events distinct.
 - Treat events as intervals when the evidence supports an interval; do not equate sessions with events.

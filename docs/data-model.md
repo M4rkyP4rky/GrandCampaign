@@ -38,6 +38,14 @@ names:
 
 Omit optional keys when unsupported. Different names do not by themselves imply different entities. Preserve original spellings, languages, quotations, and campaign terminology.
 
+## Named things and persistent identity
+
+If a fictional person, being, place, geographic feature, organization, object, or other identifiable thing is given an explicit proper name, it should normally receive a persistent entity record. The project principle is: “If we gave it a name in the game/world, it matters.” This applies even when the named thing appears only in GM preparation, was never encountered by player characters, is minor in the immediate adventure, currently has little information beyond its name, or appears only once in available sources.
+
+Resolve each named thing against existing records before creating a new ID. Spelling variants, titles, translations, aliases, historical names, and uncertain name forms do not by themselves justify duplicate records; use the normal identity and confirmed-duplicate rules, preserving uncertainty and provenance where equivalence is not yet established.
+
+This invariant concerns identity-bearing named things. Unnamed generic material may remain source-local unless another reason makes it persistent or world-significant: generic guards, ordinary furniture, an unnamed sword, an unnamed hill, or an unnamed tavern do not require separate records merely because they occur in a source. Nor does the invariant require independent records for every unnamed room, architectural feature, mundane item, tactical instruction, encounter procedure, or other adventure-local detail. The hybrid module-ingestion policy preserves complete source-local detail while materializing named identities and other persistent or world-significant information; see [ingestion.md](ingestion.md#gm-preparation-and-adventure-modules).
+
 ## Links and filenames
 
 Persistent record filenames normally equal their stable ID plus `.md`. Use ordinary relative Markdown links, for example `[reference name](../entities/beings/<being-stable-id>.md)`, adjusted for the linking file's location. Do not depend on proprietary wiki-link syntax.
