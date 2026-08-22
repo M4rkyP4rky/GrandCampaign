@@ -19,6 +19,7 @@ This repository is the persistent, Git-versioned source of knowledge for multipl
 - Use stable physical geography as the location hierarchy. Political control is time-dependent data.
 - Use human-readable UTF-8 Markdown and simple YAML frontmatter with ordinary relative Markdown links.
 - Do not make source-authority decisions that the governance documents leave unresolved.
+- Apply [read and output modes](docs/output-modes.md) to repository-backed answers: default to FAST, and never read anything under `sources/` in FAST.
 
 ## Documentation map
 
@@ -28,6 +29,7 @@ Start with [docs/index.md](docs/index.md), then read only the documentation rele
 - Dates, intervals, AP, Ages, and calendar: [docs/temporal-model.md](docs/temporal-model.md)
 - Locations, physical hierarchy, and political change: [docs/geography-model.md](docs/geography-model.md)
 - Evidence, accounts, contradictions, and reconstruction: [docs/provenance-model.md](docs/provenance-model.md)
+- FAST, DEEP, and COMPARE read/output behavior: [docs/output-modes.md](docs/output-modes.md)
 - Ingestion workflow: [docs/ingestion.md](docs/ingestion.md)
 - Actionable content uncertainties and curator review: [curation/README.md](curation/README.md)
 - Unresolved repository and design decisions: [docs/open-questions.md](docs/open-questions.md)
@@ -35,7 +37,7 @@ Start with [docs/index.md](docs/index.md), then read only the documentation rele
 ## Working rules
 
 1. Read the relevant governance document and inspect related existing records.
-2. Trace derived factual content to repository sources at section or meaningful-block granularity at minimum.
+2. When changing persistent derived factual content, trace it to repository sources at section or meaningful-block granularity at minimum.
 3. Add or update the smallest appropriate record without manufacturing missing values.
 4. Keep raw evidence separate from derived records and perspectives.
 5. Update governing documentation when an explicitly approved model rule changes; do not rely on chat memory.
