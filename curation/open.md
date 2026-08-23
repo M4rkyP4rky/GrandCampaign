@@ -1,5 +1,49 @@
 # Open content curation items
 
+## curation-zelezne-prisahy-008 — Identity of S.M.J.
+
+- Status: open
+- Scope: [Železné přísahy](../campaigns/campaign-zelezne-prisahy.md), the letter recovered near Rojřin Stesk, and its signatory `S.M.J.`
+- Question type: identity
+- Uncertainty: Who or what signed the recovered instruction as `S.M.J.`? The current source does not establish whether the signatory is a person, organization, title, collective, or something else.
+- Why it matters: The initials are a durable named signatory connected to the instruction given to Wynne, but assigning a fictional entity type or identity now would manufacture evidence.
+- Evidence: [RPGForum topic 17203, post 657115](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17203.md#post-657115) reproduces the damaged instruction ending `S.M.J.`; [RPGForum topic 17288, post 654620](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17288.md#post-654620) summarizes that Wynne received the task from someone using those initials.
+- Current handling: `S.M.J.` remains an unresolved textual signatory. No being, organization, polity, title, collective, or other fictional persistent record has been created.
+- Future action: Reconsider after later source ingestion or curator evidence identifies who or what signed this way; then resolve against existing identities before creating any record.
+
+## curation-zelezne-prisahy-007 — Model category of Přísahy
+
+- Status: open
+- Scope: [Železné přísahy](../campaigns/campaign-zelezne-prisahy.md) and the named oath-related power `Přísahy`
+- Question type: ontology / model category
+- Uncertainty: Which persistent category, if any, can represent `Přísahy` without prematurely treating them as a being, deity, force, phenomenon, or another fixed ontology?
+- Why it matters: The source gives this named concept durable cosmological and oath-related significance, but the curator has intentionally deferred its final model category until more context exists.
+- Evidence: [RPGForum topic 17201, post 654904](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17201.md#post-654904) records Nanda's claim that `Přísahy`, associated with `Železné přísahy`, are an older, omnipresent, impersonal power and the source of power behind gods. This remains Nanda's interpretation, not an uncontested objective cosmology.
+- Current handling: The labels `Přísahy` and supported contextual form `Železné přísahy` remain source-backed and retrievable, but no fictional persistent record or type is assigned.
+- Future action: After further campaign ingestion or curator review, determine whether an existing category fits or approve the least-specialized new capability needed to materialize the referent while preserving epistemic framing.
+
+## curation-zelezne-prisahy-006 — Ontology of Stín
+
+- Status: open
+- Scope: [Železné přísahy](../campaigns/campaign-zelezne-prisahy.md) and the source label `Stín`
+- Question type: ontology / model category
+- Uncertainty: What kind of referent is `Stín`? Current evidence does not safely distinguish a being, affliction, force, condition, phenomenon, deity, or another category.
+- Why it matters: Stín is materially connected with Sarda's condition and the journey toward Qudan, but choosing a type would make its ontology more definite than the source supports.
+- Evidence: [RPGForum topic 17989, post 700795](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17989.md#post-700795) has Myrick interpret a giant tablet as requiring people affected by Stín not to be killed but sent to the mouth of the Qudan; the same post frames his conclusions and intended response as interpretation. Other narrative detail remains retrievable through that exact post.
+- Current handling: `Stín` remains textual in affected event and being histories. No fictional persistent record or category has been assigned.
+- Future action: Reconsider after further campaign ingestion or curator review determines whether an existing category fits; otherwise propose an appropriate minimal category without retroactively forcing the current evidence.
+
+## curation-zelezne-prisahy-005 — Ontology of Adan
+
+- Status: open
+- Scope: [Železné přísahy](../campaigns/campaign-zelezne-prisahy.md) and the source label `Adan`
+- Question type: ontology / model category
+- Uncertainty: What kind of persistent referent, if any, is `Adan`? Current evidence does not safely distinguish a being, place, cycle, force, phenomenon, metaphysical mechanism, or another category.
+- Why it matters: Adan has durable retrieval value in elven belief and practice, but promoting those accounts to objective cosmology or choosing a type now would erase their epistemic framing.
+- Evidence: [RPGForum topic 17201, post 654904](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17201.md#post-654904) says elves claim one soul called Adan connects all living things and describes the transfer of a human soul into it; [RPGForum topic 17530, post 671299](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17530.md#post-671299) records Uktannu's claims about people merging with Adan and preserves the account as elven speech and belief.
+- Current handling: `Adan` remains a source-backed label within attributed elven cosmology. No fictional persistent record or category has been assigned.
+- Future action: Reconsider after further campaign ingestion or curator review supplies enough context to resolve the ontology and epistemic treatment; then use an existing category or propose the least-specialized new capability.
+
 ## curation-penbrok-020 — Brigitte's affiliation during the played encounter
 
 - Status: open

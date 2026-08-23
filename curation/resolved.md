@@ -2,6 +2,58 @@
 
 When an item closes, move its complete entry here without changing its ID or removing the original question and evidence. Record the resolution, its basis and provenance, affected records updated, and the resolution date as described in [the curation workflow](README.md#resolution-and-audit).
 
+## curation-zelezne-prisahy-004 — Nemoc as an affliction
+
+- Status: resolved
+- Scope: [Železné přísahy](../campaigns/campaign-zelezne-prisahy.md), `Nemoc`, and `Nemoc Starého světa`
+- Original uncertainty: Does Nemoc deserve a persistent referent, and which current or new category can represent it without confusing a named disease with a being, organization, event, or mere source-local term?
+- Why it matters: Nemoc is named repeatedly and has durable setting and relationship retrieval value, while its origin, connection with elven magic or Zlomení, and cure remain uncertain.
+- Evidence: [RPGForum topic 17201, post 650273](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17201.md#post-650273) describes a lethal spreading disease in the Old World; [topic 17234, post 652345](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17234.md#post-652345) attests `Nemoc Starého světa`; [topic 17201, post 687955](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17201.md#post-687955) and [topic 17231, post 688056](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17231.md#post-688056) preserve competing or attributed explanations and cure-related beliefs.
+- Earlier handling: Nemoc remained schema-deferred and textual; no persistent record encoded the competing causal theories as fact.
+- Resolution: Nemoc is a named disease and the first persistent `affliction`. The affliction category remains open-world and broader than disease alone. No exact origin, elven cause, Zlomení cause, cure mechanism, or claim that transformation objectively cures it is established by this classification.
+- Basis: Curator-supplied classification during RPGForum 340 Phase 5 correction review, together with the preserved primary evidence above.
+- Affected records updated: newly materialized [Nemoc](../entities/afflictions/affliction-nemoc.md), the reusable affliction model and template, and direct navigation from existing Vislak, Následovníci Vislaka, and relevant event text. No other condition was migrated.
+- Resolution date: 2026-08-23 (real-world archive/curation date).
+
+## curation-zelezne-prisahy-003 — Zlomení as transformed humans
+
+- Status: resolved
+- Scope: [Železné přísahy](../campaigns/campaign-zelezne-prisahy.md) and `Zlomení`
+- Original uncertainty: Are Zlomení a people, kind, organization, polity, population, or another ontology, and how are they related to the people of the Old World?
+- Why it matters: Modeling them as an organization, polity, or unrelated nonhuman species would distort their identity, while treating causal theories about Nemoc or elven magic as fact would erase source uncertainty.
+- Evidence: [RPGForum topic 17201, post 650273](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17201.md#post-650273) describes people from the Old World who became the people called Zlomení; [topic 17201, post 687955](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17201.md#post-687955) presents multiple explanations involving Nemoc and elven magic rather than a settled causal account.
+- Earlier handling: Zlomení remained a schema-deferred textual referent; causal claims stayed attributed or uncertain.
+- Resolution: Zlomení are transformed humans. They are represented as a reusable kind/group classification with a `transformed-from` relationship to the human classification, not as an organization, polity, or unrelated species. The cause, mechanism, relationship to Nemoc and elven magic, and whether transformation is a cure remain unresolved.
+- Basis: Curator-supplied classification during RPGForum 340 Phase 5 correction review, with the primary evidence above retaining the uncertainty of causal accounts.
+- Affected records updated: newly materialized classification [Zlomení](../classifications/beings/being-classification-zlomeni.md), required generic parent classification [Lidé](../classifications/beings/being-classification-human.md), and direct navigation from Nemoc, Vislak, Následovníci Vislaka, and relevant event text. No individual-being migration was performed.
+- Resolution date: 2026-08-23 (real-world archive/curation date).
+
+## curation-zelezne-prisahy-002 — Skyskarové as a giant faction
+
+- Status: resolved
+- Scope: [Železné přísahy](../campaigns/campaign-zelezne-prisahy.md) and `Skyskarové`
+- Original uncertainty: Are Skyskarové a people, kind, social collective, organization, polity, species, or another ontology, and how do they relate to giants?
+- Why it matters: A separate species, organization, or polity would add unsupported structure; leaving the name source-only would prevent durable setting-specific classification and navigation.
+- Evidence: [RPGForum topic 17460, post 690291](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17460.md#post-690291) has Havarr describe Skyskarové as storm giants who separated from other giants and chose service to darkness; [topic 17406, post 660425](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17406.md#post-660425) attests the inflected name in the epithet `zkáza Skyskarů`.
+- Earlier handling: Skyskarové remained a schema-deferred textual referent, and Havarr's broader claims remained attributed.
+- Resolution: Skyskarové are a faction or branch of giants that sold themselves to darkness. They are not a distinct unrelated species, organization, or polity. The exact metaphysical nature, patron, mechanism, and consequences of the sale remain unspecified.
+- Basis: Curator-supplied classification and sale-to-darkness clarification during RPGForum 340 Phase 5 correction review, with primary evidence above.
+- Affected records updated: newly materialized classification [Skyskarové](../classifications/beings/being-classification-skyskarove.md), required generic parent classification [Obři](../classifications/beings/being-classification-giant.md), and a navigation link from [Ledový Dráp](../entities/objects/object-ledovy-drap.md). No individual-being migration was performed.
+- Resolution date: 2026-08-23 (real-world archive/curation date).
+
+## curation-zelezne-prisahy-001 — varou as a kind of being
+
+- Status: resolved
+- Scope: [Železné přísahy](../campaigns/campaign-zelezne-prisahy.md) and `varou`
+- Original uncertainty: Does `varou` denote a people, species or kind, cultural collective, organization, population, or another ontology?
+- Why it matters: Modeling varou as an organization, polity, culture, faction, or unresolved collective would distort ordinary individual varou and prevent a reusable source-backed kind classification.
+- Evidence: [RPGForum topic 17201, post 650273](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17201.md#post-650273) describes wolf-like `varouové` alongside elves and giants; [topic 17530, post 671299](../sources/campaigns/campaign-zelezne-prisahy/rpgforum-340-normalized/topics/17530.md#post-671299) again distinguishes varou, trolls, giants, and humans in Uktannu's account.
+- Earlier handling: `varou` remained a schema-deferred textual referent and was not assigned an organization, polity, culture, or being identity.
+- Resolution: varou are a kind or species of being, directly comparable on that classification dimension to humans or elves. The record does not add unsupported biology, culture, history, social structure, or supernatural properties.
+- Basis: Curator-supplied classification during RPGForum 340 Phase 5 correction review, supported by the primary evidence above.
+- Affected records updated: newly materialized classification [varou](../classifications/beings/being-classification-varou.md) and direct navigation from [Defense of Zátiší](../events/event-obrana-zatisi.md). No individual-being migration was performed.
+- Resolution date: 2026-08-23 (real-world archive/curation date).
+
 ## curation-penbrok-019 — Brigitte's origin and affiliation
 
 - Status: superseded

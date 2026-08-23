@@ -19,7 +19,7 @@ Do not infer answers from convenience or conversation history; record an approve
 
 - Which structured relationship types are useful after representative data is reviewed, rather than leaving relationships in prose?
 - How should overlapping, nested, or disputed location snapshots be queried or presented?
-- Which, if any, structured descriptive dimensions for beings—such as species, ancestry, condition, ontology, divinity, or transformation—become useful after representative data is reviewed, without imposing a closed taxonomy?
+- Which additional structured descriptive dimensions for beings—beyond the approved open-world `kind` and `faction` values—become useful after representative data is reviewed? In particular, ancestry, condition, ontology, divinity, transformation, and culture must not be collapsed into one axis merely for convenience.
 
 ## Sources and sessions
 

@@ -7,6 +7,11 @@ names:
     role: reference
     sources:
       - <relative link supporting this name block>
+# Optional; omit when no reusable classification is supported.
+classifications:
+  - classification: ../../classifications/beings/<being-classification-stable-id>.md
+    sources:
+      - <relative link supporting this classification>
 ---
 
 # <reference name>

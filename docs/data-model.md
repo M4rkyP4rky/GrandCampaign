@@ -2,7 +2,7 @@
 
 ## Records and files
 
-Primary archive data is UTF-8 Markdown with concise YAML frontmatter where structured metadata is useful. Each persistent record represents one primary entity, event, campaign, snapshot, or imported source and has one H1 heading matching its human-facing `reference_name` or title. Immutable raw evidence may use its original portable format beside its source metadata record under [`sources/`](../sources/).
+Primary archive data is UTF-8 Markdown with concise YAML frontmatter where structured metadata is useful. Each persistent record represents one primary entity, reusable classification, event, campaign, snapshot, or imported source and has one H1 heading matching its human-facing `reference_name` or title. Immutable raw evidence may use its original portable format beside its source metadata record under [`sources/`](../sources/).
 
 Use readable YAML:
 
@@ -15,7 +15,7 @@ Use readable YAML:
 
 ## Stable identity
 
-Every persistent record has a permanent ASCII `id` with a readable type prefix, such as `being-...`, `location-...`, `event-...`, `campaign-...`, `polity-...`, `organization-...`, `object-...`, `snapshot-location-...`, or `source-...`.
+Every persistent record has a permanent ASCII `id` with a readable type prefix, such as `being-...`, `being-classification-...`, `affliction-...`, `location-...`, `event-...`, `campaign-...`, `polity-...`, `organization-...`, `object-...`, `snapshot-location-...`, or `source-...`.
 
 - Identity is independent of display name.
 - A corrected or changed `reference_name` does not change the ID or normal ID-based filename.
@@ -58,9 +58,32 @@ A **being** is an individual actor or animate entity, ordinary or extraordinary.
 
 Natural, supernatural, mortal, divine, humanoid, non-humanoid, and similar distinctions do not determine the top-level storage category. Such boundaries may themselves be culturally, historically, or ontologically uncertain. A record may describe what kind of being an entity appears to be when sources support that description, while preserving competing classifications and uncertainty.
 
-Do not define a closed list of kinds, require every being to have a precise nature, or infer a classification from its storage history. In particular, a record migrated from `entities/people/` is not thereby established to be human. Whether future structured characterization should distinguish species, ancestry, condition, ontology, divinity, transformation, or other dimensions remains open until representative data demonstrates a need.
+Do not define a closed list of kinds, require every being to have a precise nature, or infer a classification from its storage history. In particular, a record migrated from `entities/people/` is not thereby established to be human.
 
 Existing `person-...` records have moved to `entities/beings/` and use `record_type: being`; their stable IDs and filenames remain unchanged.
+
+### Being classifications
+
+Reusable descriptions of what kind, species, faction, branch, or subgroup a being belongs to live under [`classifications/beings/`](../classifications/beings/) with `record_type: being_classification` and stable `being-classification-...` IDs. Classification records are descriptive values, not individual beings, organizations, or polities. They may be proper-named or generic when a generic parent value is needed to express an evidenced relationship between classifications.
+
+Each value declares a `dimension`. The currently demonstrated dimensions are `kind` and `faction`; they are an open vocabulary rather than a closed taxonomy. A sourced classification-to-classification relationship may use `classification_parent` with a plain descriptive `relation`, such as `branch-of` or `transformed-from`. The relationship does not imply organizational structure, political authority, culture, ancestry, or metaphysics beyond its stated source-supported meaning.
+
+Being records may link a supported reusable value without requiring every being to be classified:
+
+```yaml
+classifications:
+  - classification: ../../classifications/beings/<being-classification-stable-id>.md
+    sources:
+      - <relative link supporting this classification>
+```
+
+Do not migrate the full being inventory merely because a reusable classification exists. Additional dimensions—such as ancestry, condition, ontology, divinity, transformation, or culture—remain unapproved until representative data establishes a need and their boundaries can be expressed without forcing one axis to stand in for another.
+
+## Afflictions
+
+An **affliction** is a persistent, named disease, curse, contamination, or other condition-like phenomenon whose identity has durable retrieval value independent of any one affected being or event. Affliction records live under [`entities/afflictions/`](../entities/afflictions/) with `record_type: affliction` and stable `affliction-...` IDs.
+
+The category is open-world: a record may use a sourced descriptive `affliction_kind`, but no closed list of kinds is implied. An affliction record identifies and describes the phenomenon; it does not by itself establish a cause, cure, affected population, transmission mechanism, or relationship to another named referent. Preserve competing explanations and attributed beliefs in prose with precise provenance. Do not use an affliction record for every temporary injury, ordinary symptom, abstract concept, or poorly understood force merely because it affects a being.
 
 ## Confirmed duplicate entity records
 
