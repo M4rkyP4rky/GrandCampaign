@@ -1,6 +1,7 @@
 ---
 id: campaign-zelezne-prisahy
 record_type: campaign
+chronology: ../chronologies/campaign-zelezne-prisahy/chronology.md
 reference_name: "Železné přísahy"
 time:
   description: "The played campaign opens in 1032 poPA at year precision only; no month, day, season boundary, or exact date is established."
