@@ -1,6 +1,7 @@
 ---
 id: campaign-dopisy-z-panstvi-penbrok
 record_type: campaign
+chronology: ../chronologies/campaign-dopisy-z-panstvi-penbrok/chronology.md
 reference_name: Panství Penbrok
 time:
   description: The campaign takes place during podzim (autumn) of 1652 poPA; exact campaign start and end dates within the season are not established.
