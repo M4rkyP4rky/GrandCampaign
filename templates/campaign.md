@@ -4,6 +4,8 @@ record_type: campaign
 reference_name: <reference name>
 record_sources:
   - <relative link to preserved campaign source>
+# Optional; omit unless a durable chronology exists.
+# chronology: ../chronologies/<campaign-id>/chronology.md
 ---
 
 # <reference name>

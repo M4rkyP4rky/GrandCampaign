@@ -52,6 +52,14 @@ Persistent record filenames normally equal their stable ID plus `.md`. Use ordin
 
 An ID is the machine-stable identity; a Markdown link provides navigability; the link label is human-facing and may change without changing the target filename.
 
+## Chronology records and navigation
+
+Optional durable chronologies live under [`chronologies/`](../chronologies/README.md). Manifests use `record_type: chronology` and global `chronology-...` IDs; segments use `record_type: chronology_segment` and global `chronology-segment-...` IDs. Both require `reference_name`, a matching H1, and `record_sources`. The manifest filename `chronology.md` intentionally differs from its stable ID; this exception does not relax the standard envelope. Segment filenames remain ID-based.
+
+A segment is an analytical story-navigation/time-order unit, not an event or fictional entity. Campaign-scoped threads are declared within the manifest rather than assigned entity records. The graph preserves partial temporal order and distinguishes narrative traversal from temporal constraints.
+
+A campaign may use an optional `chronology` link. An event may use optional `chronology_segments` entries with `segment` links and local evidence; segments may use optional `events` entries with `event` links and local evidence. Neither side requires a 1:1 relationship or reciprocal duplication. No campaign/event backfill is required. Optional `temporal.assertions` extends events and segments without replacing existing `time`; see the [temporal model](temporal-model.md#optional-temporal-assertions).
+
 ## Beings
 
 A **being** is an individual actor or animate entity, ordinary or extraordinary. Being records live under [`entities/beings/`](../entities/beings/) and new stable IDs use the `being-...` prefix. Humans, elves, goblins or similar peoples, werewolves, spirits, dragons, local divinities, conscious springs or other nonstandard animate entities, and gods can all be beings when supported by source material.

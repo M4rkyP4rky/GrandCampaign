@@ -10,6 +10,8 @@ FAST must not read anything under [`sources/`](../sources/), including raw evide
 
 FAST answers: **What does the materialized repository currently know independently of rereading its sources?**
 
+Durable chronology manifests, segments, threads, temporal assertions, and their navigation links are part of this materialized layer. FAST may use them and their embedded provenance without opening source files. Recovery JSON under tmp is not part of FAST or canonical durable chronology.
+
 Missing information in FAST means **not materialized**, not false. FAST must not fill gaps from model memory, earlier Codex conversations, generated outputs, or general inference.
 
 ## DEEP / SOURCE-GROUNDED
@@ -19,6 +21,8 @@ DEEP begins with the materialized working model and may then consult relevant in
 DEEP may consult GM preparation, played accounts, character sheets, Discord material, maps, DOCX, XML, Markdown, and other ingested evidence under the normal provenance and epistemic rules. Source evidence may supplement, qualify, or verify materialized information, but it must not silently override curator decisions, temporal state changes, or stronger established evidence.
 
 DEEP answers: **What can the repository establish when both its materialized model and relevant underlying evidence are consulted?**
+
+DEEP may follow individual chronology relations, boundaries, or temporal assertions to their preserved evidence and locators. Chronology remains derived knowledge, never an independent source authority.
 
 ## COMPARE
 

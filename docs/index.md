@@ -4,6 +4,7 @@ This directory defines how the GrandCampaign archive is maintained. Read only th
 
 - [Data model](data-model.md): record identity, file conventions, names, links, and the separation of identity, state, and events.
 - [Temporal model](temporal-model.md): intervals, uncertain time, AP, Ages, and the approved calendar.
+- [Durable chronology](../chronologies/README.md): optional campaign manifests, segments, threads, relation semantics, and local evidence; [synthetic examples](chronology-examples.md).
 - [Geography model](geography-model.md): physical hierarchy, changing political relationships, names, and location snapshots.
 - [Provenance model](provenance-model.md): raw evidence, accounts, legends, reconstructions, uncertainty, and contradiction.
 - [Read and output modes](output-modes.md): FAST materialized-only answers, DEEP source-grounded answers, and diagnostic COMPARE output.

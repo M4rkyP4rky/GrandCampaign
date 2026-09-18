@@ -82,6 +82,14 @@ Do not add a citation to every ordinary sentence when a section-level source att
 
 Do not introduce an atomic claim database, claim IDs, or another complex claim model at this stage. A more granular claim model remains possible later if representative real data demonstrates a need for it.
 
+## Chronology provenance
+
+[Durable chronology](../chronologies/README.md) is derived knowledge. Every individual temporal assertion/anchor, relation, segment boundary, participant inclusion, location inclusion, and segment/event link must carry local `basis`, `confidence`, and `sources` or a durable, identifiable `curator_clarification`. Mechanical grouping must identify its source span and explain that it is grouping rather than fictional temporal evidence. Aggregate `source_spans`, `record_sources`, and record-level `chronology_confidence` do not replace this support.
+
+Chronology must not cite itself as proof of fictional facts when preserved primary evidence exists. Do not use tmp or host filesystem paths as final provenance. Recovery JSON is restoration/audit input; after materialization the Markdown chronology is the canonical derived chronology, while primary sources retain their evidence role.
+
+Preserve competing temporal claims, including contradictions between existing `time` and optional `temporal.assertions`. No representation wins automatically. Report contradictions and route actionable interpretation through the existing curation queue; do not delete constraints merely to make a graph acyclic.
+
 ## Intentionally unresolved authority
 
 The relative authority and precedence of GM preparation and adventure modules, other raw sources, campaign accounts, traditions, and GM reconstructions has not been designed. There is no source-ranking algorithm and no automatic winner in a conflict. Questions about quotation, paraphrase, transcription correction, redaction, and competing or revised reconstructions also remain unresolved. These are explicit questions in [open-questions.md](open-questions.md); future rules require review and approval before being added to governance documentation.

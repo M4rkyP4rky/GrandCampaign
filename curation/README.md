@@ -8,6 +8,8 @@ Create a curation item when a concrete uncertainty could materially improve or c
 
 Do not create an item merely because a fact is unknown. An event with no recorded fictional date, for example, remains uncertain in its event record unless there is a concrete reason to expect that the date should or can be resolved.
 
+Chronology questions and contradictory temporal constraints use this same queue. Link relevant items from the chronology manifest, preserve all competing locally supported claims, and update affected assertions/relations when an item is resolved. There is no parallel chronology-only question system. Unique unresolved curator decisions discovered during ingestion must survive the [retention gate](../docs/ingestion.md#derived-knowledge-retention-gate).
+
 Active items live in [`open.md`](open.md). Each item uses a stable lightweight ASCII ID such as `curation-penbrok-001` and records:
 
 - status;

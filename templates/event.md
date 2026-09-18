@@ -2,6 +2,7 @@
 id: <event-stable-id>
 record_type: event
 reference_name: <event title>
+# Optional temporal.assertions and chronology_segments: see instructions below.
 time:
   description: <human-readable interval or uncertainty>
   start:
@@ -36,3 +37,30 @@ accounts:
 Sources:
 
 - [<source label>](<relative path>) — <what this source supports in this section>
+
+## Template instructions: optional chronology and assertions
+
+<Omit unsupported optional fields. Existing time remains valid without temporal.assertions; neither overrides the other and duplication is unnecessary. Consult docs/temporal-model.md and docs/chronology-examples.md before adding assertions. Remove these instructions from a persistent record.>
+
+```yaml
+temporal:
+  assertions:
+    - kind: absolute
+      property: placement
+      precision: year
+      certainty: exact-at-precision
+      value:
+        year_ap: <signed attested AP year; no default month/day>
+      basis: <what establishes this time>
+      confidence: <high | medium | low>
+      sources:
+        - source: ../sources/campaigns/<campaign-id>/<source-id>.md
+          locator: <supporting passage>
+chronology_segments:
+  - segment: ../chronologies/<campaign-id>/segments/<chronology-segment-id>.md
+    basis: <why this event belongs in the segment>
+    confidence: <high | medium | low>
+    sources:
+      - source: ../sources/campaigns/<campaign-id>/<source-id>.md
+        locator: <supporting passage>
+```

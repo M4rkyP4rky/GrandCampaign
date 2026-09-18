@@ -6,6 +6,8 @@ Do not infer answers from convenience or conversation history; record an approve
 
 ## Calendar and chronology
 
+The optional [durable chronology contract](../chronologies/README.md) and [temporal assertions](temporal-model.md#optional-temporal-assertions) are approved. They do not settle source authority, force a total order, or define new calendar identifiers.
+
 - Should the provisional structured-date precision vocabulary be finalized or revised after representative records are tested?
 - What evidence, if any, will define the boundaries of the seven Ages?
 
@@ -29,4 +31,4 @@ Do not infer answers from convenience or conversation history; record an approve
 ## Repository operations
 
 - At what repository size, if any, should Git LFS or another asset policy be considered? It is not configured now.
-- Which internal validation tools are worth implementing after the schema is approved?
+- Which additional internal validation tools are worth implementing beyond the focused [record/chronology validation](../tools/README.md)? Automatic timeline solving remains outside the current scope.

@@ -27,6 +27,8 @@ Start with [docs/index.md](docs/index.md), then read only the documentation rele
 
 - Record structure and identity: [docs/data-model.md](docs/data-model.md)
 - Dates, intervals, AP, Ages, and calendar: [docs/temporal-model.md](docs/temporal-model.md)
+- Durable chronology, segments, and threads: [chronologies/README.md](chronologies/README.md)
+- Canonical validation commands and scope: [tools/README.md](tools/README.md)
 - Locations, physical hierarchy, and political change: [docs/geography-model.md](docs/geography-model.md)
 - Evidence, accounts, contradictions, and reconstruction: [docs/provenance-model.md](docs/provenance-model.md)
 - FAST, DEEP, and COMPARE read/output behavior: [docs/output-modes.md](docs/output-modes.md)
@@ -43,5 +45,6 @@ Start with [docs/index.md](docs/index.md), then read only the documentation rele
 5. Update governing documentation when an explicitly approved model rule changes; do not rely on chat memory.
 6. During ingestion, reconsider relevant open content curation items; queue non-blocking actionable ambiguities and ask the curator immediately only when safe ingestion is materially blocked.
 7. Review `git diff` before considering any data-changing task complete.
+8. Before ingestion tmp cleanup, apply the derived-knowledge retention gate in [docs/ingestion.md](docs/ingestion.md#derived-knowledge-retention-gate). Unique source-backed derivations must be durable or explicitly classified as disposable with a recorded rationale.
 
 Do not add nested `AGENTS.md` files unless repository governance later requires them.

@@ -13,6 +13,27 @@ Ingestion is a reviewed workflow, not an implemented tool:
 9. Update affected derived records and the curation queue together. Add newly discovered actionable content uncertainties to the queue when they can safely remain unresolved; do not queue ordinary unknown facts merely because they are unknown.
 10. After successful review, move the immutable raw source and its metadata out of `sources/inbox/` to the permanent location defined in [`sources/README.md`](../sources/README.md). Update provenance links and verify the raw digest after the move.
 11. Review the complete Git diff for unsupported or insufficiently sourced facts, accidental source edits, broken relative links, manufactured precision, and curation items inconsistent with the derived records.
+12. Apply the [derived-knowledge retention gate](#derived-knowledge-retention-gate) before finalization or any tmp cleanup. Record the audit outcome durably; cleanup is blocked while unique derivations remain unaccounted for.
+
+## Story chronology reconstruction
+
+Whenever source material contains a story sequence, assess and preserve useful derived fictional chronology using the [durable chronology model](../chronologies/README.md). Build it from evidence, retain partial order and uncertainty, and never manufacture a total order. Forum posting order, letters, journals, session sequence, chat timestamps, transcript order, and mixed-source document order are source-specific reconstruction scaffolds, not automatic fictional time.
+
+Distinguish a letter's document position, fictional writing time, and narrated events; distinguish real session dates/order, fictional time, and retrospectives. Separate narrative continuity/splits/reunions from locally evidenced temporal constraints. Do not require a segment per source item, an event per segment, or chronology for sources without useful story chronology.
+
+Resolve source labels to persistent identities when later ingestion phases supply enough evidence. Support each participant inclusion, boundary, event link, temporal relation, and anchor locally. Reconsider relevant existing curation items and link actionable unresolved questions from the chronology manifest. Materialize unique source-backed chronology before finalization, even when reconstruction remains partial or disputed. Recovery JSON remains recovery/audit input, not canonical durable chronology after materialization.
+
+## Derived-knowledge retention gate
+
+Before deleting an ingestion tmp workspace, explicitly audit every artifact for **unique source-backed derived knowledge not represented in durable repository state**. This includes detailed fictional chronology, unresolved curator decisions, unique relation graphs, and temporal anchors. Raw-source preservation alone does not preserve a unique derivation.
+
+Record a concise audit in the durable ingestion/source-metadata completion notes (or the chronology method notes when appropriate): artifact/derivation inventory, durable destination and coverage, intentionally disposable items with rationale, reviewer/date, and the gate outcome. An artifact name may identify the cleanup inventory; it is not final provenance. Cite preserved sources or durable curator clarification for retained claims.
+
+If any unique derived knowledge exists, **tmp cleanup is BLOCKED** until it is either durably materialized or explicitly classified as intentionally disposable with a recorded rationale. “It is in tmp,” “raw evidence survives,” and “recovery JSON exists” are not sufficient rationales for discarding unique useful knowledge. Preserve non-blocking actionable curator questions in the existing queue; ask immediately only under the existing safe-ingestion blocking rule.
+
+Review durable coverage and links, run applicable validation, and record that the gate passed before cleanup/finalization. A workflow phase being marked complete does not bypass this gate.
+
+Use the [canonical validation commands](../tools/README.md#run): `python tools/validate.py`, `python -m unittest discover -s tools/tests -v`, and `git diff --check`. Temporary inspection helpers are noncanonical and do not replace this gate or its review of retained knowledge.
 
 ## GM preparation and adventure modules
 
